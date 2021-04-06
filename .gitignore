@@ -1,0 +1,14 @@
+_rmlmapper.jar
+_amie.jar
+_limes.jar
+
+openfoodfact/products_original.csv
+
+openfoodfact/products.ttl
+openfoodfact/categories.ttl
+openfoodfact/ingredients.ttl
+openfoodfact/countries.ttl
+openfoodfact/nutriscores.ttl
+
+openfoodfact/statements.nt
+openfoodfact/statements.tsv
