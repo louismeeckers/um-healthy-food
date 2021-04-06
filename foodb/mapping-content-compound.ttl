@@ -1,0 +1,138 @@
+@prefix ex: <http://example.org/> .
+@prefix foodbp: <http://www.w3id.org/foodb/property/>.
+@prefix ql: <http://semweb.mmlab.be/ns/ql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix schema: <https://schema.org/> .
+@prefix wiki: <https://www.wikidata.org/wiki/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@base <http://example.org/> .
+
+<TriplesMapCompoundFood>
+  a rr:TriplesMap;
+
+  rml:logicalSource [
+    rml:source "content_compound.csv" ;
+    rml:referenceFormulation ql:CSV
+  ] ;
+
+  rr:subjectMap [
+    rr:template "http://example.org/compound-food/{content_id}" ;
+    rr:class "http://association.org/compound-food"
+  ] ;
+
+  rr:predicateObjectMap [
+    rr:predicate foodbp:hasFood ;
+    rr:objectMap [ rr:template "https://foodb.ca/foods/{food_id}" ]
+  ] ;
+
+  rr:predicateObjectMap [
+    rr:predicate foodbp:hasCompound ;
+    rr:objectMap [ rr:template "https://foodb.ca/compounds/{source_id}" ]
+  ] ;
+
+  rr:predicateObjectMap [
+    rr:predicate foodbp:hasValue ;
+    rr:objectMap [ rml:reference "orig_content" ; rr:datatype xsd:decimal ]
+  ] ;
+
+  rr:predicateObjectMap [
+    rr:predicate foodbp:hasUnit ;
+    rr:objectMap [ rr:template "http://www.w3id.org/foodkg/property/hasUnit/{orig_unit}"  ]
+  ] .
+
+<TriplesMapUnitOfMeasurement>
+  a rr:TriplesMap;
+
+  rml:logicalSource [
+    rml:source "content_compound.csv" ;
+    rml:referenceFormulation ql:CSV
+  ] ;
+
+  rr:subjectMap [
+    rr:template "http://www.w3id.org/foodkg/property/hasUnit/{orig_unit}" ;
+    rr:class wiki:Q47574
+  ] .
+
+<TriplesMapFood>
+  a rr:TriplesMap;
+
+  rml:logicalSource [
+    rml:source "content_compound.csv" ;
+    rml:referenceFormulation ql:CSV
+  ] ;
+
+  rr:subjectMap [
+    rr:template "https://foodb.ca/foods/{food_id}" ;
+    rr:class wiki:Q2095
+  ] ;
+
+  rr:predicateObjectMap [
+    rr:predicate schema:name ;
+    rr:objectMap [ rr:template "https://foodb.ca/foods/foodName/{food_name}" ]
+  ] ;
+
+  rr:predicateObjectMap [
+    rr:predicate schema:identifier ;
+    rr:objectMap [ rr:template "https://foodb.ca/foods/{food_id}" ]
+  ] ;
+
+  rr:predicateObjectMap [
+    rr:predicate wiki:P361 ;
+    rr:objectMap [ rr:template "https://foodb.ca/foods/foodGroup/{food_group}" ]
+  ] .
+
+  <TriplesMapFoodGroup>
+    a rr:TriplesMap;
+
+    rml:logicalSource [
+      rml:source "content_compound.csv" ;
+      rml:referenceFormulation ql:CSV
+    ] ;
+
+    rr:subjectMap [
+      rr:template "https://foodb.ca/foods/foodGroup/{food_group}" ;
+      rr:class wiki:Q767036
+    ] .
+
+  <TriplesMapFoodSubgroup>
+    a rr:TriplesMap;
+
+    rml:logicalSource [
+      rml:source "content_compound.csv" ;
+      rml:referenceFormulation ql:CSV
+    ] ;
+
+    rr:subjectMap [
+      rr:template "https://foodb.ca/foods/foodSubgroup/{food_subgroup}" ;
+      rr:class wiki:Q11755860
+    ] ;
+
+    rr:predicateObjectMap [
+      rr:predicate wiki:Q21514624 ;
+      rr:objectMap [ rr:template "https://foodb.ca/foods/foodGroup/{food_group}" ]
+    ] .
+
+  <TriplesMapCompound>
+    a rr:TriplesMap;
+
+    rml:logicalSource [
+      rml:source "content_compound.csv" ;
+      rml:referenceFormulation ql:CSV
+    ] ;
+
+    rr:subjectMap [
+      rr:template "https://foodb.ca/compounds/{source_id}" ;
+      rr:class wiki:Q11173
+    ] ;
+
+    rr:predicateObjectMap [
+      rr:predicate schema:name ;
+      rr:objectMap [ rr:template "https://foodb.ca/compounds/compoundName/{source_name}" ]
+    ] ;
+
+    rr:predicateObjectMap [
+      rr:predicate schema:identifier ;
+      rr:objectMap [ rr:template "https://foodb.ca/compounds/{source_id}" ]
+    ] .

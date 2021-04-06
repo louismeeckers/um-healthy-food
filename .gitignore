@@ -12,3 +12,5 @@ openfoodfact/nutriscores.ttl
 
 openfoodfact/statements.nt
 openfoodfact/statements.tsv
+
+foodb/content.csv

@@ -1,0 +1,61 @@
+@prefix ex: <http://example.org/> .
+@prefix foodbp: <http://www.w3id.org/foodb/property/>.
+@prefix ql: <http://semweb.mmlab.be/ns/ql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix schema: <https://schema.org/> .
+@prefix wiki: <https://www.wikidata.org/wiki/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@base <http://example.org/> .
+
+  <TriplesMapCompound>
+    a rr:TriplesMap;
+
+    rml:logicalSource [
+      rml:source "compounds_flavor.csv" ;
+      rml:referenceFormulation ql:CSV
+    ] ;
+
+    rr:subjectMap [
+      rr:template "https://foodb.ca/compounds/{compound_id}" ;
+      rr:class wiki:Q11173
+    ] ;
+
+    rr:predicateObjectMap [
+      rr:predicate schema:name ;
+      rr:objectMap [ rr:template "https://foodb.ca/compounds/compoundName/{compound_name}" ]
+    ] ;
+
+    rr:predicateObjectMap [
+      rr:predicate schema:identifier ;
+      rr:objectMap [ rr:template "https://foodb.ca/compounds/{compound_id}" ]
+    ] ;
+
+    rr:predicateObjectMap [
+      rr:predicate foodbp:hasFlavor ;
+      rr:objectMap [ rr:template "https://foodb.ca/flavors/{flavor_id}" ]
+    ] .
+
+  <TriplesMapFlavor>
+    a rr:TriplesMap;
+
+    rml:logicalSource [
+      rml:source "compounds_flavor.csv" ;
+      rml:referenceFormulation ql:CSV
+    ] ;
+
+    rr:subjectMap [
+      rr:template "https://foodb.ca/flavors/{flavor_id}" ;
+      rr:class wiki:Q4173974
+    ] ;
+
+    rr:predicateObjectMap [
+      rr:predicate schema:name ;
+      rr:objectMap [ rr:template "https://foodb.ca/flavors/flavorsName/{flavor_name}" ]
+    ] ;
+
+    rr:predicateObjectMap [
+      rr:predicate schema:identifier ;
+      rr:objectMap [ rr:template "https://foodb.ca/flavors/{flavor_id}" ]
+    ] .
