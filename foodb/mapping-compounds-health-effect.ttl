@@ -23,13 +23,13 @@
     ] ;
 
     rr:predicateObjectMap [
-      rr:predicate schema:name ;
-      rr:objectMap [ rr:template "https://foodb.ca/compounds/compoundName/{compound_name}" ]
+      rr:predicate rdfs:label;
+      rr:objectMap [ rml:reference "compound_name" ]
     ] ;
 
     rr:predicateObjectMap [
-      rr:predicate schema:identifier ;
-      rr:objectMap [ rr:template "https://foodb.ca/compounds/{compound_id}" ]
+      rr:predicate schema:identifier;
+      rr:objectMap [ rml:reference "compound_id" ; rr:datatype xsd:integer ]
     ] ;
 
     rr:predicateObjectMap [
@@ -51,11 +51,11 @@
     ] ;
 
     rr:predicateObjectMap [
-      rr:predicate schema:name ;
-      rr:objectMap [ rr:template "https://foodb.ca/healtheffects/healthEffectName/{health_effect_name}" ]
+      rr:predicate rdfs:label;
+      rr:objectMap [ rml:reference "health_effect_name" ]
     ] ;
 
     rr:predicateObjectMap [
-      rr:predicate schema:identifier ;
-      rr:objectMap [ rr:template "https://foodb.ca/healtheffects/{health_effect_id}" ]
+      rr:predicate schema:identifier;
+      rr:objectMap [ rml:reference "health_effect_id" ; rr:datatype xsd:integer ]
     ] .

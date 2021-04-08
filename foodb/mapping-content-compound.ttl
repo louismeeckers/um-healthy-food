@@ -69,13 +69,13 @@
   ] ;
 
   rr:predicateObjectMap [
-    rr:predicate schema:name ;
-    rr:objectMap [ rr:template "https://foodb.ca/foods/foodName/{food_name}" ]
+    rr:predicate rdfs:label;
+    rr:objectMap [ rml:reference "food_name" ]
   ] ;
 
   rr:predicateObjectMap [
-    rr:predicate schema:identifier ;
-    rr:objectMap [ rr:template "https://foodb.ca/foods/{food_id}" ]
+    rr:predicate schema:identifier;
+    rr:objectMap [ rml:reference "food_id" ; rr:datatype xsd:integer ]
   ] ;
 
   rr:predicateObjectMap [
@@ -128,11 +128,11 @@
     ] ;
 
     rr:predicateObjectMap [
-      rr:predicate schema:name ;
-      rr:objectMap [ rr:template "https://foodb.ca/compounds/compoundName/{source_name}" ]
+      rr:predicate rdfs:label;
+      rr:objectMap [ rml:reference "source_name" ]
     ] ;
 
     rr:predicateObjectMap [
-      rr:predicate schema:identifier ;
-      rr:objectMap [ rr:template "https://foodb.ca/compounds/{source_id}" ]
+      rr:predicate schema:identifier;
+      rr:objectMap [ rml:reference "source_id" ; rr:datatype xsd:integer ]
     ] .
