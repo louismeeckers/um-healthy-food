@@ -81,6 +81,16 @@
   rr:predicateObjectMap [
     rr:predicate wiki:P361 ;
     rr:objectMap [ rr:template "https://foodb.ca/foods/foodGroup/{food_group}" ]
+  ] ;
+
+  rr:predicateObjectMap [
+    rr:predicate foodbp:hasNutriScoreValue ;
+    rr:objectMap [ rml:reference "nutri_score" ]
+  ] ;
+
+  rr:predicateObjectMap [
+    rr:predicate foodbp:hasNutriScore ;
+    rr:objectMap [ rml:reference "nutri_score_category" ]
   ] .
 
   <TriplesMapFoodGroup>
