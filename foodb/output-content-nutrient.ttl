@@ -54765,15 +54765,15 @@
 
 <https://foodb.ca/foods/101> a wiki:Q2095;
   rdfs:label "Flaxseed";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "14";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "10";
   schema:identifier 101;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/1019> a wiki:Q2095;
   rdfs:label "White bread";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "9";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "14";
   schema:identifier 1019;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
@@ -54801,7 +54801,7 @@
 <https://foodb.ca/foods/106> a wiki:Q2095;
   rdfs:label "Mango";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "2";
+  foodbp:hasNutriScoreValue "1";
   schema:identifier 106;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
@@ -54815,21 +54815,21 @@
 <https://foodb.ca/foods/11> a wiki:Q2095;
   rdfs:label "Cashew nut";
   foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "15";
+  foodbp:hasNutriScoreValue "14";
   schema:identifier 11;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Nuts> .
 
 <https://foodb.ca/foods/112> a wiki:Q2095;
   rdfs:label "Spearmint";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-6";
+  foodbp:hasNutriScoreValue "-7";
   schema:identifier 112;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/113> a wiki:Q2095;
   rdfs:label "Peppermint";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-4";
+  foodbp:hasNutriScoreValue "-6";
   schema:identifier 113;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -54843,21 +54843,21 @@
 <https://foodb.ca/foods/117> a wiki:Q2095;
   rdfs:label "Black mulberry";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 117;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/118> a wiki:Q2095;
   rdfs:label "Nutmeg";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "14";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "9";
   schema:identifier 118;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/119> a wiki:Q2095;
   rdfs:label "Sweet basil";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "6";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 119;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -54870,8 +54870,8 @@
 
 <https://foodb.ca/foods/120> a wiki:Q2095;
   rdfs:label "Evening primrose";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "5";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 120;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -54885,21 +54885,21 @@
 <https://foodb.ca/foods/122> a wiki:Q2095;
   rdfs:label "Sweet marjoram";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "10";
+  foodbp:hasNutriScoreValue "4";
   schema:identifier 122;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/124> a wiki:Q2095;
   rdfs:label "Common oregano";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "7";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "2";
   schema:identifier 124;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/125> a wiki:Q2095;
   rdfs:label "Rice";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "10";
+  foodbp:hasNutriScoreValue "5";
   schema:identifier 125;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
@@ -54913,21 +54913,21 @@
 <https://foodb.ca/foods/127> a wiki:Q2095;
   rdfs:label "Poppy";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "9";
+  foodbp:hasNutriScoreValue "6";
   schema:identifier 127;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/128> a wiki:Q2095;
   rdfs:label "Passion fruit";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-3";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 128;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/129> a wiki:Q2095;
   rdfs:label "Parsnip";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-3";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 129;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -54941,28 +54941,28 @@
 <https://foodb.ca/foods/130> a wiki:Q2095;
   rdfs:label "Avocado";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "7";
+  foodbp:hasNutriScoreValue "6";
   schema:identifier 130;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/131> a wiki:Q2095;
   rdfs:label "Parsley";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-4";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 131;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/132> a wiki:Q2095;
   rdfs:label "Scarlet bean";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "3";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 132;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Pulses> .
 
 <https://foodb.ca/foods/133> a wiki:Q2095;
   rdfs:label "Lima bean";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-4";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 133;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Pulses> .
 
@@ -54983,21 +54983,21 @@
 <https://foodb.ca/foods/137> a wiki:Q2095;
   rdfs:label "Anise";
   foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "14";
+  foodbp:hasNutriScoreValue "11";
   schema:identifier 137;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/138> a wiki:Q2095;
   rdfs:label "Pine nut";
   foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "12";
+  foodbp:hasNutriScoreValue "11";
   schema:identifier 138;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Nuts> .
 
 <https://foodb.ca/foods/139> a wiki:Q2095;
   rdfs:label "Pepper (Spice)";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "5";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 139;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -55011,14 +55011,14 @@
 <https://foodb.ca/foods/140> a wiki:Q2095;
   rdfs:label "Pistachio";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "10";
+  foodbp:hasNutriScoreValue "8";
   schema:identifier 140;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Nuts> .
 
 <https://foodb.ca/foods/141> a wiki:Q2095;
   rdfs:label "Common pea";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-7";
+  foodbp:hasNutriScoreValue "-6";
   schema:identifier 141;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Pulses> .
 
@@ -55039,7 +55039,7 @@
 <https://foodb.ca/foods/144> a wiki:Q2095;
   rdfs:label "Apricot";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "2";
+  foodbp:hasNutriScoreValue "1";
   schema:identifier 144;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
@@ -55067,7 +55067,7 @@
 <https://foodb.ca/foods/148> a wiki:Q2095;
   rdfs:label "Almond";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "10";
+  foodbp:hasNutriScoreValue "8";
   schema:identifier 148;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Nuts> .
 
@@ -55088,7 +55088,7 @@
 <https://foodb.ca/foods/150> a wiki:Q2095;
   rdfs:label "Guava";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-4";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 150;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
@@ -55102,7 +55102,7 @@
 <https://foodb.ca/foods/152> a wiki:Q2095;
   rdfs:label "Pear";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 152;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
@@ -55137,7 +55137,7 @@
 <https://foodb.ca/foods/157> a wiki:Q2095;
   rdfs:label "Gooseberry";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-2";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 157;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
@@ -55150,15 +55150,15 @@
 
 <https://foodb.ca/foods/159> a wiki:Q2095;
   rdfs:label "Rosemary";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "16";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "10";
   schema:identifier 159;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/16> a wiki:Q2095;
   rdfs:label "Peanut";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "8";
+  foodbp:hasNutriScoreValue "7";
   schema:identifier 16;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Nuts> .
 
@@ -55171,15 +55171,15 @@
 
 <https://foodb.ca/foods/161> a wiki:Q2095;
   rdfs:label "Cloudberry";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "0";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 161;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/162> a wiki:Q2095;
   rdfs:label "Red raspberry";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "3";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "2";
   schema:identifier 162;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
@@ -55192,8 +55192,8 @@
 
 <https://foodb.ca/foods/165> a wiki:Q2095;
   rdfs:label "Common sage";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "13";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "7";
   schema:identifier 165;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -55207,7 +55207,7 @@
 <https://foodb.ca/foods/167> a wiki:Q2095;
   rdfs:label "Summer savory";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "9";
+  foodbp:hasNutriScoreValue "4";
   schema:identifier 167;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -55227,8 +55227,8 @@
 
 <https://foodb.ca/foods/170> a wiki:Q2095;
   rdfs:label "Sesame";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "11";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "10";
   schema:identifier 170;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -55241,8 +55241,8 @@
 
 <https://foodb.ca/foods/173> a wiki:Q2095;
   rdfs:label "Garden tomato (var.)";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "4";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 173;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -55255,8 +55255,8 @@
 
 <https://foodb.ca/foods/175> a wiki:Q2095;
   rdfs:label "Potato";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "16";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "21";
   schema:identifier 175;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -55284,7 +55284,7 @@
 <https://foodb.ca/foods/18> a wiki:Q2095;
   rdfs:label "Horseradish";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-6";
+  foodbp:hasNutriScoreValue "-7";
   schema:identifier 18;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -55298,35 +55298,35 @@
 <https://foodb.ca/foods/181> a wiki:Q2095;
   rdfs:label "Dandelion";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-1";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 181;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/182> a wiki:Q2095;
   rdfs:label "Cocoa bean";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "9";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 182;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cocoa%20and%20cocoa%20products> .
 
 <https://foodb.ca/foods/183> a wiki:Q2095;
   rdfs:label "Common thyme";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "10";
+  foodbp:hasNutriScoreValue "5";
   schema:identifier 183;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/184> a wiki:Q2095;
   rdfs:label "Linden";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "6";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 184;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/186> a wiki:Q2095;
   rdfs:label "Fenugreek";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "10";
+  foodbp:hasNutriScoreValue "7";
   schema:identifier 186;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -55347,21 +55347,21 @@
 <https://foodb.ca/foods/19> a wiki:Q2095;
   rdfs:label "Tarragon";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "10";
+  foodbp:hasNutriScoreValue "9";
   schema:identifier 19;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/191> a wiki:Q2095;
   rdfs:label "Highbush blueberry";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "9";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 191;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/192> a wiki:Q2095;
   rdfs:label "American cranberry";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-2";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 192;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
@@ -55375,35 +55375,35 @@
 <https://foodb.ca/foods/194> a wiki:Q2095;
   rdfs:label "Lingonberry";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "7";
+  foodbp:hasNutriScoreValue "6";
   schema:identifier 194;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/195> a wiki:Q2095;
   rdfs:label "Vanilla";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "2";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 195;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/197> a wiki:Q2095;
   rdfs:label "Broad bean";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-6";
   schema:identifier 197;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Pulses> .
 
 <https://foodb.ca/foods/198> a wiki:Q2095;
   rdfs:label "Adzuki bean";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-6";
   schema:identifier 198;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Pulses> .
 
 <https://foodb.ca/foods/199> a wiki:Q2095;
   rdfs:label "Gram bean";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "5";
+  foodbp:hasNutriScoreValue "4";
   schema:identifier 199;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Pulses> .
 
@@ -55417,7 +55417,7 @@
 <https://foodb.ca/foods/20> a wiki:Q2095;
   rdfs:label "Mugwort";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-1";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 20;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -55431,14 +55431,14 @@
 <https://foodb.ca/foods/202> a wiki:Q2095;
   rdfs:label "Cowpea";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-3";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 202;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Pulses> .
 
 <https://foodb.ca/foods/203> a wiki:Q2095;
   rdfs:label "Muscadine grape";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-1";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 203;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
@@ -55521,29 +55521,29 @@
 
 <https://foodb.ca/foods/237> a wiki:Q2095;
   rdfs:label "Swiss chard";
-  foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-2";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 237;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/24> a wiki:Q2095;
   rdfs:label "Brazil nut";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "9";
+  foodbp:hasNutriScoreValue "8";
   schema:identifier 24;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Nuts> .
 
 <https://foodb.ca/foods/241> a wiki:Q2095;
   rdfs:label "Welsh onion";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-2";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 241;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/242> a wiki:Q2095;
   rdfs:label "Hard wheat";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "7";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 242;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
@@ -55571,7 +55571,7 @@
 <https://foodb.ca/foods/247> a wiki:Q2095;
   rdfs:label "Black cabbage";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-3";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 247;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -55585,7 +55585,7 @@
 <https://foodb.ca/foods/25> a wiki:Q2095;
   rdfs:label "Common beet";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-1";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 25;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -55627,49 +55627,49 @@
 <https://foodb.ca/foods/264> a wiki:Q2095;
   rdfs:label "Red beetroot";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "0";
+  foodbp:hasNutriScoreValue "2";
   schema:identifier 264;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/268> a wiki:Q2095;
   rdfs:label "Beer";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 268;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Beverages> .
 
 <https://foodb.ca/foods/269> a wiki:Q2095;
   rdfs:label "Other bread";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "7";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "12";
   schema:identifier 269;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
 <https://foodb.ca/foods/27> a wiki:Q2095;
   rdfs:label "Chinese mustard";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-3";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 27;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/270> a wiki:Q2095;
   rdfs:label "Breakfast cereal";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "10";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "11";
   schema:identifier 270;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
 <https://foodb.ca/foods/272> a wiki:Q2095;
   rdfs:label "Other soy product";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-4";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 272;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Soy> .
 
 <https://foodb.ca/foods/273> a wiki:Q2095;
   rdfs:label "Other cereal product";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "3";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "2";
   schema:identifier 273;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
@@ -55682,8 +55682,8 @@
 
 <https://foodb.ca/foods/275> a wiki:Q2095;
   rdfs:label "Biscuit";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "18";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "22";
   schema:identifier 275;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
@@ -55704,21 +55704,21 @@
 <https://foodb.ca/foods/28> a wiki:Q2095;
   rdfs:label "Swede";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-2";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 28;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/280> a wiki:Q2095;
   rdfs:label "Abalone";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-4";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 280;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/281> a wiki:Q2095;
   rdfs:label "Abiyuch";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-2";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 281;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
@@ -55731,15 +55731,15 @@
 
 <https://foodb.ca/foods/283> a wiki:Q2095;
   rdfs:label "Acorn";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "16";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 283;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Nuts> .
 
 <https://foodb.ca/foods/284> a wiki:Q2095;
   rdfs:label "Winter squash";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 284;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Gourds> .
 
@@ -55752,15 +55752,15 @@
 
 <https://foodb.ca/foods/286> a wiki:Q2095;
   rdfs:label "Red king crab";
-  foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "4";
   schema:identifier 286;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/287> a wiki:Q2095;
   rdfs:label "Alfalfa";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "12";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "10";
   schema:identifier 287;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -55787,8 +55787,8 @@
 
 <https://foodb.ca/foods/290> a wiki:Q2095;
   rdfs:label "Arrowhead";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 290;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -55802,14 +55802,14 @@
 <https://foodb.ca/foods/292> a wiki:Q2095;
   rdfs:label "Asian pear";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-1";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 292;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/293> a wiki:Q2095;
   rdfs:label "Atlantic herring";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "6";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 293;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -55823,7 +55823,7 @@
 <https://foodb.ca/foods/295> a wiki:Q2095;
   rdfs:label "Painted comber";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 295;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -55837,7 +55837,7 @@
 <https://foodb.ca/foods/297> a wiki:Q2095;
   rdfs:label "Atlantic wolffish";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 297;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -55857,22 +55857,22 @@
 
 <https://foodb.ca/foods/30> a wiki:Q2095;
   rdfs:label "Common cabbage";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "4";
   schema:identifier 30;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/301> a wiki:Q2095;
   rdfs:label "Beech nut";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "14";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 301;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Nuts> .
 
 <https://foodb.ca/foods/302> a wiki:Q2095;
   rdfs:label "Beluga whale";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "0";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 302;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -55893,14 +55893,14 @@
 <https://foodb.ca/foods/306> a wiki:Q2095;
   rdfs:label "Blue crab";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-4";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 306;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/307> a wiki:Q2095;
   rdfs:label "Blue mussel";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-3";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 307;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -55935,14 +55935,14 @@
 <https://foodb.ca/foods/312> a wiki:Q2095;
   rdfs:label "Breadfruit";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "2";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 312;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/313> a wiki:Q2095;
   rdfs:label "Breadnut tree seed";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "4";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "1";
   schema:identifier 313;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -55977,14 +55977,14 @@
 <https://foodb.ca/foods/32> a wiki:Q2095;
   rdfs:label "Brussel sprouts";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-6";
   schema:identifier 32;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/320> a wiki:Q2095;
   rdfs:label "Butternut";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "10";
+  foodbp:hasNutriScoreValue "9";
   schema:identifier 320;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Nuts> .
 
@@ -56004,15 +56004,15 @@
 
 <https://foodb.ca/foods/323> a wiki:Q2095;
   rdfs:label "Cardoon";
-  foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-1";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 323;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/325> a wiki:Q2095;
   rdfs:label "Natal plum";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "4";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 325;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
@@ -56033,7 +56033,7 @@
 <https://foodb.ca/foods/328> a wiki:Q2095;
   rdfs:label "Cassava";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "8";
+  foodbp:hasNutriScoreValue "7";
   schema:identifier 328;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -56060,8 +56060,8 @@
 
 <https://foodb.ca/foods/331> a wiki:Q2095;
   rdfs:label "Cherimoya";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "0";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 331;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
@@ -56074,8 +56074,8 @@
 
 <https://foodb.ca/foods/333> a wiki:Q2095;
   rdfs:label "Chia";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "15";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "7";
   schema:identifier 333;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -56095,22 +56095,22 @@
 
 <https://foodb.ca/foods/336> a wiki:Q2095;
   rdfs:label "Chinese chestnut";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "9";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 336;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Nuts> .
 
 <https://foodb.ca/foods/337> a wiki:Q2095;
   rdfs:label "Chinese water chestnut";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "3";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "2";
   schema:identifier 337;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/338> a wiki:Q2095;
   rdfs:label "Garland chrysanthemum";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 338;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -56131,21 +56131,21 @@
 <https://foodb.ca/foods/340> a wiki:Q2095;
   rdfs:label "Nuttall cockle";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-4";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 340;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/341> a wiki:Q2095;
   rdfs:label "Coconut";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "12";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "10";
   schema:identifier 341;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/342> a wiki:Q2095;
   rdfs:label "Pacific cod";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 342;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -56159,7 +56159,7 @@
 <https://foodb.ca/foods/344> a wiki:Q2095;
   rdfs:label "Common octopus";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 344;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -56173,7 +56173,7 @@
 <https://foodb.ca/foods/346> a wiki:Q2095;
   rdfs:label "Cottonseed";
   foodbp:hasNutriScore "E";
-  foodbp:hasNutriScoreValue "21";
+  foodbp:hasNutriScoreValue "20";
   schema:identifier 346;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -56194,7 +56194,7 @@
 <https://foodb.ca/foods/349> a wiki:Q2095;
   rdfs:label "Squashberry";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-3";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 349;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
@@ -56222,7 +56222,7 @@
 <https://foodb.ca/foods/352> a wiki:Q2095;
   rdfs:label "Cuttlefish";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 352;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -56257,28 +56257,28 @@
 <https://foodb.ca/foods/359> a wiki:Q2095;
   rdfs:label "Dungeness crab";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 359;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/36> a wiki:Q2095;
   rdfs:label "Turnip";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-1";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 36;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/360> a wiki:Q2095;
   rdfs:label "Durian";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "8";
+  foodbp:hasNutriScoreValue "7";
   schema:identifier 360;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/361> a wiki:Q2095;
   rdfs:label "Eastern oyster";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-2";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 361;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -56292,28 +56292,28 @@
 <https://foodb.ca/foods/363> a wiki:Q2095;
   rdfs:label "Elderberry";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "6";
+  foodbp:hasNutriScoreValue "4";
   schema:identifier 363;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/366> a wiki:Q2095;
   rdfs:label "Oregon yampah";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "6";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 366;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/367> a wiki:Q2095;
   rdfs:label "European anchovy";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 367;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/368> a wiki:Q2095;
   rdfs:label "European chestnut";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "8";
+  foodbp:hasNutriScoreValue "6";
   schema:identifier 368;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Nuts> .
 
@@ -56327,14 +56327,14 @@
 <https://foodb.ca/foods/37> a wiki:Q2095;
   rdfs:label "Pigeon pea";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-2";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 37;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Pulses> .
 
 <https://foodb.ca/foods/370> a wiki:Q2095;
   rdfs:label "Fireweed";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "0";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 370;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -56347,8 +56347,8 @@
 
 <https://foodb.ca/foods/372> a wiki:Q2095;
   rdfs:label "Ginkgo nuts";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "4";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "2";
   schema:identifier 372;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -56361,15 +56361,15 @@
 
 <https://foodb.ca/foods/375> a wiki:Q2095;
   rdfs:label "Greenland halibut/turbot";
-  foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "5";
   schema:identifier 375;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/376> a wiki:Q2095;
   rdfs:label "Groundcherry";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-3";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 376;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -56389,36 +56389,36 @@
 
 <https://foodb.ca/foods/379> a wiki:Q2095;
   rdfs:label "Haddock";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "6";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "11";
   schema:identifier 379;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/38> a wiki:Q2095;
   rdfs:label "Tea";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-6";
+  foodbp:hasNutriScoreValue "-7";
   schema:identifier 38;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Teas> .
 
 <https://foodb.ca/foods/380> a wiki:Q2095;
   rdfs:label "Hippoglossus (Common halibut)";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-4";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 380;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/381> a wiki:Q2095;
   rdfs:label "Hazelnut";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "11";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "9";
   schema:identifier 381;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Nuts> .
 
 <https://foodb.ca/foods/382> a wiki:Q2095;
   rdfs:label "Hickory nut";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "12";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "10";
   schema:identifier 382;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Nuts> .
 
@@ -56431,15 +56431,15 @@
 
 <https://foodb.ca/foods/385> a wiki:Q2095;
   rdfs:label "Alaska blueberry";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "0";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 385;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/386> a wiki:Q2095;
   rdfs:label "Hyacinth bean";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-2";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 386;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Pulses> .
 
@@ -56453,56 +56453,56 @@
 <https://foodb.ca/foods/388> a wiki:Q2095;
   rdfs:label "Pacific jack mackerel";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 388;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/389> a wiki:Q2095;
   rdfs:label "Jackfruit";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "4";
+  foodbp:hasNutriScoreValue "3";
   schema:identifier 389;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/39> a wiki:Q2095;
   rdfs:label "Capers";
-  foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-3";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "6";
   schema:identifier 39;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/390> a wiki:Q2095;
   rdfs:label "Japanese chestnut";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "8";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 390;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Nuts> .
 
 <https://foodb.ca/foods/391> a wiki:Q2095;
   rdfs:label "Java plum";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "3";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 391;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/392> a wiki:Q2095;
   rdfs:label "Jerusalem artichoke";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-1";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 392;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/393> a wiki:Q2095;
   rdfs:label "Jujube";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "4";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 393;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/394> a wiki:Q2095;
   rdfs:label "Jute";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-3";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 394;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -56516,42 +56516,42 @@
 <https://foodb.ca/foods/396> a wiki:Q2095;
   rdfs:label "Kelp";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "0";
+  foodbp:hasNutriScoreValue "1";
   schema:identifier 396;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/397> a wiki:Q2095;
   rdfs:label "King mackerel";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 397;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/398> a wiki:Q2095;
   rdfs:label "Kumquat";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-1";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 398;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/399> a wiki:Q2095;
   rdfs:label "Lambsquarters";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-6";
   schema:identifier 399;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/4> a wiki:Q2095;
   rdfs:label "Kiwi";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "0";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 4;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/40> a wiki:Q2095;
   rdfs:label "Pepper";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "0";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "9";
   schema:identifier 40;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -56565,56 +56565,56 @@
 <https://foodb.ca/foods/401> a wiki:Q2095;
   rdfs:label "Wild leek";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "2";
+  foodbp:hasNutriScoreValue "1";
   schema:identifier 401;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/402> a wiki:Q2095;
   rdfs:label "Common ling";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 402;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/403> a wiki:Q2095;
   rdfs:label "Lingcod";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-3";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 403;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/404> a wiki:Q2095;
   rdfs:label "American lobster";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 404;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/405> a wiki:Q2095;
   rdfs:label "Loganberry";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-4";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 405;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/406> a wiki:Q2095;
   rdfs:label "Lotus";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "6";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 406;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/407> a wiki:Q2095;
   rdfs:label "Sacred lotus";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-3";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 407;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/408> a wiki:Q2095;
   rdfs:label "White lupine";
   foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "15";
+  foodbp:hasNutriScoreValue "14";
   schema:identifier 408;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Pulses> .
 
@@ -56627,8 +56627,8 @@
 
 <https://foodb.ca/foods/41> a wiki:Q2095;
   rdfs:label "Papaya";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "0";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 41;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
@@ -56648,8 +56648,8 @@
 
 <https://foodb.ca/foods/412> a wiki:Q2095;
   rdfs:label "Alpine sweetvetch";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "4";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 412;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -56669,15 +56669,15 @@
 
 <https://foodb.ca/foods/416> a wiki:Q2095;
   rdfs:label "Moth bean";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "6";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 416;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Pulses> .
 
 <https://foodb.ca/foods/417> a wiki:Q2095;
   rdfs:label "Mountain yam";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "3";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 417;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -56690,15 +56690,15 @@
 
 <https://foodb.ca/foods/42> a wiki:Q2095;
   rdfs:label "Safflower";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "12";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 42;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/420> a wiki:Q2095;
   rdfs:label "White mustard";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "12";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "9";
   schema:identifier 420;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -56711,8 +56711,8 @@
 
 <https://foodb.ca/foods/422> a wiki:Q2095;
   rdfs:label "New Zealand spinach";
-  foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-1";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 422;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -56740,7 +56740,7 @@
 <https://foodb.ca/foods/426> a wiki:Q2095;
   rdfs:label "Ohelo berry";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 426;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
@@ -56760,8 +56760,8 @@
 
 <https://foodb.ca/foods/43> a wiki:Q2095;
   rdfs:label "Caraway";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "14";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "6";
   schema:identifier 43;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -56781,15 +56781,15 @@
 
 <https://foodb.ca/foods/432> a wiki:Q2095;
   rdfs:label "Pacific herring";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "5";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 432;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/433> a wiki:Q2095;
   rdfs:label "Pacific oyster";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-2";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 433;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -56802,15 +56802,15 @@
 
 <https://foodb.ca/foods/436> a wiki:Q2095;
   rdfs:label "Pepper (C. frutescens)";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "5";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 436;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/437> a wiki:Q2095;
   rdfs:label "Common persimmon";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "7";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 437;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
@@ -56824,7 +56824,7 @@
 <https://foodb.ca/foods/439> a wiki:Q2095;
   rdfs:label "Northern pike";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-4";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 439;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -56837,29 +56837,29 @@
 
 <https://foodb.ca/foods/440> a wiki:Q2095;
   rdfs:label "Pili nut";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "5";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 440;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Nuts> .
 
 <https://foodb.ca/foods/441> a wiki:Q2095;
   rdfs:label "Colorado pinyon";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "11";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "8";
   schema:identifier 441;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Nuts> .
 
 <https://foodb.ca/foods/442> a wiki:Q2095;
   rdfs:label "Pitanga";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 442;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/443> a wiki:Q2095;
   rdfs:label "Plains prickly pear";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-3";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 443;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
@@ -56879,29 +56879,29 @@
 
 <https://foodb.ca/foods/447> a wiki:Q2095;
   rdfs:label "Opium poppy";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "12";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "7";
   schema:identifier 447;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/448> a wiki:Q2095;
   rdfs:label "Prairie turnip";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "2";
+  foodbp:hasNutriScoreValue "1";
   schema:identifier 448;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/449> a wiki:Q2095;
   rdfs:label "Prickly pear";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-2";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 449;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/45> a wiki:Q2095;
   rdfs:label "Chestnut";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "5";
+  foodbp:hasNutriScoreValue "4";
   schema:identifier 45;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Nuts> .
 
@@ -56935,15 +56935,15 @@
 
 <https://foodb.ca/foods/456> a wiki:Q2095;
   rdfs:label "Rose hip";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "6";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 456;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/457> a wiki:Q2095;
   rdfs:label "Roselle";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "2";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 457;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -56963,8 +56963,8 @@
 
 <https://foodb.ca/foods/46> a wiki:Q2095;
   rdfs:label "Roman camomile";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "5";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 46;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -56992,14 +56992,14 @@
 <https://foodb.ca/foods/463> a wiki:Q2095;
   rdfs:label "Sockeye salmon";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 463;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/464> a wiki:Q2095;
   rdfs:label "Chinook salmon";
-  foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-1";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "3";
   schema:identifier 464;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -57013,35 +57013,35 @@
 <https://foodb.ca/foods/466> a wiki:Q2095;
   rdfs:label "Salmonberry";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 466;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/467> a wiki:Q2095;
   rdfs:label "Common salsify";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "0";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 467;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/468> a wiki:Q2095;
   rdfs:label "Sapodilla";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 468;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/469> a wiki:Q2095;
   rdfs:label "Mamey sapote";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "3";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "1";
   schema:identifier 469;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/47> a wiki:Q2095;
   rdfs:label "Chickpea";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "10";
+  foodbp:hasNutriScoreValue "8";
   schema:identifier 47;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Pulses> .
 
@@ -57054,15 +57054,15 @@
 
 <https://foodb.ca/foods/471> a wiki:Q2095;
   rdfs:label "Pacific sardine";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "7";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "11";
   schema:identifier 471;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/472> a wiki:Q2095;
   rdfs:label "Scallop";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 472;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -57083,21 +57083,21 @@
 <https://foodb.ca/foods/475> a wiki:Q2095;
   rdfs:label "Steller sea lion";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-1";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 475;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/476> a wiki:Q2095;
   rdfs:label "Bearded seal";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 476;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/477> a wiki:Q2095;
   rdfs:label "Ringed seal";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-2";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 477;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -57111,7 +57111,7 @@
 <https://foodb.ca/foods/479> a wiki:Q2095;
   rdfs:label "Sesbania flower";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 479;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -57131,8 +57131,8 @@
 
 <https://foodb.ca/foods/481> a wiki:Q2095;
   rdfs:label "Shark";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "0";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 481;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -57159,8 +57159,8 @@
 
 <https://foodb.ca/foods/485> a wiki:Q2095;
   rdfs:label "Hedge mustard";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "9";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 485;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -57202,7 +57202,7 @@
 <https://foodb.ca/foods/490> a wiki:Q2095;
   rdfs:label "Spirulina";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-6";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 490;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -57216,7 +57216,7 @@
 <https://foodb.ca/foods/493> a wiki:Q2095;
   rdfs:label "Strawberry guava";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-2";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 493;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
@@ -57237,7 +57237,7 @@
 <https://foodb.ca/foods/496> a wiki:Q2095;
   rdfs:label "Sugar apple";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 496;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
@@ -57258,7 +57258,7 @@
 <https://foodb.ca/foods/499> a wiki:Q2095;
   rdfs:label "Taro";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "7";
+  foodbp:hasNutriScoreValue "6";
   schema:identifier 499;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -57272,7 +57272,7 @@
 <https://foodb.ca/foods/50> a wiki:Q2095;
   rdfs:label "Chinese cinnamon";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "7";
+  foodbp:hasNutriScoreValue "3";
   schema:identifier 50;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -57293,7 +57293,7 @@
 <https://foodb.ca/foods/502> a wiki:Q2095;
   rdfs:label "Mexican groundcherry";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 502;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -57306,22 +57306,22 @@
 
 <https://foodb.ca/foods/504> a wiki:Q2095;
   rdfs:label "Salmonidae (Salmon, Trout)";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "3";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "1";
   schema:identifier 504;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/505> a wiki:Q2095;
   rdfs:label "Turkey";
-  foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-4";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "4";
   schema:identifier 505;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Animal%20foods> .
 
 <https://foodb.ca/foods/506> a wiki:Q2095;
   rdfs:label "Cattle (Beef, Veal)";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "8";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "14";
   schema:identifier 506;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Animal%20foods> .
 
@@ -57335,14 +57335,14 @@
 <https://foodb.ca/foods/508> a wiki:Q2095;
   rdfs:label "Alaska pollock";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 508;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/509> a wiki:Q2095;
   rdfs:label "Wasabi";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-1";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 509;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -57356,28 +57356,28 @@
 <https://foodb.ca/foods/510> a wiki:Q2095;
   rdfs:label "Wax gourd";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-3";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 510;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Gourds> .
 
 <https://foodb.ca/foods/511> a wiki:Q2095;
   rdfs:label "Whelk";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-4";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 511;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/513> a wiki:Q2095;
   rdfs:label "Broad whitefish";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "0";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 513;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/514> a wiki:Q2095;
   rdfs:label "Whitefish";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-2";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 514;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -57397,8 +57397,8 @@
 
 <https://foodb.ca/foods/517> a wiki:Q2095;
   rdfs:label "Tea leaf willow";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "10";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 517;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -57412,7 +57412,7 @@
 <https://foodb.ca/foods/519> a wiki:Q2095;
   rdfs:label "Yam";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "2";
+  foodbp:hasNutriScoreValue "1";
   schema:identifier 519;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -57426,14 +57426,14 @@
 <https://foodb.ca/foods/520> a wiki:Q2095;
   rdfs:label "Jicama";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-4";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 520;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/521> a wiki:Q2095;
   rdfs:label "Yautia";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "5";
+  foodbp:hasNutriScoreValue "4";
   schema:identifier 521;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -57461,7 +57461,7 @@
 <https://foodb.ca/foods/525> a wiki:Q2095;
   rdfs:label "Albacore tuna";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 525;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -57496,14 +57496,14 @@
 <https://foodb.ca/foods/530> a wiki:Q2095;
   rdfs:label "Smelt";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 530;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/531> a wiki:Q2095;
   rdfs:label "Clupeinae (Herring, Sardine, Sprat)";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "9";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "16";
   schema:identifier 531;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -57516,15 +57516,15 @@
 
 <https://foodb.ca/foods/533> a wiki:Q2095;
   rdfs:label "Snow crab";
-  foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 533;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/534> a wiki:Q2095;
   rdfs:label "Black-eyed pea";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-1";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 534;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Pulses> .
 
@@ -57537,8 +57537,8 @@
 
 <https://foodb.ca/foods/536> a wiki:Q2095;
   rdfs:label "Macadamia nut";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "12";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "10";
   schema:identifier 536;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Nuts> .
 
@@ -57559,7 +57559,7 @@
 <https://foodb.ca/foods/54> a wiki:Q2095;
   rdfs:label "Lemon";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-4";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 54;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
@@ -57586,29 +57586,29 @@
 
 <https://foodb.ca/foods/544> a wiki:Q2095;
   rdfs:label "Bivalvia (Clam, Mussel, Oyster)";
-  foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "1";
   schema:identifier 544;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/545> a wiki:Q2095;
   rdfs:label "Squid";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-4";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 545;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/546> a wiki:Q2095;
   rdfs:label "Shrimp";
-  foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-4";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "2";
   schema:identifier 546;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/547> a wiki:Q2095;
   rdfs:label "Crayfish";
-  foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "5";
   schema:identifier 547;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -57621,29 +57621,29 @@
 
 <https://foodb.ca/foods/549> a wiki:Q2095;
   rdfs:label "Domestic pig";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "12";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "22";
   schema:identifier 549;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Animal%20foods> .
 
 <https://foodb.ca/foods/55> a wiki:Q2095;
   rdfs:label "Pummelo";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 55;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/550> a wiki:Q2095;
   rdfs:label "Walrus";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-3";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 550;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/551> a wiki:Q2095;
   rdfs:label "Alaska wild rhubarb";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "0";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 551;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -57657,7 +57657,7 @@
 <https://foodb.ca/foods/553> a wiki:Q2095;
   rdfs:label "Yardlong bean";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-6";
   schema:identifier 553;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Pulses> .
 
@@ -57677,36 +57677,36 @@
 
 <https://foodb.ca/foods/557> a wiki:Q2095;
   rdfs:label "Persian lime";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "0";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 557;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/558> a wiki:Q2095;
   rdfs:label "Feijoa";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-3";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 558;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/559> a wiki:Q2095;
   rdfs:label "Rowal";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 559;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/56> a wiki:Q2095;
   rdfs:label "Mandarin orange (Clementine, Tangerine)";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "3";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "2";
   schema:identifier 56;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/560> a wiki:Q2095;
   rdfs:label "Jew's ear";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 560;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -57720,7 +57720,7 @@
 <https://foodb.ca/foods/562> a wiki:Q2095;
   rdfs:label "Shiitake";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-2";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 562;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -57733,8 +57733,8 @@
 
 <https://foodb.ca/foods/564> a wiki:Q2095;
   rdfs:label "Wakame";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "9";
   schema:identifier 564;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -57748,28 +57748,28 @@
 <https://foodb.ca/foods/566> a wiki:Q2095;
   rdfs:label "Epazote";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-3";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 566;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/567> a wiki:Q2095;
   rdfs:label "Oyster mushroom";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-3";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 567;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/568> a wiki:Q2095;
   rdfs:label "Cloud ear fungus";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "3";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-7";
   schema:identifier 568;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/569> a wiki:Q2095;
   rdfs:label "Maitake";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-2";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 569;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -57783,7 +57783,7 @@
 <https://foodb.ca/foods/570> a wiki:Q2095;
   rdfs:label "Ostrich fern";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-1";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 570;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -57796,15 +57796,15 @@
 
 <https://foodb.ca/foods/572> a wiki:Q2095;
   rdfs:label "Sourdock";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "0";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 572;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/573> a wiki:Q2095;
   rdfs:label "Tinda";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "0";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 573;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Gourds> .
 
@@ -57817,22 +57817,22 @@
 
 <https://foodb.ca/foods/575> a wiki:Q2095;
   rdfs:label "Wheat";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "3";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 575;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
 <https://foodb.ca/foods/576> a wiki:Q2095;
   rdfs:label "Common chokecherry";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "2";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 576;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/577> a wiki:Q2095;
   rdfs:label "Agave";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-2";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 577;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -57845,22 +57845,22 @@
 
 <https://foodb.ca/foods/579> a wiki:Q2095;
   rdfs:label "Jellyfish";
-  foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-3";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "7";
   schema:identifier 579;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/58> a wiki:Q2095;
   rdfs:label "Coffee";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "13";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "8";
   schema:identifier 58;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Coffee%20and%20coffee%20products> .
 
 <https://foodb.ca/foods/580> a wiki:Q2095;
   rdfs:label "Anchovy";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "7";
+  foodbp:hasNutriScoreValue "5";
   schema:identifier 580;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -57887,29 +57887,29 @@
 
 <https://foodb.ca/foods/584> a wiki:Q2095;
   rdfs:label "Sturgeon";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "0";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "5";
   schema:identifier 584;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/585> a wiki:Q2095;
   rdfs:label "Charr";
-  foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "5";
   schema:identifier 585;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/586> a wiki:Q2095;
   rdfs:label "Cinnamon";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "2";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 586;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/587> a wiki:Q2095;
   rdfs:label "Crab";
-  foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-4";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "5";
   schema:identifier 587;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -57923,7 +57923,7 @@
 <https://foodb.ca/foods/589> a wiki:Q2095;
   rdfs:label "Spiny dogfish";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 589;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -57937,7 +57937,7 @@
 <https://foodb.ca/foods/590> a wiki:Q2095;
   rdfs:label "Anatidae";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-1";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 590;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Animal%20foods> .
 
@@ -57986,14 +57986,14 @@
 <https://foodb.ca/foods/597> a wiki:Q2095;
   rdfs:label "Lemon sole";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 597;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/598> a wiki:Q2095;
   rdfs:label "Clawed lobster";
-  foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-4";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "5";
   schema:identifier 598;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -58006,29 +58006,29 @@
 
 <https://foodb.ca/foods/6> a wiki:Q2095;
   rdfs:label "Garden onion";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "4";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 6;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/60> a wiki:Q2095;
   rdfs:label "Robusta coffee";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "13";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "8";
   schema:identifier 60;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Coffee%20and%20coffee%20products> .
 
 <https://foodb.ca/foods/600> a wiki:Q2095;
   rdfs:label "Scombridae (Bonito, Mackerel, Tuna)";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "7";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "13";
   schema:identifier 600;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/601> a wiki:Q2095;
   rdfs:label "Marine mussel";
-  foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-3";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "1";
   schema:identifier 601;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -58042,7 +58042,7 @@
 <https://foodb.ca/foods/603> a wiki:Q2095;
   rdfs:label "Norway lobster";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-4";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 603;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -58070,7 +58070,7 @@
 <https://foodb.ca/foods/608> a wiki:Q2095;
   rdfs:label "Persimmon";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-1";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 608;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
@@ -58084,14 +58084,14 @@
 <https://foodb.ca/foods/61> a wiki:Q2095;
   rdfs:label "Coriander";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "6";
+  foodbp:hasNutriScoreValue "4";
   schema:identifier 61;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/610> a wiki:Q2095;
   rdfs:label "Pleuronectidae (Dab, Halibut, Plaice)";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "10";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "13";
   schema:identifier 610;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -58105,21 +58105,21 @@
 <https://foodb.ca/foods/612> a wiki:Q2095;
   rdfs:label "Pacific ocean perch";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 612;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/613> a wiki:Q2095;
   rdfs:label "Black salsify";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-1";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 613;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/614> a wiki:Q2095;
   rdfs:label "True seal";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 614;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -58132,8 +58132,8 @@
 
 <https://foodb.ca/foods/616> a wiki:Q2095;
   rdfs:label "Kombu";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "4";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "13";
   schema:identifier 616;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -58147,7 +58147,7 @@
 <https://foodb.ca/foods/618> a wiki:Q2095;
   rdfs:label "True sole";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 618;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -58161,7 +58161,7 @@
 <https://foodb.ca/foods/62> a wiki:Q2095;
   rdfs:label "Common hazelnut";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-1";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 62;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Nuts> .
 
@@ -58174,22 +58174,22 @@
 
 <https://foodb.ca/foods/621> a wiki:Q2095;
   rdfs:label "Thunnus";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "5";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "1";
   schema:identifier 621;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/622> a wiki:Q2095;
   rdfs:label "Walnut";
   foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "12";
+  foodbp:hasNutriScoreValue "11";
   schema:identifier 622;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Nuts> .
 
 <https://foodb.ca/foods/623> a wiki:Q2095;
   rdfs:label "Cetacea (Dolphin, Porpoise, Whale)";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 623;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -58217,35 +58217,35 @@
 <https://foodb.ca/foods/63> a wiki:Q2095;
   rdfs:label "Saffron";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "9";
+  foodbp:hasNutriScoreValue "10";
   schema:identifier 63;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/630> a wiki:Q2095;
   rdfs:label "Liquor";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "8";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 630;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Beverages> .
 
 <https://foodb.ca/foods/631> a wiki:Q2095;
   rdfs:label "Cheese";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "10";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "16";
   schema:identifier 631;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Milk%20and%20milk%20products> .
 
 <https://foodb.ca/foods/632> a wiki:Q2095;
   rdfs:label "Milk (Cow)";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "0";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 632;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Milk%20and%20milk%20products> .
 
 <https://foodb.ca/foods/633> a wiki:Q2095;
   rdfs:label "Eggs";
-  foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-4";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "5";
   schema:identifier 633;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Eggs> .
 
@@ -58259,7 +58259,7 @@
 <https://foodb.ca/foods/638> a wiki:Q2095;
   rdfs:label "Bean";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-3";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 638;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Pulses> .
 
@@ -58280,7 +58280,7 @@
 <https://foodb.ca/foods/640> a wiki:Q2095;
   rdfs:label "Whisky";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "3";
+  foodbp:hasNutriScoreValue "6";
   schema:identifier 640;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Beverages> .
 
@@ -58307,8 +58307,8 @@
 
 <https://foodb.ca/foods/644> a wiki:Q2095;
   rdfs:label "Liquorice";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "15";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 644;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Confectioneries> .
 
@@ -58329,14 +58329,14 @@
 <https://foodb.ca/foods/647> a wiki:Q2095;
   rdfs:label "Port wine";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "2";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 647;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Beverages> .
 
 <https://foodb.ca/foods/648> a wiki:Q2095;
   rdfs:label "Vermouth";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 648;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Beverages> .
 
@@ -58350,7 +58350,7 @@
 <https://foodb.ca/foods/65> a wiki:Q2095;
   rdfs:label "Cucumber";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "3";
+  foodbp:hasNutriScoreValue "6";
   schema:identifier 65;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Gourds> .
 
@@ -58364,49 +58364,49 @@
 <https://foodb.ca/foods/651> a wiki:Q2095;
   rdfs:label "Nougat";
   foodbp:hasNutriScore "E";
-  foodbp:hasNutriScoreValue "21";
+  foodbp:hasNutriScoreValue "22";
   schema:identifier 651;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Confectioneries> .
 
 <https://foodb.ca/foods/653> a wiki:Q2095;
   rdfs:label "Toffee";
   foodbp:hasNutriScore "E";
-  foodbp:hasNutriScoreValue "24";
+  foodbp:hasNutriScoreValue "27";
   schema:identifier 653;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Confectioneries> .
 
 <https://foodb.ca/foods/654> a wiki:Q2095;
   rdfs:label "Cake";
   foodbp:hasNutriScore "E";
-  foodbp:hasNutriScoreValue "21";
+  foodbp:hasNutriScoreValue "24";
   schema:identifier 654;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Confectioneries> .
 
 <https://foodb.ca/foods/655> a wiki:Q2095;
   rdfs:label "Pizza";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "4";
+  foodbp:hasNutriScoreValue "7";
   schema:identifier 655;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/656> a wiki:Q2095;
   rdfs:label "Ymer";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "0";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 656;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Milk%20and%20milk%20products> .
 
 <https://foodb.ca/foods/657> a wiki:Q2095;
   rdfs:label "Other snack food";
   foodbp:hasNutriScore "E";
-  foodbp:hasNutriScoreValue "19";
+  foodbp:hasNutriScoreValue "27";
   schema:identifier 657;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Snack%20foods> .
 
 <https://foodb.ca/foods/659> a wiki:Q2095;
   rdfs:label "Crisp bread";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "6";
+  foodbp:hasNutriScoreValue "10";
   schema:identifier 659;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
@@ -58419,57 +58419,57 @@
 
 <https://foodb.ca/foods/660> a wiki:Q2095;
   rdfs:label "Pastry";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "18";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "21";
   schema:identifier 660;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Confectioneries> .
 
 <https://foodb.ca/foods/661> a wiki:Q2095;
   rdfs:label "Dragée";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "17";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 661;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Confectioneries> .
 
 <https://foodb.ca/foods/662> a wiki:Q2095;
   rdfs:label "Chewing gum";
   foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "12";
+  foodbp:hasNutriScoreValue "13";
   schema:identifier 662;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Confectioneries> .
 
 <https://foodb.ca/foods/663> a wiki:Q2095;
   rdfs:label "Marzipan";
   foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "17";
+  foodbp:hasNutriScoreValue "16";
   schema:identifier 663;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Confectioneries> .
 
 <https://foodb.ca/foods/664> a wiki:Q2095;
   rdfs:label "Salad dressing";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "16";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "22";
   schema:identifier 664;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
 <https://foodb.ca/foods/665> a wiki:Q2095;
   rdfs:label "Sauce";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "18";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "21";
   schema:identifier 665;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
 <https://foodb.ca/foods/666> a wiki:Q2095;
   rdfs:label "Salt";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "0";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "10";
   schema:identifier 666;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
 <https://foodb.ca/foods/667> a wiki:Q2095;
   rdfs:label "Butter";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "10";
+  foodbp:hasNutriScoreValue "4";
   schema:identifier 667;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Milk%20and%20milk%20products> .
 
@@ -58490,70 +58490,70 @@
 <https://foodb.ca/foods/67> a wiki:Q2095;
   rdfs:label "Cumin";
   foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "13";
+  foodbp:hasNutriScoreValue "12";
   schema:identifier 67;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/670> a wiki:Q2095;
   rdfs:label "Sugar";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "10";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 670;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
 <https://foodb.ca/foods/671> a wiki:Q2095;
   rdfs:label "Sausage";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "6";
+  foodbp:hasNutriScoreValue "9";
   schema:identifier 671;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/672> a wiki:Q2095;
   rdfs:label "Meatball";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "5";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "1";
   schema:identifier 672;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/673> a wiki:Q2095;
   rdfs:label "Mustard";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "11";
   schema:identifier 673;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
 <https://foodb.ca/foods/674> a wiki:Q2095;
   rdfs:label "Pate";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "8";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "18";
   schema:identifier 674;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/676> a wiki:Q2095;
   rdfs:label "Sugar substitute";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "10";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "14";
   schema:identifier 676;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
 <https://foodb.ca/foods/677> a wiki:Q2095;
   rdfs:label "Meat bouillon";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "5";
   schema:identifier 677;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
 <https://foodb.ca/foods/679> a wiki:Q2095;
   rdfs:label "Whey";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "12";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 679;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Milk%20and%20milk%20products> .
 
 <https://foodb.ca/foods/68> a wiki:Q2095;
   rdfs:label "Turmeric";
   foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "14";
+  foodbp:hasNutriScoreValue "13";
   schema:identifier 68;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -58573,8 +58573,8 @@
 
 <https://foodb.ca/foods/682> a wiki:Q2095;
   rdfs:label "Leavening agent";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "5";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "14";
   schema:identifier 682;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
@@ -58588,7 +58588,7 @@
 <https://foodb.ca/foods/684> a wiki:Q2095;
   rdfs:label "Gelatin";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 684;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
@@ -58601,15 +58601,15 @@
 
 <https://foodb.ca/foods/686> a wiki:Q2095;
   rdfs:label "Other fish product";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "18";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "21";
   schema:identifier 686;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/687> a wiki:Q2095;
   rdfs:label "Milk (Human)";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "2";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 687;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Milk%20and%20milk%20products> .
 
@@ -58630,28 +58630,28 @@
 <https://foodb.ca/foods/690> a wiki:Q2095;
   rdfs:label "Baby food";
   foodbp:hasNutriScore "E";
-  foodbp:hasNutriScoreValue "21";
+  foodbp:hasNutriScoreValue "23";
   schema:identifier 690;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baby%20foods> .
 
 <https://foodb.ca/foods/691> a wiki:Q2095;
   rdfs:label "Dumpling";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "8";
+  foodbp:hasNutriScoreValue "9";
   schema:identifier 691;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/692> a wiki:Q2095;
   rdfs:label "Soup";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "3";
+  foodbp:hasNutriScoreValue "10";
   schema:identifier 692;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/693> a wiki:Q2095;
   rdfs:label "Other vegetable product";
-  foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-2";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 693;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -58678,8 +58678,8 @@
 
 <https://foodb.ca/foods/697> a wiki:Q2095;
   rdfs:label "Remoulade";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "17";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "19";
   schema:identifier 697;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
@@ -58692,36 +58692,36 @@
 
 <https://foodb.ca/foods/699> a wiki:Q2095;
   rdfs:label "Fruit gum";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "6";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-4";
   schema:identifier 699;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Confectioneries> .
 
 <https://foodb.ca/foods/7> a wiki:Q2095;
   rdfs:label "Leek";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-2";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 7;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/70> a wiki:Q2095;
   rdfs:label "Lemon grass";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "4";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 70;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/700> a wiki:Q2095;
   rdfs:label "Curry powder";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "9";
+  foodbp:hasNutriScoreValue "4";
   schema:identifier 700;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/701> a wiki:Q2095;
   rdfs:label "Other candy";
   foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "13";
+  foodbp:hasNutriScoreValue "14";
   schema:identifier 701;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Confectioneries> .
 
@@ -58756,7 +58756,7 @@
 <https://foodb.ca/foods/707> a wiki:Q2095;
   rdfs:label "Cocoa powder";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "7";
+  foodbp:hasNutriScoreValue "9";
   schema:identifier 707;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cocoa%20and%20cocoa%20products> .
 
@@ -58770,7 +58770,7 @@
 <https://foodb.ca/foods/71> a wiki:Q2095;
   rdfs:label "Globe artichoke";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-6";
+  foodbp:hasNutriScoreValue "-7";
   schema:identifier 71;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -58783,50 +58783,50 @@
 
 <https://foodb.ca/foods/711> a wiki:Q2095;
   rdfs:label "Dried milk";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "5";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 711;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Milk%20and%20milk%20products> .
 
 <https://foodb.ca/foods/712> a wiki:Q2095;
   rdfs:label "Milk (Other mammals)";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "2";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 712;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Milk%20and%20milk%20products> .
 
 <https://foodb.ca/foods/713> a wiki:Q2095;
   rdfs:label "Kefir";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 713;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Milk%20and%20milk%20products> .
 
 <https://foodb.ca/foods/714> a wiki:Q2095;
   rdfs:label "Buttermilk";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-1";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 714;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Milk%20and%20milk%20products> .
 
 <https://foodb.ca/foods/715> a wiki:Q2095;
   rdfs:label "Other fermented milk";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "2";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 715;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Milk%20and%20milk%20products> .
 
 <https://foodb.ca/foods/716> a wiki:Q2095;
   rdfs:label "Soy sauce";
-  foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-2";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "8";
   schema:identifier 716;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Soy> .
 
 <https://foodb.ca/foods/717> a wiki:Q2095;
   rdfs:label "Miso";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "0";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "8";
   schema:identifier 717;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Soy> .
 
@@ -58839,15 +58839,15 @@
 
 <https://foodb.ca/foods/72> a wiki:Q2095;
   rdfs:label "Wild carrot";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "5";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 72;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/721> a wiki:Q2095;
   rdfs:label "Zwieback";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "17";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "19";
   schema:identifier 721;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
@@ -58868,14 +58868,14 @@
 <https://foodb.ca/foods/724> a wiki:Q2095;
   rdfs:label "Icing";
   foodbp:hasNutriScore "E";
-  foodbp:hasNutriScoreValue "24";
+  foodbp:hasNutriScoreValue "26";
   schema:identifier 724;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Confectioneries> .
 
 <https://foodb.ca/foods/725> a wiki:Q2095;
   rdfs:label "Snack bar";
   foodbp:hasNutriScore "E";
-  foodbp:hasNutriScoreValue "21";
+  foodbp:hasNutriScoreValue "24";
   schema:identifier 725;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Snack%20foods> .
 
@@ -58889,70 +58889,70 @@
 <https://foodb.ca/foods/727> a wiki:Q2095;
   rdfs:label "Energy drink";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "2";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 727;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Beverages> .
 
 <https://foodb.ca/foods/728> a wiki:Q2095;
   rdfs:label "Burrito";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "7";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "11";
   schema:identifier 728;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/729> a wiki:Q2095;
   rdfs:label "Hamburger";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "13";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "19";
   schema:identifier 729;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/73> a wiki:Q2095;
   rdfs:label "Japanese persimmon";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 73;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/730> a wiki:Q2095;
   rdfs:label "Baked beans";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "2";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "5";
   schema:identifier 730;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/731> a wiki:Q2095;
   rdfs:label "Chili";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "5";
   schema:identifier 731;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/732> a wiki:Q2095;
   rdfs:label "Taco";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "7";
+  foodbp:hasNutriScoreValue "10";
   schema:identifier 732;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/733> a wiki:Q2095;
   rdfs:label "Tortilla";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "5";
+  foodbp:hasNutriScoreValue "4";
   schema:identifier 733;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
 <https://foodb.ca/foods/734> a wiki:Q2095;
   rdfs:label "Nachos";
   foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "11";
+  foodbp:hasNutriScoreValue "18";
   schema:identifier 734;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/735> a wiki:Q2095;
   rdfs:label "Processed cheese";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "10";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "20";
   schema:identifier 735;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Milk%20and%20milk%20products> .
 
@@ -58972,43 +58972,43 @@
 
 <https://foodb.ca/foods/738> a wiki:Q2095;
   rdfs:label "Dulce de leche";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "13";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 738;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Confectioneries> .
 
 <https://foodb.ca/foods/739> a wiki:Q2095;
   rdfs:label "Topping";
   foodbp:hasNutriScore "E";
-  foodbp:hasNutriScoreValue "21";
+  foodbp:hasNutriScoreValue "22";
   schema:identifier 739;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
 <https://foodb.ca/foods/74> a wiki:Q2095;
   rdfs:label "Cardamom";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "9";
+  foodbp:hasNutriScoreValue "8";
   schema:identifier 74;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/740> a wiki:Q2095;
   rdfs:label "Sweet custard";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "7";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 740;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Confectioneries> .
 
 <https://foodb.ca/foods/742> a wiki:Q2095;
   rdfs:label "Egg roll";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "8";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "13";
   schema:identifier 742;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/743> a wiki:Q2095;
   rdfs:label "Heart of palm";
-  foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-2";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "1";
   schema:identifier 743;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -59021,22 +59021,22 @@
 
 <https://foodb.ca/foods/745> a wiki:Q2095;
   rdfs:label "Potato chip";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "18";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "26";
   schema:identifier 745;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Snack%20foods> .
 
 <https://foodb.ca/foods/746> a wiki:Q2095;
   rdfs:label "Tortilla chip";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "17";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "21";
   schema:identifier 746;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Snack%20foods> .
 
 <https://foodb.ca/foods/747> a wiki:Q2095;
   rdfs:label "Corn chip";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "18";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "24";
   schema:identifier 747;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Snack%20foods> .
 
@@ -59050,7 +59050,7 @@
 <https://foodb.ca/foods/749> a wiki:Q2095;
   rdfs:label "Stew";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "5";
+  foodbp:hasNutriScoreValue "9";
   schema:identifier 749;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
@@ -59070,71 +59070,71 @@
 
 <https://foodb.ca/foods/752> a wiki:Q2095;
   rdfs:label "Falafel";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "12";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 752;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/753> a wiki:Q2095;
   rdfs:label "Frybread";
   foodbp:hasNutriScore "E";
-  foodbp:hasNutriScoreValue "19";
+  foodbp:hasNutriScoreValue "22";
   schema:identifier 753;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/754> a wiki:Q2095;
   rdfs:label "Other frozen dessert";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "4";
+  foodbp:hasNutriScoreValue "5";
   schema:identifier 754;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Confectioneries> .
 
 <https://foodb.ca/foods/755> a wiki:Q2095;
   rdfs:label "Lasagna";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "4";
+  foodbp:hasNutriScoreValue "6";
   schema:identifier 755;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/756> a wiki:Q2095;
   rdfs:label "Morchella (Morel)";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-2";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 756;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/757> a wiki:Q2095;
   rdfs:label "Pancake";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "13";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "20";
   schema:identifier 757;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/758> a wiki:Q2095;
   rdfs:label "Pectin";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "9";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "11";
   schema:identifier 758;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
 <https://foodb.ca/foods/759> a wiki:Q2095;
   rdfs:label "Pudding";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "5";
+  foodbp:hasNutriScoreValue "8";
   schema:identifier 759;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Confectioneries> .
 
 <https://foodb.ca/foods/76> a wiki:Q2095;
   rdfs:label "Loquat";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 76;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
 <https://foodb.ca/foods/760> a wiki:Q2095;
   rdfs:label "Waffle";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "15";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "22";
   schema:identifier 760;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
@@ -59147,15 +59147,15 @@
 
 <https://foodb.ca/foods/762> a wiki:Q2095;
   rdfs:label "Meatloaf";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "6";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "16";
   schema:identifier 762;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/763> a wiki:Q2095;
   rdfs:label "Sake";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 763;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Beverages> .
 
@@ -59182,22 +59182,22 @@
 
 <https://foodb.ca/foods/767> a wiki:Q2095;
   rdfs:label "Coffee substitute";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "9";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "12";
   schema:identifier 767;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
 <https://foodb.ca/foods/768> a wiki:Q2095;
   rdfs:label "Coffee mocha";
   foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "13";
+  foodbp:hasNutriScoreValue "18";
   schema:identifier 768;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Coffee%20and%20coffee%20products> .
 
 <https://foodb.ca/foods/769> a wiki:Q2095;
   rdfs:label "Chimichanga";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "10";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 769;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
@@ -59224,85 +59224,85 @@
 
 <https://foodb.ca/foods/772> a wiki:Q2095;
   rdfs:label "Tostada";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "6";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 772;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/773> a wiki:Q2095;
   rdfs:label "Quesadilla";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "12";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "19";
   schema:identifier 773;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/774> a wiki:Q2095;
   rdfs:label "Baked potato";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "9";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 774;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/775> a wiki:Q2095;
   rdfs:label "Hot dog";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "9";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "2";
   schema:identifier 775;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/776> a wiki:Q2095;
   rdfs:label "Spread";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "18";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "28";
   schema:identifier 776;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
 <https://foodb.ca/foods/777> a wiki:Q2095;
   rdfs:label "Enchilada";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "10";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "2";
   schema:identifier 777;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/778> a wiki:Q2095;
   rdfs:label "Egg substitute";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "9";
+  foodbp:hasNutriScoreValue "3";
   schema:identifier 778;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
 <https://foodb.ca/foods/779> a wiki:Q2095;
   rdfs:label "Nutritional drink";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "9";
+  foodbp:hasNutriScoreValue "10";
   schema:identifier 779;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Beverages> .
 
 <https://foodb.ca/foods/780> a wiki:Q2095;
   rdfs:label "Other sandwich";
   foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "11";
+  foodbp:hasNutriScoreValue "16";
   schema:identifier 780;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/781> a wiki:Q2095;
   rdfs:label "Ketchup";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "3";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "12";
   schema:identifier 781;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
 <https://foodb.ca/foods/782> a wiki:Q2095;
   rdfs:label "Breakfast sandwich";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "16";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "19";
   schema:identifier 782;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/783> a wiki:Q2095;
   rdfs:label "Adobo";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "15";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "24";
   schema:identifier 783;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
@@ -59322,15 +59322,15 @@
 
 <https://foodb.ca/foods/786> a wiki:Q2095;
   rdfs:label "Horned melon";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 786;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Gourds> .
 
 <https://foodb.ca/foods/787> a wiki:Q2095;
   rdfs:label "Hushpuppy";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "18";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "24";
   schema:identifier 787;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
@@ -59343,8 +59343,8 @@
 
 <https://foodb.ca/foods/789> a wiki:Q2095;
   rdfs:label "Relish";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "11";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "10";
   schema:identifier 789;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
@@ -59371,29 +59371,29 @@
 
 <https://foodb.ca/foods/792> a wiki:Q2095;
   rdfs:label "Soy yogurt";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "3";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "2";
   schema:identifier 792;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Soy> .
 
 <https://foodb.ca/foods/793> a wiki:Q2095;
   rdfs:label "Vegetarian food";
-  foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-1";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "5";
   schema:identifier 793;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/795> a wiki:Q2095;
   rdfs:label "Cold cut";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "6";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "15";
   schema:identifier 795;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/796> a wiki:Q2095;
   rdfs:label "Mixed nuts";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "12";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "10";
   schema:identifier 796;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Nuts> .
 
@@ -59449,21 +59449,21 @@
 <https://foodb.ca/foods/803> a wiki:Q2095;
   rdfs:label "Phyllo dough";
   foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "13";
+  foodbp:hasNutriScoreValue "18";
   schema:identifier 803;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
 <https://foodb.ca/foods/804> a wiki:Q2095;
   rdfs:label "Cooking oil";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "14";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 804;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
 <https://foodb.ca/foods/805> a wiki:Q2095;
   rdfs:label "Pie crust";
   foodbp:hasNutriScore "E";
-  foodbp:hasNutriScoreValue "23";
+  foodbp:hasNutriScoreValue "29";
   schema:identifier 805;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
@@ -59476,8 +59476,8 @@
 
 <https://foodb.ca/foods/807> a wiki:Q2095;
   rdfs:label "Pie";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "17";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "19";
   schema:identifier 807;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Confectioneries> .
 
@@ -59505,7 +59505,7 @@
 <https://foodb.ca/foods/810> a wiki:Q2095;
   rdfs:label "Ice cream cone";
   foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "17";
+  foodbp:hasNutriScoreValue "18";
   schema:identifier 810;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
@@ -59518,15 +59518,15 @@
 
 <https://foodb.ca/foods/812> a wiki:Q2095;
   rdfs:label "Cracker";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "16";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "22";
   schema:identifier 812;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Snack%20foods> .
 
 <https://foodb.ca/foods/813> a wiki:Q2095;
   rdfs:label "Nance";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "2";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 813;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
@@ -59540,49 +59540,49 @@
 <https://foodb.ca/foods/815> a wiki:Q2095;
   rdfs:label "Natto";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "5";
+  foodbp:hasNutriScoreValue "3";
   schema:identifier 815;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Soy> .
 
 <https://foodb.ca/foods/816> a wiki:Q2095;
   rdfs:label "Ravioli";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "2";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "4";
   schema:identifier 816;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/817> a wiki:Q2095;
   rdfs:label "Scrapple";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "10";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "17";
   schema:identifier 817;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/818> a wiki:Q2095;
   rdfs:label "Other pasta dish";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScoreValue "2";
   schema:identifier 818;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/819> a wiki:Q2095;
   rdfs:label "Succotash";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-1";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 819;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/82> a wiki:Q2095;
   rdfs:label "Fennel";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "6";
+  foodbp:hasNutriScoreValue "4";
   schema:identifier 82;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/820> a wiki:Q2095;
   rdfs:label "Tamale";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "5";
+  foodbp:hasNutriScoreValue "8";
   schema:identifier 820;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
@@ -59596,21 +59596,21 @@
 <https://foodb.ca/foods/823> a wiki:Q2095;
   rdfs:label "Tree fern";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-1";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 823;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/824> a wiki:Q2095;
   rdfs:label "Evaporated milk";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "5";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 824;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Milk%20and%20milk%20products> .
 
 <https://foodb.ca/foods/825> a wiki:Q2095;
   rdfs:label "Flour";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "14";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "24";
   schema:identifier 825;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
@@ -59623,8 +59623,8 @@
 
 <https://foodb.ca/foods/829> a wiki:Q2095;
   rdfs:label "Pita bread";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "7";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "12";
   schema:identifier 829;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
@@ -59638,21 +59638,21 @@
 <https://foodb.ca/foods/830> a wiki:Q2095;
   rdfs:label "Focaccia";
   foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "11";
+  foodbp:hasNutriScoreValue "17";
   schema:identifier 830;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
 <https://foodb.ca/foods/831> a wiki:Q2095;
   rdfs:label "Bagel";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "7";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "12";
   schema:identifier 831;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
 <https://foodb.ca/foods/832> a wiki:Q2095;
   rdfs:label "Other bread product";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "5";
+  foodbp:hasNutriScoreValue "10";
   schema:identifier 832;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
@@ -59665,43 +59665,43 @@
 
 <https://foodb.ca/foods/835> a wiki:Q2095;
   rdfs:label "French toast";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "10";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "14";
   schema:identifier 835;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
 <https://foodb.ca/foods/836> a wiki:Q2095;
   rdfs:label "Wheat bread";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "6";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "11";
   schema:identifier 836;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
 <https://foodb.ca/foods/837> a wiki:Q2095;
   rdfs:label "Rye bread";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "3";
+  foodbp:hasNutriScoreValue "6";
   schema:identifier 837;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
 <https://foodb.ca/foods/838> a wiki:Q2095;
   rdfs:label "Oat bread";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "5";
+  foodbp:hasNutriScoreValue "8";
   schema:identifier 838;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
 <https://foodb.ca/foods/839> a wiki:Q2095;
   rdfs:label "Potato bread";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "6";
+  foodbp:hasNutriScoreValue "9";
   schema:identifier 839;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
 <https://foodb.ca/foods/840> a wiki:Q2095;
   rdfs:label "Cornbread";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "16";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "25";
   schema:identifier 840;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
@@ -59715,42 +59715,42 @@
 <https://foodb.ca/foods/842> a wiki:Q2095;
   rdfs:label "Multigrain bread";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "6";
+  foodbp:hasNutriScoreValue "8";
   schema:identifier 842;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
 <https://foodb.ca/foods/843> a wiki:Q2095;
   rdfs:label "Rice bread";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "6";
+  foodbp:hasNutriScoreValue "8";
   schema:identifier 843;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
 <https://foodb.ca/foods/844> a wiki:Q2095;
   rdfs:label "Pan dulce";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "17";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "19";
   schema:identifier 844;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
 <https://foodb.ca/foods/845> a wiki:Q2095;
   rdfs:label "Raisin bread";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "9";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "12";
   schema:identifier 845;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
 <https://foodb.ca/foods/846> a wiki:Q2095;
   rdfs:label "Wonton wrapper";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "8";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "14";
   schema:identifier 846;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
 <https://foodb.ca/foods/848> a wiki:Q2095;
   rdfs:label "Trail mix";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "14";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 848;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Snack%20foods> .
 
@@ -59764,7 +59764,7 @@
 <https://foodb.ca/foods/85> a wiki:Q2095;
   rdfs:label "Soy bean";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "8";
+  foodbp:hasNutriScoreValue "5";
   schema:identifier 85;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Soy> .
 
@@ -59792,21 +59792,21 @@
 <https://foodb.ca/foods/853> a wiki:Q2095;
   rdfs:label "Soft drink";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "2";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 853;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Beverages> .
 
 <https://foodb.ca/foods/854> a wiki:Q2095;
   rdfs:label "Frozen yogurt";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "7";
+  foodbp:hasNutriScoreValue "6";
   schema:identifier 854;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Confectioneries> .
 
 <https://foodb.ca/foods/855> a wiki:Q2095;
   rdfs:label "Milkshake";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "6";
+  foodbp:hasNutriScoreValue "7";
   schema:identifier 855;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Confectioneries> .
 
@@ -59819,50 +59819,50 @@
 
 <https://foodb.ca/foods/857> a wiki:Q2095;
   rdfs:label "Dripping";
-  foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "0";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "6";
   schema:identifier 857;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fats%20and%20oils> .
 
 <https://foodb.ca/foods/858> a wiki:Q2095;
   rdfs:label "Pupusa";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "10";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "11";
   schema:identifier 858;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/859> a wiki:Q2095;
   rdfs:label "Empanada";
   foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "14";
+  foodbp:hasNutriScoreValue "17";
   schema:identifier 859;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/86> a wiki:Q2095;
   rdfs:label "Sunflower";
   foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "16";
+  foodbp:hasNutriScoreValue "15";
   schema:identifier 86;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/860> a wiki:Q2095;
   rdfs:label "Arepa";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "10";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "11";
   schema:identifier 860;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/861> a wiki:Q2095;
   rdfs:label "Ascidians";
-  foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-2";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "5";
   schema:identifier 861;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
 <https://foodb.ca/foods/862> a wiki:Q2095;
   rdfs:label "Gefilte fish";
-  foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-3";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 862;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
@@ -59876,35 +59876,35 @@
 <https://foodb.ca/foods/864> a wiki:Q2095;
   rdfs:label "Fish burger";
   foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "13";
+  foodbp:hasNutriScoreValue "17";
   schema:identifier 864;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/865> a wiki:Q2095;
   rdfs:label "Other dish";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-5";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 865;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/866> a wiki:Q2095;
   rdfs:label "Pot pie";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "8";
+  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScoreValue "11";
   schema:identifier 866;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/867> a wiki:Q2095;
   rdfs:label "Stuffing";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "11";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "21";
   schema:identifier 867;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
 <https://foodb.ca/foods/868> a wiki:Q2095;
   rdfs:label "Edible shell";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "17";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "21";
   schema:identifier 868;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
@@ -59924,57 +59924,57 @@
 
 <https://foodb.ca/foods/870> a wiki:Q2095;
   rdfs:label "Candy bar";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "18";
+  foodbp:hasNutriScore "E";
+  foodbp:hasNutriScoreValue "19";
   schema:identifier 870;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Confectioneries> .
 
 <https://foodb.ca/foods/871> a wiki:Q2095;
   rdfs:label "Condensed milk";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "14";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 871;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Milk%20and%20milk%20products> .
 
 <https://foodb.ca/foods/872> a wiki:Q2095;
   rdfs:label "Margarine";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "10";
+  foodbp:hasNutriScoreValue "8";
   schema:identifier 872;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fats%20and%20oils> .
 
 <https://foodb.ca/foods/873> a wiki:Q2095;
   rdfs:label "Margarine-like spread";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "10";
+  foodbp:hasNutriScoreValue "3";
   schema:identifier 873;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fats%20and%20oils> .
 
 <https://foodb.ca/foods/874> a wiki:Q2095;
   rdfs:label "Hummus";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "7";
+  foodbp:hasNutriScoreValue "8";
   schema:identifier 874;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/876> a wiki:Q2095;
   rdfs:label "Potato puffs";
   foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "12";
+  foodbp:hasNutriScoreValue "17";
   schema:identifier 876;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/877> a wiki:Q2095;
   rdfs:label "Potato gratin";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "4";
+  foodbp:hasNutriScoreValue "6";
   schema:identifier 877;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
 <https://foodb.ca/foods/878> a wiki:Q2095;
   rdfs:label "Milk substitute";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "3";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-1";
   schema:identifier 878;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
@@ -59987,15 +59987,15 @@
 
 <https://foodb.ca/foods/880> a wiki:Q2095;
   rdfs:label "Soft-necked garlic";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "5";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-5";
   schema:identifier 880;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
 <https://foodb.ca/foods/881> a wiki:Q2095;
   rdfs:label "Cabbage";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "3";
+  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScoreValue "-3";
   schema:identifier 881;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -60037,42 +60037,42 @@
 <https://foodb.ca/foods/91> a wiki:Q2095;
   rdfs:label "Swamp cabbage";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-3";
+  foodbp:hasNutriScoreValue "-2";
   schema:identifier 91;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/92> a wiki:Q2095;
   rdfs:label "Sweet potato";
   foodbp:hasNutriScore "B";
-  foodbp:hasNutriScoreValue "1";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 92;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
 <https://foodb.ca/foods/93> a wiki:Q2095;
   rdfs:label "Black walnut";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "9";
+  foodbp:hasNutriScoreValue "7";
   schema:identifier 93;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Nuts> .
 
 <https://foodb.ca/foods/939> a wiki:Q2095;
   rdfs:label "Black tea";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-6";
+  foodbp:hasNutriScoreValue "-7";
   schema:identifier 939;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Teas> .
 
 <https://foodb.ca/foods/94> a wiki:Q2095;
   rdfs:label "Common walnut";
-  foodbp:hasNutriScore "D";
-  foodbp:hasNutriScoreValue "11";
+  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScoreValue "9";
   schema:identifier 94;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Nuts> .
 
 <https://foodb.ca/foods/940> a wiki:Q2095;
   rdfs:label "Green tea";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-6";
+  foodbp:hasNutriScoreValue "-7";
   schema:identifier 940;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Teas> .
 
@@ -60086,7 +60086,7 @@
 <https://foodb.ca/foods/957> a wiki:Q2095;
   rdfs:label "Red tea";
   foodbp:hasNutriScore "A";
-  foodbp:hasNutriScoreValue "-6";
+  foodbp:hasNutriScoreValue "-7";
   schema:identifier 957;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Teas> .
 
@@ -60100,14 +60100,14 @@
 <https://foodb.ca/foods/98> a wiki:Q2095;
   rdfs:label "Lentils";
   foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "5";
+  foodbp:hasNutriScoreValue "3";
   schema:identifier 98;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Pulses> .
 
 <https://foodb.ca/foods/985> a wiki:Q2095;
   rdfs:label "Sour cream";
-  foodbp:hasNutriScore "C";
-  foodbp:hasNutriScoreValue "10";
+  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScoreValue "0";
   schema:identifier 985;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Milk%20and%20milk%20products> .
 
