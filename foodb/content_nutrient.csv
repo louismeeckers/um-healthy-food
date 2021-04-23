@@ -717,13 +717,13 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 5847,2,Nutrient,624,23.9,g/100g,"Columbidae (Dove, Pigeon)",Animal foods,Poultry,Proteins,-5,-5,A
 5848,2,Nutrient,625,26.3,g/100g,Conch,Aquatic foods,Mollusks,Proteins,-5,-4,A
 5849,2,Nutrient,626,0.2,g/100g,Grape wine,Beverages,Fermented beverages,Proteins,0,0,B
-5905,2,Nutrient,630,4.3,g/100g,Liquor,Beverages,Distilled beverages,Proteins,-2,-2,A
+5905,2,Nutrient,630,4.3,g/100g,Liquor,Beverages,Distilled beverages,Proteins,-2,-2,B
 5925,2,Nutrient,631,12.4,g/100g,Cheese,Milk and milk products,Fermented milk products,Proteins,-5,16,D
 6121,2,Nutrient,632,3.5,g/100g,Milk (Cow),Milk and milk products,Unfermented milks,Proteins,-2,-2,A
 6157,2,Nutrient,633,81.1,g/100g,Eggs,Eggs,Eggs,Proteins,-5,5,C
 6211,2,Nutrient,634,3,g/100g,Yogurt,Milk and milk products,Fermented milk products,Proteins,-1,7,C
 6258,2,Nutrient,638,1.76,g/100g,Bean,Pulses,Beans,Proteins,-1,-1,A
-6265,2,Nutrient,640,0.6,g/100g,Whisky,Beverages,Distilled beverages,Proteins,0,6,C
+6265,2,Nutrient,640,0.6,g/100g,Whisky,Beverages,Distilled beverages,Proteins,0,6,D
 6273,2,Nutrient,641,3.5,g/100g,Ice cream,Confectioneries,Frozen desserts,Proteins,-2,15,D
 6337,2,Nutrient,643,0.3,g/100g,Honey,Confectioneries,Other confectioneries,Proteins,0,10,C
 6341,2,Nutrient,644,2.3,g/100g,Liquorice,Confectioneries,Candies,Proteins,-1,-1,A
@@ -845,7 +845,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 9035,2,Nutrient,776,0.9,g/100g,Spread,Baking goods,Baking goods,Proteins,0,28,E
 9044,2,Nutrient,777,5.91,g/100g,Enchilada,Dishes,Mexican cuisine,Proteins,-3,2,B
 9047,2,Nutrient,778,55.5,g/100g,Egg substitute,Baking goods,Substitutes,Proteins,-5,3,C
-9049,2,Nutrient,779,45.71,g/100g,Nutritional drink,Beverages,Nutritional beverages,Proteins,-5,10,C
+9049,2,Nutrient,779,45.71,g/100g,Nutritional drink,Beverages,Nutritional beverages,Proteins,-5,10,E
 9061,2,Nutrient,780,13.25,g/100g,Other sandwich,Dishes,Sandwiches,Proteins,-5,16,D
 9091,2,Nutrient,781,3,g/100g,Ketchup,Baking goods,Condiments,Proteins,-1,12,D
 9097,2,Nutrient,782,3.99,g/100g,Breakfast sandwich,Dishes,Sandwiches,Proteins,-2,19,E
@@ -854,7 +854,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 9145,2,Nutrient,785,0.28,g/100g,Butterfat,Milk and milk products,Other milk products,Proteins,0,0,B
 9146,2,Nutrient,786,1.78,g/100g,Horned melon,Gourds,Gourds,Proteins,-1,-1,A
 9147,2,Nutrient,787,7.7,g/100g,Hushpuppy,Dishes,American cuisine,Proteins,-4,24,E
-9149,2,Nutrient,788,0.2,g/100g,Fruit juice,Beverages,Other beverages,Proteins,0,11,D
+9149,2,Nutrient,788,0.2,g/100g,Fruit juice,Beverages,Other beverages,Proteins,0,11,E
 9178,2,Nutrient,789,0.3,g/100g,Relish,Baking goods,Condiments,Proteins,0,10,C
 9183,2,Nutrient,790,2.7,g/100g,Other fruit product,Fruits,Fruit products,Proteins,-1,12,D
 9189,2,Nutrient,791,0.42,g/100g,Fruit salad,Fruits,Fruit products,Proteins,0,0,B
@@ -901,9 +901,9 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 9689,2,Nutrient,846,9.8,g/100g,Wonton wrapper,Baking goods,Wrappers,Proteins,-5,14,D
 9690,2,Nutrient,848,13.8,g/100g,Trail mix,Snack foods,Snack foods,Proteins,-5,-3,A
 9695,2,Nutrient,849,0.12,g/100g,Greenthread tea,Teas,Herbal teas,Proteins,0,0,B
-9698,2,Nutrient,850,3.6,g/100g,Fruit-flavor drink,Beverages,Other beverages,Proteins,-2,13,D
+9698,2,Nutrient,850,3.6,g/100g,Fruit-flavor drink,Beverages,Other beverages,Proteins,-2,13,E
 9729,2,Nutrient,851,2.1,g/100g,Vegetable juice,Beverages,Other beverages,Proteins,-1,0,B
-9734,2,Nutrient,852,7.5,g/100g,Horchata,Beverages,Other beverages,Proteins,-4,14,D
+9734,2,Nutrient,852,7.5,g/100g,Horchata,Beverages,Other beverages,Proteins,-4,14,E
 9750,2,Nutrient,853,0.1,g/100g,Soft drink,Beverages,Other beverages,Proteins,0,0,B
 9767,2,Nutrient,854,4,g/100g,Frozen yogurt,Confectioneries,Frozen desserts,Proteins,-2,6,C
 9772,2,Nutrient,855,3.05,g/100g,Milkshake,Confectioneries,Frozen desserts,Proteins,-1,7,C
@@ -1332,13 +1332,13 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 15343,3,Nutrient,622,10.6,g/100g,Walnut,Nuts,Nuts,Carbohydrate,1,11,D
 15349,3,Nutrient,625,1.7,g/100g,Conch,Aquatic foods,Mollusks,Carbohydrate,,-4,A
 15350,3,Nutrient,626,1.5,g/100g,Grape wine,Beverages,Fermented beverages,Carbohydrate,,0,B
-15406,3,Nutrient,630,24.7,g/100g,Liquor,Beverages,Distilled beverages,Carbohydrate,,-2,A
+15406,3,Nutrient,630,24.7,g/100g,Liquor,Beverages,Distilled beverages,Carbohydrate,,-2,B
 15426,3,Nutrient,631,1,g/100g,Cheese,Milk and milk products,Fermented milk products,Carbohydrate,0,16,D
 15622,3,Nutrient,632,4.9,g/100g,Milk (Cow),Milk and milk products,Unfermented milks,Carbohydrate,,-2,A
 15658,3,Nutrient,633,7.8,g/100g,Eggs,Eggs,Eggs,Carbohydrate,,5,C
 15712,3,Nutrient,634,3.8,g/100g,Yogurt,Milk and milk products,Fermented milk products,Carbohydrate,0,7,C
 15759,3,Nutrient,638,6.19,g/100g,Bean,Pulses,Beans,Carbohydrate,0,-1,A
-15764,3,Nutrient,640,0.1,g/100g,Whisky,Beverages,Distilled beverages,Carbohydrate,0,6,C
+15764,3,Nutrient,640,0.1,g/100g,Whisky,Beverages,Distilled beverages,Carbohydrate,0,6,D
 15774,3,Nutrient,641,23.6,g/100g,Ice cream,Confectioneries,Frozen desserts,Carbohydrate,5,15,D
 15838,3,Nutrient,643,82,g/100g,Honey,Confectioneries,Other confectioneries,Carbohydrate,10,10,C
 15842,3,Nutrient,644,82.7,g/100g,Liquorice,Confectioneries,Candies,Carbohydrate,,-1,A
@@ -1375,7 +1375,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 16703,3,Nutrient,681,65.7,g/100g,Fruit preserve,Fruits,Fruit products,Carbohydrate,10,12,D
 16713,3,Nutrient,682,37.8,g/100g,Leavening agent,Baking goods,Baking goods,Carbohydrate,7,14,D
 16728,3,Nutrient,683,79.1,g/100g,Marshmallow,Confectioneries,Candies,Carbohydrate,10,11,D
-16748,3,Nutrient,685,0.03,g/100g,Water,Beverages,Waters,Carbohydrate,,0,B
+16748,3,Nutrient,685,0.03,g/100g,Water,Beverages,Waters,Carbohydrate,,0,A
 16757,3,Nutrient,686,0.4,g/100g,Other fish product,Aquatic foods,Fish products,Carbohydrate,0,21,E
 16764,3,Nutrient,687,6.6,g/100g,Milk (Human),Milk and milk products,Unfermented milks,Carbohydrate,,-1,A
 16771,3,Nutrient,689,8.05,g/100g,Other beverage,Beverages,Other beverages,Carbohydrate,1,4,C
@@ -1457,7 +1457,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 18535,3,Nutrient,776,22.4,g/100g,Spread,Baking goods,Baking goods,Carbohydrate,4,28,E
 18544,3,Nutrient,777,17.51,g/100g,Enchilada,Dishes,Mexican cuisine,Carbohydrate,,2,B
 18547,3,Nutrient,778,21.8,g/100g,Egg substitute,Baking goods,Substitutes,Carbohydrate,,3,C
-18549,3,Nutrient,779,18.5,g/100g,Nutritional drink,Beverages,Nutritional beverages,Carbohydrate,2,10,C
+18549,3,Nutrient,779,18.5,g/100g,Nutritional drink,Beverages,Nutritional beverages,Carbohydrate,2,10,E
 18561,3,Nutrient,780,21.26,g/100g,Other sandwich,Dishes,Sandwiches,Carbohydrate,4,16,D
 18591,3,Nutrient,781,18.4,g/100g,Ketchup,Baking goods,Condiments,Carbohydrate,3,12,D
 18597,3,Nutrient,782,76.8,g/100g,Breakfast sandwich,Dishes,Sandwiches,Carbohydrate,10,19,E
@@ -1465,7 +1465,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 18634,3,Nutrient,784,11.63,g/100g,Macaroni and cheese,Dishes,Pasta dishes,Carbohydrate,2,9,C
 18646,3,Nutrient,786,7.56,g/100g,Horned melon,Gourds,Gourds,Carbohydrate,,-1,A
 18647,3,Nutrient,787,46,g/100g,Hushpuppy,Dishes,American cuisine,Carbohydrate,9,24,E
-18649,3,Nutrient,788,42,g/100g,Fruit juice,Beverages,Other beverages,Carbohydrate,9,11,D
+18649,3,Nutrient,788,42,g/100g,Fruit juice,Beverages,Other beverages,Carbohydrate,9,11,E
 18678,3,Nutrient,789,46.2,g/100g,Relish,Baking goods,Condiments,Carbohydrate,9,10,C
 18683,3,Nutrient,790,58.5,g/100g,Other fruit product,Fruits,Fruit products,Carbohydrate,10,12,D
 18689,3,Nutrient,791,8.51,g/100g,Fruit salad,Fruits,Fruit products,Carbohydrate,1,0,B
@@ -1513,9 +1513,9 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 19186,3,Nutrient,845,52.3,g/100g,Raisin bread,Cereals and cereal products,Sweet breads,Carbohydrate,10,12,D
 19189,3,Nutrient,846,57.9,g/100g,Wonton wrapper,Baking goods,Wrappers,Carbohydrate,10,14,D
 19190,3,Nutrient,848,44.9,g/100g,Trail mix,Snack foods,Snack foods,Carbohydrate,,-3,A
-19196,3,Nutrient,850,97.23,g/100g,Fruit-flavor drink,Beverages,Other beverages,Carbohydrate,10,13,D
+19196,3,Nutrient,850,97.23,g/100g,Fruit-flavor drink,Beverages,Other beverages,Carbohydrate,10,13,E
 19229,3,Nutrient,851,9.2,g/100g,Vegetable juice,Beverages,Other beverages,Carbohydrate,1,0,B
-19234,3,Nutrient,852,79.05,g/100g,Horchata,Beverages,Other beverages,Carbohydrate,10,14,D
+19234,3,Nutrient,852,79.05,g/100g,Horchata,Beverages,Other beverages,Carbohydrate,10,14,E
 19236,3,Nutrient,853,10.2,g/100g,Soft drink,Beverages,Other beverages,Carbohydrate,,0,B
 19267,3,Nutrient,854,24.2,g/100g,Frozen yogurt,Confectioneries,Frozen desserts,Carbohydrate,4,6,C
 19272,3,Nutrient,855,21.15,g/100g,Milkshake,Confectioneries,Frozen desserts,Carbohydrate,4,7,C
@@ -2034,13 +2034,13 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 23912,4,Nutrient,623,2.4,g/100g,"Cetacea (Dolphin, Porpoise, Whale)",Aquatic foods,Cetaceans,Fatty acids,,-4,A
 23913,4,Nutrient,624,13,g/100g,"Columbidae (Dove, Pigeon)",Animal foods,Poultry,Fatty acids,,-5,A
 23914,4,Nutrient,625,1.2,g/100g,Conch,Aquatic foods,Mollusks,Fatty acids,,-4,A
-23961,4,Nutrient,630,5.8,g/100g,Liquor,Beverages,Distilled beverages,Fatty acids,,-2,A
+23961,4,Nutrient,630,5.8,g/100g,Liquor,Beverages,Distilled beverages,Fatty acids,,-2,B
 23973,4,Nutrient,631,44.1,g/100g,Cheese,Milk and milk products,Fermented milk products,Fatty acids,10,16,D
 24109,4,Nutrient,632,1.6,g/100g,Milk (Cow),Milk and milk products,Unfermented milks,Fatty acids,,-2,A
 24138,4,Nutrient,633,0.2,g/100g,Eggs,Eggs,Eggs,Fatty acids,,5,C
 24178,4,Nutrient,634,7.7,g/100g,Yogurt,Milk and milk products,Fermented milk products,Fatty acids,7,7,C
 24215,4,Nutrient,638,0.19,g/100g,Bean,Pulses,Beans,Fatty acids,0,-1,A
-24220,4,Nutrient,640,0.1,g/100g,Whisky,Beverages,Distilled beverages,Fatty acids,0,6,C
+24220,4,Nutrient,640,0.1,g/100g,Whisky,Beverages,Distilled beverages,Fatty acids,0,6,D
 24228,4,Nutrient,641,11,g/100g,Ice cream,Confectioneries,Frozen desserts,Fatty acids,10,15,D
 24285,4,Nutrient,644,6.2,g/100g,Liquorice,Confectioneries,Candies,Fatty acids,,-1,A
 24303,4,Nutrient,651,32.3,g/100g,Nougat,Confectioneries,Other confectioneries,Fatty acids,10,22,E
@@ -2157,7 +2157,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 26787,4,Nutrient,776,34,g/100g,Spread,Baking goods,Baking goods,Fatty acids,10,28,E
 26796,4,Nutrient,777,11.56,g/100g,Enchilada,Dishes,Mexican cuisine,Fatty acids,,2,B
 26799,4,Nutrient,778,13,g/100g,Egg substitute,Baking goods,Substitutes,Fatty acids,,3,C
-26801,4,Nutrient,779,17.14,g/100g,Nutritional drink,Beverages,Nutritional beverages,Fatty acids,10,10,C
+26801,4,Nutrient,779,17.14,g/100g,Nutritional drink,Beverages,Nutritional beverages,Fatty acids,10,10,E
 26813,4,Nutrient,780,16.18,g/100g,Other sandwich,Dishes,Sandwiches,Fatty acids,10,16,D
 26843,4,Nutrient,781,2.4,g/100g,Ketchup,Baking goods,Condiments,Fatty acids,2,12,D
 26847,4,Nutrient,782,5.99,g/100g,Breakfast sandwich,Dishes,Sandwiches,Fatty acids,5,19,E
@@ -2166,7 +2166,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 26895,4,Nutrient,785,99.48,g/100g,Butterfat,Milk and milk products,Other milk products,Fatty acids,,0,B
 26896,4,Nutrient,786,1.26,g/100g,Horned melon,Gourds,Gourds,Fatty acids,,-1,A
 26897,4,Nutrient,787,13.5,g/100g,Hushpuppy,Dishes,American cuisine,Fatty acids,10,24,E
-26901,4,Nutrient,788,0.1,g/100g,Fruit juice,Beverages,Other beverages,Fatty acids,0,11,D
+26901,4,Nutrient,788,0.1,g/100g,Fruit juice,Beverages,Other beverages,Fatty acids,0,11,E
 26926,4,Nutrient,789,0.1,g/100g,Relish,Baking goods,Condiments,Fatty acids,0,10,C
 26931,4,Nutrient,790,5.6,g/100g,Other fruit product,Fruits,Fruit products,Fatty acids,5,12,D
 26936,4,Nutrient,791,0.05,g/100g,Fruit salad,Fruits,Fruit products,Fatty acids,0,0,B
@@ -2222,9 +2222,9 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 27403,4,Nutrient,846,1.5,g/100g,Wonton wrapper,Baking goods,Wrappers,Fatty acids,1,14,D
 27404,4,Nutrient,848,29.4,g/100g,Trail mix,Snack foods,Snack foods,Fatty acids,,-3,A
 27409,4,Nutrient,849,0.2,g/100g,Greenthread tea,Teas,Herbal teas,Fatty acids,,0,B
-27410,4,Nutrient,850,1.05,g/100g,Fruit-flavor drink,Beverages,Other beverages,Fatty acids,1,13,D
+27410,4,Nutrient,850,1.05,g/100g,Fruit-flavor drink,Beverages,Other beverages,Fatty acids,1,13,E
 27443,4,Nutrient,851,0.4,g/100g,Vegetable juice,Beverages,Other beverages,Fatty acids,0,0,B
-27447,4,Nutrient,852,7.46,g/100g,Horchata,Beverages,Other beverages,Fatty acids,7,14,D
+27447,4,Nutrient,852,7.46,g/100g,Horchata,Beverages,Other beverages,Fatty acids,7,14,E
 27460,4,Nutrient,853,0.02,g/100g,Soft drink,Beverages,Other beverages,Fatty acids,,0,B
 27475,4,Nutrient,854,5.6,g/100g,Frozen yogurt,Confectioneries,Frozen desserts,Fatty acids,5,6,C
 27480,4,Nutrient,855,2.7,g/100g,Milkshake,Confectioneries,Frozen desserts,Fatty acids,2,7,C
@@ -2561,7 +2561,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 32623,5,Nutrient,631,0.2,g/100g,Cheese,Milk and milk products,Fermented milk products,Fiber (dietary),0,16,D
 32776,5,Nutrient,634,0.5,g/100g,Yogurt,Milk and milk products,Fermented milk products,Fiber (dietary),0,7,C
 32823,5,Nutrient,638,3.4,g/100g,Bean,Pulses,Beans,Fiber (dietary),-3,-1,A
-32832,5,Nutrient,640,0.1,g/100g,Whisky,Beverages,Distilled beverages,Fiber (dietary),0,6,C
+32832,5,Nutrient,640,0.1,g/100g,Whisky,Beverages,Distilled beverages,Fiber (dietary),0,6,D
 32852,5,Nutrient,641,0.7,g/100g,Ice cream,Confectioneries,Frozen desserts,Fiber (dietary),0,15,D
 32900,5,Nutrient,643,0.2,g/100g,Honey,Confectioneries,Other confectioneries,Fiber (dietary),,10,C
 32930,5,Nutrient,651,0.4,g/100g,Nougat,Confectioneries,Other confectioneries,Fiber (dietary),0,22,E
@@ -2646,14 +2646,14 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 35381,5,Nutrient,771,0.9,g/100g,Tapioca pearl,Baking goods,Baking goods,Fiber (dietary),0,14,D
 35382,5,Nutrient,773,1.7,g/100g,Quesadilla,Dishes,Mexican cuisine,Fiber (dietary),-1,19,E
 35383,5,Nutrient,776,0.4,g/100g,Spread,Baking goods,Baking goods,Fiber (dietary),0,28,E
-35394,5,Nutrient,779,7.1,g/100g,Nutritional drink,Beverages,Nutritional beverages,Fiber (dietary),-5,10,C
+35394,5,Nutrient,779,7.1,g/100g,Nutritional drink,Beverages,Nutritional beverages,Fiber (dietary),-5,10,E
 35405,5,Nutrient,780,1.4,g/100g,Other sandwich,Dishes,Sandwiches,Fiber (dietary),-1,16,D
 35425,5,Nutrient,781,3.3,g/100g,Ketchup,Baking goods,Condiments,Fiber (dietary),-3,12,D
 35431,5,Nutrient,782,1.5,g/100g,Breakfast sandwich,Dishes,Sandwiches,Fiber (dietary),-1,19,E
 35459,5,Nutrient,783,1.3,g/100g,Adobo,Baking goods,Seasonings,Fiber (dietary),-1,24,E
 35461,5,Nutrient,784,0.5,g/100g,Macaroni and cheese,Dishes,Pasta dishes,Fiber (dietary),0,9,C
 35472,5,Nutrient,787,2.8,g/100g,Hushpuppy,Dishes,American cuisine,Fiber (dietary),-2,24,E
-35478,5,Nutrient,788,0.1,g/100g,Fruit juice,Beverages,Other beverages,Fiber (dietary),0,11,D
+35478,5,Nutrient,788,0.1,g/100g,Fruit juice,Beverages,Other beverages,Fiber (dietary),0,11,E
 35503,5,Nutrient,789,1.5,g/100g,Relish,Baking goods,Condiments,Fiber (dietary),-1,10,C
 35507,5,Nutrient,790,7.9,g/100g,Other fruit product,Fruits,Fruit products,Fiber (dietary),-5,12,D
 35513,5,Nutrient,791,1,g/100g,Fruit salad,Fruits,Fruit products,Fiber (dietary),-1,0,B
@@ -2696,9 +2696,9 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 35986,5,Nutrient,844,2.3,g/100g,Pan dulce,Cereals and cereal products,Leavened breads,Fiber (dietary),-2,19,E
 35987,5,Nutrient,845,4.3,g/100g,Raisin bread,Cereals and cereal products,Sweet breads,Fiber (dietary),-4,12,D
 35990,5,Nutrient,846,1.8,g/100g,Wonton wrapper,Baking goods,Wrappers,Fiber (dietary),-1,14,D
-35991,5,Nutrient,850,0.4,g/100g,Fruit-flavor drink,Beverages,Other beverages,Fiber (dietary),0,13,D
+35991,5,Nutrient,850,0.4,g/100g,Fruit-flavor drink,Beverages,Other beverages,Fiber (dietary),0,13,E
 36024,5,Nutrient,851,1.7,g/100g,Vegetable juice,Beverages,Other beverages,Fiber (dietary),-1,0,B
-36029,5,Nutrient,852,4,g/100g,Horchata,Beverages,Other beverages,Fiber (dietary),-4,14,D
+36029,5,Nutrient,852,4,g/100g,Horchata,Beverages,Other beverages,Fiber (dietary),-4,14,E
 36063,5,Nutrient,854,2.2,g/100g,Frozen yogurt,Confectioneries,Frozen desserts,Fiber (dietary),-2,6,C
 36067,5,Nutrient,855,0.3,g/100g,Milkshake,Confectioneries,Frozen desserts,Fiber (dietary),0,7,C
 36077,5,Nutrient,856,0.6,g/100g,Chocolate mousse,Confectioneries,Desserts,Fiber (dietary),0,13,D
@@ -2964,7 +2964,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 39796,9,Nutrient,756,0.002,g/100g,Morchella (Morel),Vegetables,Mushrooms,16:1 c,,-3,A
 39797,9,Nutrient,757,0.003,g/100g,Pancake,Dishes,Other dishes,16:1 c,,20,E
 39798,9,Nutrient,773,0.144,g/100g,Quesadilla,Dishes,Mexican cuisine,16:1 c,,19,E
-39799,9,Nutrient,779,0.003,g/100g,Nutritional drink,Beverages,Nutritional beverages,16:1 c,,10,C
+39799,9,Nutrient,779,0.003,g/100g,Nutritional drink,Beverages,Nutritional beverages,16:1 c,,10,E
 39800,9,Nutrient,780,0.131,g/100g,Other sandwich,Dishes,Sandwiches,16:1 c,,16,D
 39803,9,Nutrient,784,0.056,g/100g,Macaroni and cheese,Dishes,Pasta dishes,16:1 c,,9,C
 39809,9,Nutrient,787,0.012,g/100g,Hushpuppy,Dishes,American cuisine,16:1 c,,24,E
@@ -2979,7 +2979,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 39842,9,Nutrient,834,0.007,g/100g,Piki bread,Cereals and cereal products,Flat breads,16:1 c,,11,D
 39844,9,Nutrient,836,0.017,g/100g,Wheat bread,Cereals and cereal products,Leavened breads,16:1 c,,11,D
 39848,9,Nutrient,844,0.034,g/100g,Pan dulce,Cereals and cereal products,Leavened breads,16:1 c,,19,E
-39849,9,Nutrient,852,0.013,g/100g,Horchata,Beverages,Other beverages,16:1 c,,14,D
+39849,9,Nutrient,852,0.013,g/100g,Horchata,Beverages,Other beverages,16:1 c,,14,E
 39850,9,Nutrient,855,0.143,g/100g,Milkshake,Confectioneries,Frozen desserts,16:1 c,,7,C
 39851,9,Nutrient,858,0.102,g/100g,Pupusa,Dishes,Latin American cuisine,16:1 c,,11,D
 39854,9,Nutrient,859,0.29,g/100g,Empanada,Dishes,Latin American cuisine,16:1 c,,17,D
@@ -3340,7 +3340,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 43500,11,Nutrient,622,0.1,g/100g,Walnut,Nuts,Nuts,16:1 undifferentiated,,11,D
 43501,11,Nutrient,624,0.677,g/100g,"Columbidae (Dove, Pigeon)",Animal foods,Poultry,16:1 undifferentiated,,-5,A
 43502,11,Nutrient,625,0.06,g/100g,Conch,Aquatic foods,Mollusks,16:1 undifferentiated,,-4,A
-43513,11,Nutrient,630,0.34,g/100g,Liquor,Beverages,Distilled beverages,16:1 undifferentiated,,-2,A
+43513,11,Nutrient,630,0.34,g/100g,Liquor,Beverages,Distilled beverages,16:1 undifferentiated,,-2,B
 43514,11,Nutrient,631,0.816,g/100g,Cheese,Milk and milk products,Fermented milk products,16:1 undifferentiated,,16,D
 43590,11,Nutrient,632,0.001,g/100g,Milk (Cow),Milk and milk products,Unfermented milks,16:1 undifferentiated,,-2,A
 43610,11,Nutrient,633,0.201,g/100g,Eggs,Eggs,Eggs,16:1 undifferentiated,,5,C
@@ -3432,7 +3432,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 45329,11,Nutrient,775,0.66,g/100g,Hot dog,Dishes,Sandwiches,16:1 undifferentiated,,2,B
 45333,11,Nutrient,776,0.63,g/100g,Spread,Baking goods,Baking goods,16:1 undifferentiated,,28,E
 45341,11,Nutrient,778,0.496,g/100g,Egg substitute,Baking goods,Substitutes,16:1 undifferentiated,,3,C
-45345,11,Nutrient,779,0.003,g/100g,Nutritional drink,Beverages,Nutritional beverages,16:1 undifferentiated,,10,C
+45345,11,Nutrient,779,0.003,g/100g,Nutritional drink,Beverages,Nutritional beverages,16:1 undifferentiated,,10,E
 45355,11,Nutrient,780,0.541,g/100g,Other sandwich,Dishes,Sandwiches,16:1 undifferentiated,,16,D
 45373,11,Nutrient,781,0.002,g/100g,Ketchup,Baking goods,Condiments,16:1 undifferentiated,,12,D
 45375,11,Nutrient,782,0.003,g/100g,Breakfast sandwich,Dishes,Sandwiches,16:1 undifferentiated,,19,E
@@ -3440,7 +3440,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 45397,11,Nutrient,784,0.709,g/100g,Macaroni and cheese,Dishes,Pasta dishes,16:1 undifferentiated,,9,C
 45408,11,Nutrient,785,2.228,g/100g,Butterfat,Milk and milk products,Other milk products,16:1 undifferentiated,,0,B
 45409,11,Nutrient,787,0.057,g/100g,Hushpuppy,Dishes,American cuisine,16:1 undifferentiated,,24,E
-45411,11,Nutrient,788,0.002,g/100g,Fruit juice,Beverages,Other beverages,16:1 undifferentiated,,11,D
+45411,11,Nutrient,788,0.002,g/100g,Fruit juice,Beverages,Other beverages,16:1 undifferentiated,,11,E
 45434,11,Nutrient,789,0.001,g/100g,Relish,Baking goods,Condiments,16:1 undifferentiated,,10,C
 45439,11,Nutrient,790,0.052,g/100g,Other fruit product,Fruits,Fruit products,16:1 undifferentiated,,12,D
 45445,11,Nutrient,791,0.003,g/100g,Fruit salad,Fruits,Fruit products,16:1 undifferentiated,,0,B
@@ -3483,8 +3483,8 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 45732,11,Nutrient,845,0.006,g/100g,Raisin bread,Cereals and cereal products,Sweet breads,16:1 undifferentiated,,12,D
 45735,11,Nutrient,846,0.01,g/100g,Wonton wrapper,Baking goods,Wrappers,16:1 undifferentiated,,14,D
 45736,11,Nutrient,848,0.07,g/100g,Trail mix,Snack foods,Snack foods,16:1 undifferentiated,,-3,A
-45743,11,Nutrient,850,0.001,g/100g,Fruit-flavor drink,Beverages,Other beverages,16:1 undifferentiated,,13,D
-45775,11,Nutrient,852,0.013,g/100g,Horchata,Beverages,Other beverages,16:1 undifferentiated,,14,D
+45743,11,Nutrient,850,0.001,g/100g,Fruit-flavor drink,Beverages,Other beverages,16:1 undifferentiated,,13,E
+45775,11,Nutrient,852,0.013,g/100g,Horchata,Beverages,Other beverages,16:1 undifferentiated,,14,E
 45796,11,Nutrient,854,0.13,g/100g,Frozen yogurt,Confectioneries,Frozen desserts,16:1 undifferentiated,,6,C
 45801,11,Nutrient,855,0.06,g/100g,Milkshake,Confectioneries,Frozen desserts,16:1 undifferentiated,,7,C
 45810,11,Nutrient,856,0.269,g/100g,Chocolate mousse,Confectioneries,Desserts,16:1 undifferentiated,,13,D
@@ -3606,7 +3606,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 47283,12,Nutrient,831,0.005,g/100g,Bagel,Cereals and cereal products,Leavened breads,17:01,,12,D
 47286,12,Nutrient,834,0.003,g/100g,Piki bread,Cereals and cereal products,Flat breads,17:01,,11,D
 47292,12,Nutrient,836,0.001,g/100g,Wheat bread,Cereals and cereal products,Leavened breads,17:01,,11,D
-47307,12,Nutrient,852,0.003,g/100g,Horchata,Beverages,Other beverages,17:01,,14,D
+47307,12,Nutrient,852,0.003,g/100g,Horchata,Beverages,Other beverages,17:01,,14,E
 47308,12,Nutrient,855,0.009,g/100g,Milkshake,Confectioneries,Frozen desserts,17:01,,7,C
 47313,12,Nutrient,858,0.015,g/100g,Pupusa,Dishes,Latin American cuisine,17:01,,11,D
 47316,12,Nutrient,859,0.001,g/100g,Empanada,Dishes,Latin American cuisine,17:01,,17,D
@@ -3718,7 +3718,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 48214,13,Nutrient,756,0.022,g/100g,Morchella (Morel),Vegetables,Mushrooms,18:1 c,,-3,A
 48215,13,Nutrient,757,0.839,g/100g,Pancake,Dishes,Other dishes,18:1 c,,20,E
 48217,13,Nutrient,773,3.232,g/100g,Quesadilla,Dishes,Mexican cuisine,18:1 c,,19,E
-48218,13,Nutrient,779,1.532,g/100g,Nutritional drink,Beverages,Nutritional beverages,18:1 c,,10,C
+48218,13,Nutrient,779,1.532,g/100g,Nutritional drink,Beverages,Nutritional beverages,18:1 c,,10,E
 48219,13,Nutrient,780,2.371,g/100g,Other sandwich,Dishes,Sandwiches,18:1 c,,16,D
 48222,13,Nutrient,784,1.199,g/100g,Macaroni and cheese,Dishes,Pasta dishes,18:1 c,,9,C
 48228,13,Nutrient,787,5.178,g/100g,Hushpuppy,Dishes,American cuisine,18:1 c,,24,E
@@ -3735,7 +3735,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 48267,13,Nutrient,834,1.744,g/100g,Piki bread,Cereals and cereal products,Flat breads,18:1 c,,11,D
 48269,13,Nutrient,836,0.452,g/100g,Wheat bread,Cereals and cereal products,Leavened breads,18:1 c,,11,D
 48273,13,Nutrient,844,2.542,g/100g,Pan dulce,Cereals and cereal products,Leavened breads,18:1 c,,19,E
-48274,13,Nutrient,852,3.124,g/100g,Horchata,Beverages,Other beverages,18:1 c,,14,D
+48274,13,Nutrient,852,3.124,g/100g,Horchata,Beverages,Other beverages,18:1 c,,14,E
 48275,13,Nutrient,855,1.997,g/100g,Milkshake,Confectioneries,Frozen desserts,18:1 c,,7,C
 48276,13,Nutrient,858,2.769,g/100g,Pupusa,Dishes,Latin American cuisine,18:1 c,,11,D
 48279,13,Nutrient,859,6.03,g/100g,Empanada,Dishes,Latin American cuisine,18:1 c,,17,D
@@ -3821,7 +3821,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 49170,14,Nutrient,747,0.442,g/100g,Corn chip,Snack foods,Snack foods,18:1 t,,24,E
 49175,14,Nutrient,757,0.351,g/100g,Pancake,Dishes,Other dishes,18:1 t,,20,E
 49177,14,Nutrient,773,0.215,g/100g,Quesadilla,Dishes,Mexican cuisine,18:1 t,,19,E
-49178,14,Nutrient,779,0.367,g/100g,Nutritional drink,Beverages,Nutritional beverages,18:1 t,,10,C
+49178,14,Nutrient,779,0.367,g/100g,Nutritional drink,Beverages,Nutritional beverages,18:1 t,,10,E
 49179,14,Nutrient,780,0.394,g/100g,Other sandwich,Dishes,Sandwiches,18:1 t,,16,D
 49182,14,Nutrient,784,0.106,g/100g,Macaroni and cheese,Dishes,Pasta dishes,18:1 t,,9,C
 49188,14,Nutrient,787,2.551,g/100g,Hushpuppy,Dishes,American cuisine,18:1 t,,24,E
@@ -3837,7 +3837,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 49226,14,Nutrient,834,0.003,g/100g,Piki bread,Cereals and cereal products,Flat breads,18:1 t,,11,D
 49228,14,Nutrient,836,0.04,g/100g,Wheat bread,Cereals and cereal products,Leavened breads,18:1 t,,11,D
 49232,14,Nutrient,844,0.895,g/100g,Pan dulce,Cereals and cereal products,Leavened breads,18:1 t,,19,E
-49233,14,Nutrient,852,0.012,g/100g,Horchata,Beverages,Other beverages,18:1 t,,14,D
+49233,14,Nutrient,852,0.012,g/100g,Horchata,Beverages,Other beverages,18:1 t,,14,E
 49234,14,Nutrient,855,0.207,g/100g,Milkshake,Confectioneries,Frozen desserts,18:1 t,,7,C
 49235,14,Nutrient,858,0.035,g/100g,Pupusa,Dishes,Latin American cuisine,18:1 t,,11,D
 49238,14,Nutrient,859,0.672,g/100g,Empanada,Dishes,Latin American cuisine,18:1 t,,17,D
@@ -4219,13 +4219,13 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 52713,15,Nutrient,622,22.2,g/100g,Walnut,Nuts,Nuts,18:1 undifferentiated,,11,D
 52714,15,Nutrient,624,4.632,g/100g,"Columbidae (Dove, Pigeon)",Animal foods,Poultry,18:1 undifferentiated,,-5,A
 52715,15,Nutrient,625,0.072,g/100g,Conch,Aquatic foods,Mollusks,18:1 undifferentiated,,-4,A
-52724,15,Nutrient,630,0.015,g/100g,Liquor,Beverages,Distilled beverages,18:1 undifferentiated,,-2,A
+52724,15,Nutrient,630,0.015,g/100g,Liquor,Beverages,Distilled beverages,18:1 undifferentiated,,-2,B
 52728,15,Nutrient,631,6.622,g/100g,Cheese,Milk and milk products,Fermented milk products,18:1 undifferentiated,,16,D
 52804,15,Nutrient,632,1.785,g/100g,Milk (Cow),Milk and milk products,Unfermented milks,18:1 undifferentiated,,-2,A
 52824,15,Nutrient,633,3.411,g/100g,Eggs,Eggs,Eggs,18:1 undifferentiated,,5,C
 52852,15,Nutrient,634,0.743,g/100g,Yogurt,Milk and milk products,Fermented milk products,18:1 undifferentiated,,7,C
 52873,15,Nutrient,638,0.014,g/100g,Bean,Pulses,Beans,18:1 undifferentiated,,-1,A
-52876,15,Nutrient,640,0.006,g/100g,Whisky,Beverages,Distilled beverages,18:1 undifferentiated,,6,C
+52876,15,Nutrient,640,0.006,g/100g,Whisky,Beverages,Distilled beverages,18:1 undifferentiated,,6,D
 52883,15,Nutrient,641,3.22,g/100g,Ice cream,Confectioneries,Frozen desserts,18:1 undifferentiated,,15,D
 52919,15,Nutrient,654,4.44,g/100g,Cake,Confectioneries,Desserts,18:1 undifferentiated,,24,E
 52969,15,Nutrient,655,4.092,g/100g,Pizza,Dishes,Other dishes,18:1 undifferentiated,,7,C
@@ -4323,7 +4323,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 54589,15,Nutrient,776,7.4,g/100g,Spread,Baking goods,Baking goods,18:1 undifferentiated,,28,E
 54598,15,Nutrient,777,3.872,g/100g,Enchilada,Dishes,Mexican cuisine,18:1 undifferentiated,,2,B
 54601,15,Nutrient,778,4.845,g/100g,Egg substitute,Baking goods,Substitutes,18:1 undifferentiated,,3,C
-54603,15,Nutrient,779,11.64,g/100g,Nutritional drink,Beverages,Nutritional beverages,18:1 undifferentiated,,10,C
+54603,15,Nutrient,779,11.64,g/100g,Nutritional drink,Beverages,Nutritional beverages,18:1 undifferentiated,,10,E
 54615,15,Nutrient,780,5.128,g/100g,Other sandwich,Dishes,Sandwiches,18:1 undifferentiated,,16,D
 54633,15,Nutrient,781,0.045,g/100g,Ketchup,Baking goods,Condiments,18:1 undifferentiated,,12,D
 54635,15,Nutrient,782,3.332,g/100g,Breakfast sandwich,Dishes,Sandwiches,18:1 undifferentiated,,19,E
@@ -4331,7 +4331,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 54657,15,Nutrient,784,6.764,g/100g,Macaroni and cheese,Dishes,Pasta dishes,18:1 undifferentiated,,9,C
 54668,15,Nutrient,785,25.026,g/100g,Butterfat,Milk and milk products,Other milk products,18:1 undifferentiated,,0,B
 54669,15,Nutrient,787,3.178,g/100g,Hushpuppy,Dishes,American cuisine,18:1 undifferentiated,,24,E
-54671,15,Nutrient,788,0.015,g/100g,Fruit juice,Beverages,Other beverages,18:1 undifferentiated,,11,D
+54671,15,Nutrient,788,0.015,g/100g,Fruit juice,Beverages,Other beverages,18:1 undifferentiated,,11,E
 54696,15,Nutrient,789,0.09,g/100g,Relish,Baking goods,Condiments,18:1 undifferentiated,,10,C
 54700,15,Nutrient,790,0.008,g/100g,Other fruit product,Fruits,Fruit products,18:1 undifferentiated,,12,D
 54702,15,Nutrient,791,0.009,g/100g,Fruit salad,Fruits,Fruit products,18:1 undifferentiated,,0,B
@@ -4381,9 +4381,9 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 55012,15,Nutrient,845,2.288,g/100g,Raisin bread,Cereals and cereal products,Sweet breads,18:1 undifferentiated,,12,D
 55015,15,Nutrient,846,0.183,g/100g,Wonton wrapper,Baking goods,Wrappers,18:1 undifferentiated,,14,D
 55016,15,Nutrient,848,12.29,g/100g,Trail mix,Snack foods,Snack foods,18:1 undifferentiated,,-3,A
-55023,15,Nutrient,850,0.01,g/100g,Fruit-flavor drink,Beverages,Other beverages,18:1 undifferentiated,,13,D
+55023,15,Nutrient,850,0.01,g/100g,Fruit-flavor drink,Beverages,Other beverages,18:1 undifferentiated,,13,E
 55053,15,Nutrient,851,0.014,g/100g,Vegetable juice,Beverages,Other beverages,18:1 undifferentiated,,0,B
-55055,15,Nutrient,852,3.136,g/100g,Horchata,Beverages,Other beverages,18:1 undifferentiated,,14,D
+55055,15,Nutrient,852,3.136,g/100g,Horchata,Beverages,Other beverages,18:1 undifferentiated,,14,E
 55077,15,Nutrient,854,1.46,g/100g,Frozen yogurt,Confectioneries,Frozen desserts,18:1 undifferentiated,,6,C
 55082,15,Nutrient,855,0.679,g/100g,Milkshake,Confectioneries,Frozen desserts,18:1 undifferentiated,,7,C
 55091,15,Nutrient,856,4.627,g/100g,Chocolate mousse,Confectioneries,Desserts,18:1 undifferentiated,,13,D
@@ -4567,7 +4567,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 56213,18,Nutrient,746,0.059,g/100g,Tortilla chip,Snack foods,Snack foods,18:2 t not further defined,,21,E
 56217,18,Nutrient,757,0.032,g/100g,Pancake,Dishes,Other dishes,18:2 t not further defined,,20,E
 56218,18,Nutrient,773,0.081,g/100g,Quesadilla,Dishes,Mexican cuisine,18:2 t not further defined,,19,E
-56219,18,Nutrient,779,0.044,g/100g,Nutritional drink,Beverages,Nutritional beverages,18:2 t not further defined,,10,C
+56219,18,Nutrient,779,0.044,g/100g,Nutritional drink,Beverages,Nutritional beverages,18:2 t not further defined,,10,E
 56220,18,Nutrient,780,0.046,g/100g,Other sandwich,Dishes,Sandwiches,18:2 t not further defined,,16,D
 56222,18,Nutrient,784,0.034,g/100g,Macaroni and cheese,Dishes,Pasta dishes,18:2 t not further defined,,9,C
 56228,18,Nutrient,787,0.159,g/100g,Hushpuppy,Dishes,American cuisine,18:2 t not further defined,,24,E
@@ -4580,7 +4580,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 56251,18,Nutrient,834,0.003,g/100g,Piki bread,Cereals and cereal products,Flat breads,18:2 t not further defined,,11,D
 56253,18,Nutrient,836,0.006,g/100g,Wheat bread,Cereals and cereal products,Leavened breads,18:2 t not further defined,,11,D
 56257,18,Nutrient,844,0.207,g/100g,Pan dulce,Cereals and cereal products,Leavened breads,18:2 t not further defined,,19,E
-56258,18,Nutrient,852,0.009,g/100g,Horchata,Beverages,Other beverages,18:2 t not further defined,,14,D
+56258,18,Nutrient,852,0.009,g/100g,Horchata,Beverages,Other beverages,18:2 t not further defined,,14,E
 56259,18,Nutrient,855,0.059,g/100g,Milkshake,Confectioneries,Frozen desserts,18:2 t not further defined,,7,C
 56260,18,Nutrient,858,0.019,g/100g,Pupusa,Dishes,Latin American cuisine,18:2 t not further defined,,11,D
 56263,18,Nutrient,859,0.141,g/100g,Empanada,Dishes,Latin American cuisine,18:2 t not further defined,,17,D
@@ -4982,13 +4982,13 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 59933,20,Nutrient,622,52.9,g/100g,Walnut,Nuts,Nuts,18:2 undifferentiated,,11,D
 59934,20,Nutrient,624,2.324,g/100g,"Columbidae (Dove, Pigeon)",Animal foods,Poultry,18:2 undifferentiated,,-5,A
 59935,20,Nutrient,625,0.048,g/100g,Conch,Aquatic foods,Mollusks,18:2 undifferentiated,,-4,A
-59944,20,Nutrient,630,0.058,g/100g,Liquor,Beverages,Distilled beverages,18:2 undifferentiated,,-2,A
+59944,20,Nutrient,630,0.058,g/100g,Liquor,Beverages,Distilled beverages,18:2 undifferentiated,,-2,B
 59948,20,Nutrient,631,0.536,g/100g,Cheese,Milk and milk products,Fermented milk products,18:2 undifferentiated,,16,D
 60024,20,Nutrient,632,0.717,g/100g,Milk (Cow),Milk and milk products,Unfermented milks,18:2 undifferentiated,,-2,A
 60044,20,Nutrient,633,1.555,g/100g,Eggs,Eggs,Eggs,18:2 undifferentiated,,5,C
 60072,20,Nutrient,634,0.065,g/100g,Yogurt,Milk and milk products,Fermented milk products,18:2 undifferentiated,,7,C
 60093,20,Nutrient,638,0.04,g/100g,Bean,Pulses,Beans,18:2 undifferentiated,,-1,A
-60096,20,Nutrient,640,0.025,g/100g,Whisky,Beverages,Distilled beverages,18:2 undifferentiated,,6,C
+60096,20,Nutrient,640,0.025,g/100g,Whisky,Beverages,Distilled beverages,18:2 undifferentiated,,6,D
 60103,20,Nutrient,641,0.28,g/100g,Ice cream,Confectioneries,Frozen desserts,18:2 undifferentiated,,15,D
 60139,20,Nutrient,654,2.968,g/100g,Cake,Confectioneries,Desserts,18:2 undifferentiated,,24,E
 60189,20,Nutrient,655,1.68,g/100g,Pizza,Dishes,Other dishes,18:2 undifferentiated,,7,C
@@ -5085,7 +5085,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 61813,20,Nutrient,776,18.1,g/100g,Spread,Baking goods,Baking goods,18:2 undifferentiated,,28,E
 61822,20,Nutrient,777,0.449,g/100g,Enchilada,Dishes,Mexican cuisine,18:2 undifferentiated,,2,B
 61824,20,Nutrient,778,1.413,g/100g,Egg substitute,Baking goods,Substitutes,18:2 undifferentiated,,3,C
-61826,20,Nutrient,779,1.709,g/100g,Nutritional drink,Beverages,Nutritional beverages,18:2 undifferentiated,,10,C
+61826,20,Nutrient,779,1.709,g/100g,Nutritional drink,Beverages,Nutritional beverages,18:2 undifferentiated,,10,E
 61838,20,Nutrient,780,4,g/100g,Other sandwich,Dishes,Sandwiches,18:2 undifferentiated,,16,D
 61856,20,Nutrient,781,0.121,g/100g,Ketchup,Baking goods,Condiments,18:2 undifferentiated,,12,D
 61858,20,Nutrient,782,0.856,g/100g,Breakfast sandwich,Dishes,Sandwiches,18:2 undifferentiated,,19,E
@@ -5093,7 +5093,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 61880,20,Nutrient,784,1.463,g/100g,Macaroni and cheese,Dishes,Pasta dishes,18:2 undifferentiated,,9,C
 61891,20,Nutrient,785,2.247,g/100g,Butterfat,Milk and milk products,Other milk products,18:2 undifferentiated,,0,B
 61892,20,Nutrient,787,6.39,g/100g,Hushpuppy,Dishes,American cuisine,18:2 undifferentiated,,24,E
-61894,20,Nutrient,788,0.014,g/100g,Fruit juice,Beverages,Other beverages,18:2 undifferentiated,,11,D
+61894,20,Nutrient,788,0.014,g/100g,Fruit juice,Beverages,Other beverages,18:2 undifferentiated,,11,E
 61919,20,Nutrient,789,0.056,g/100g,Relish,Baking goods,Condiments,18:2 undifferentiated,,10,C
 61923,20,Nutrient,790,0.013,g/100g,Other fruit product,Fruits,Fruit products,18:2 undifferentiated,,12,D
 61925,20,Nutrient,791,0.017,g/100g,Fruit salad,Fruits,Fruit products,18:2 undifferentiated,,0,B
@@ -5144,9 +5144,9 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 62238,20,Nutrient,845,0.641,g/100g,Raisin bread,Cereals and cereal products,Sweet breads,18:2 undifferentiated,,12,D
 62241,20,Nutrient,846,0.571,g/100g,Wonton wrapper,Baking goods,Wrappers,18:2 undifferentiated,,14,D
 62242,20,Nutrient,848,9.58,g/100g,Trail mix,Snack foods,Snack foods,18:2 undifferentiated,,-3,A
-62249,20,Nutrient,850,0.062,g/100g,Fruit-flavor drink,Beverages,Other beverages,18:2 undifferentiated,,13,D
+62249,20,Nutrient,850,0.062,g/100g,Fruit-flavor drink,Beverages,Other beverages,18:2 undifferentiated,,13,E
 62279,20,Nutrient,851,0.036,g/100g,Vegetable juice,Beverages,Other beverages,18:2 undifferentiated,,0,B
-62281,20,Nutrient,852,2,g/100g,Horchata,Beverages,Other beverages,18:2 undifferentiated,,14,D
+62281,20,Nutrient,852,2,g/100g,Horchata,Beverages,Other beverages,18:2 undifferentiated,,14,E
 62303,20,Nutrient,854,0.13,g/100g,Frozen yogurt,Confectioneries,Frozen desserts,18:2 undifferentiated,,6,C
 62308,20,Nutrient,855,0.061,g/100g,Milkshake,Confectioneries,Frozen desserts,18:2 undifferentiated,,7,C
 62316,20,Nutrient,856,0.656,g/100g,Chocolate mousse,Confectioneries,Desserts,18:2 undifferentiated,,13,D
@@ -5501,13 +5501,13 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 65779,21,Nutrient,621,0.074,g/100g,Thunnus,Aquatic foods,Fishes,18:3 undifferentiated,,1,B
 65784,21,Nutrient,622,10.4,g/100g,Walnut,Nuts,Nuts,18:3 undifferentiated,,11,D
 65785,21,Nutrient,624,0.096,g/100g,"Columbidae (Dove, Pigeon)",Animal foods,Poultry,18:3 undifferentiated,,-5,A
-65795,21,Nutrient,630,0.109,g/100g,Liquor,Beverages,Distilled beverages,18:3 undifferentiated,,-2,A
+65795,21,Nutrient,630,0.109,g/100g,Liquor,Beverages,Distilled beverages,18:3 undifferentiated,,-2,B
 65799,21,Nutrient,631,0.264,g/100g,Cheese,Milk and milk products,Fermented milk products,18:3 undifferentiated,,16,D
 65875,21,Nutrient,632,0.027,g/100g,Milk (Cow),Milk and milk products,Unfermented milks,18:3 undifferentiated,,-2,A
 65895,21,Nutrient,633,0.048,g/100g,Eggs,Eggs,Eggs,18:3 undifferentiated,,5,C
 65923,21,Nutrient,634,0.027,g/100g,Yogurt,Milk and milk products,Fermented milk products,18:3 undifferentiated,,7,C
 65944,21,Nutrient,638,0.071,g/100g,Bean,Pulses,Beans,18:3 undifferentiated,,-1,A
-65947,21,Nutrient,640,0.012,g/100g,Whisky,Beverages,Distilled beverages,18:3 undifferentiated,,6,C
+65947,21,Nutrient,640,0.012,g/100g,Whisky,Beverages,Distilled beverages,18:3 undifferentiated,,6,D
 65954,21,Nutrient,641,0.18,g/100g,Ice cream,Confectioneries,Frozen desserts,18:3 undifferentiated,,15,D
 65990,21,Nutrient,654,0.143,g/100g,Cake,Confectioneries,Desserts,18:3 undifferentiated,,24,E
 66040,21,Nutrient,655,0.167,g/100g,Pizza,Dishes,Other dishes,18:3 undifferentiated,,7,C
@@ -5602,7 +5602,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 67652,21,Nutrient,776,1.9,g/100g,Spread,Baking goods,Baking goods,18:3 undifferentiated,,28,E
 67661,21,Nutrient,777,0.051,g/100g,Enchilada,Dishes,Mexican cuisine,18:3 undifferentiated,,2,B
 67664,21,Nutrient,778,0.086,g/100g,Egg substitute,Baking goods,Substitutes,18:3 undifferentiated,,3,C
-67666,21,Nutrient,779,0.061,g/100g,Nutritional drink,Beverages,Nutritional beverages,18:3 undifferentiated,,10,C
+67666,21,Nutrient,779,0.061,g/100g,Nutritional drink,Beverages,Nutritional beverages,18:3 undifferentiated,,10,E
 67678,21,Nutrient,780,0.527,g/100g,Other sandwich,Dishes,Sandwiches,18:3 undifferentiated,,16,D
 67696,21,Nutrient,781,0.004,g/100g,Ketchup,Baking goods,Condiments,18:3 undifferentiated,,12,D
 67698,21,Nutrient,782,0.023,g/100g,Breakfast sandwich,Dishes,Sandwiches,18:3 undifferentiated,,19,E
@@ -5610,7 +5610,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 67720,21,Nutrient,784,0.143,g/100g,Macaroni and cheese,Dishes,Pasta dishes,18:3 undifferentiated,,9,C
 67731,21,Nutrient,785,1.447,g/100g,Butterfat,Milk and milk products,Other milk products,18:3 undifferentiated,,0,B
 67732,21,Nutrient,787,0.811,g/100g,Hushpuppy,Dishes,American cuisine,18:3 undifferentiated,,24,E
-67734,21,Nutrient,788,0.005,g/100g,Fruit juice,Beverages,Other beverages,18:3 undifferentiated,,11,D
+67734,21,Nutrient,788,0.005,g/100g,Fruit juice,Beverages,Other beverages,18:3 undifferentiated,,11,E
 67757,21,Nutrient,789,0.054,g/100g,Relish,Baking goods,Condiments,18:3 undifferentiated,,10,C
 67761,21,Nutrient,790,0.008,g/100g,Other fruit product,Fruits,Fruit products,18:3 undifferentiated,,12,D
 67763,21,Nutrient,791,0.002,g/100g,Fruit salad,Fruits,Fruit products,18:3 undifferentiated,,0,B
@@ -5657,9 +5657,9 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 68076,21,Nutrient,845,0.038,g/100g,Raisin bread,Cereals and cereal products,Sweet breads,18:3 undifferentiated,,12,D
 68079,21,Nutrient,846,0.035,g/100g,Wonton wrapper,Baking goods,Wrappers,18:3 undifferentiated,,14,D
 68080,21,Nutrient,848,0.07,g/100g,Trail mix,Snack foods,Snack foods,18:3 undifferentiated,,-3,A
-68087,21,Nutrient,850,0.026,g/100g,Fruit-flavor drink,Beverages,Other beverages,18:3 undifferentiated,,13,D
+68087,21,Nutrient,850,0.026,g/100g,Fruit-flavor drink,Beverages,Other beverages,18:3 undifferentiated,,13,E
 68117,21,Nutrient,851,0.001,g/100g,Vegetable juice,Beverages,Other beverages,18:3 undifferentiated,,0,B
-68119,21,Nutrient,852,0.058,g/100g,Horchata,Beverages,Other beverages,18:3 undifferentiated,,14,D
+68119,21,Nutrient,852,0.058,g/100g,Horchata,Beverages,Other beverages,18:3 undifferentiated,,14,E
 68140,21,Nutrient,854,0.08,g/100g,Frozen yogurt,Confectioneries,Frozen desserts,18:3 undifferentiated,,6,C
 68145,21,Nutrient,855,0.039,g/100g,Milkshake,Confectioneries,Frozen desserts,18:3 undifferentiated,,7,C
 68153,21,Nutrient,856,0.176,g/100g,Chocolate mousse,Confectioneries,Desserts,18:3 undifferentiated,,13,D
@@ -5999,7 +5999,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 75965,24,Nutrient,622,0.4,g/100g,Walnut,Nuts,Nuts,20:01,,11,D
 75966,24,Nutrient,624,0.1,g/100g,"Columbidae (Dove, Pigeon)",Animal foods,Poultry,20:01,,-5,A
 75967,24,Nutrient,625,0.095,g/100g,Conch,Aquatic foods,Mollusks,20:01,,-4,A
-75977,24,Nutrient,630,0.001,g/100g,Liquor,Beverages,Distilled beverages,20:01,,-2,A
+75977,24,Nutrient,630,0.001,g/100g,Liquor,Beverages,Distilled beverages,20:01,,-2,B
 76007,24,Nutrient,631,0.177,g/100g,Cheese,Milk and milk products,Fermented milk products,20:01,,16,D
 76057,24,Nutrient,632,0.002,g/100g,Milk (Cow),Milk and milk products,Unfermented milks,20:01,,-2,A
 76070,24,Nutrient,633,0.027,g/100g,Eggs,Eggs,Eggs,20:01,,5,C
@@ -6068,13 +6068,13 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 77623,24,Nutrient,762,0.093,g/100g,Meatloaf,Dishes,Ground meat,20:01,,16,D
 77648,24,Nutrient,773,0.069,g/100g,Quesadilla,Dishes,Mexican cuisine,20:01,,19,E
 77650,24,Nutrient,776,0.11,g/100g,Spread,Baking goods,Baking goods,20:01,,28,E
-77659,24,Nutrient,779,0.309,g/100g,Nutritional drink,Beverages,Nutritional beverages,20:01,,10,C
+77659,24,Nutrient,779,0.309,g/100g,Nutritional drink,Beverages,Nutritional beverages,20:01,,10,E
 77671,24,Nutrient,780,0.039,g/100g,Other sandwich,Dishes,Sandwiches,20:01,,16,D
 77688,24,Nutrient,782,0.007,g/100g,Breakfast sandwich,Dishes,Sandwiches,20:01,,19,E
 77708,24,Nutrient,783,0.061,g/100g,Adobo,Baking goods,Seasonings,20:01,,24,E
 77709,24,Nutrient,784,0.115,g/100g,Macaroni and cheese,Dishes,Pasta dishes,20:01,,9,C
 77721,24,Nutrient,787,0.026,g/100g,Hushpuppy,Dishes,American cuisine,20:01,,24,E
-77740,24,Nutrient,788,0.001,g/100g,Fruit juice,Beverages,Other beverages,20:01,,11,D
+77740,24,Nutrient,788,0.001,g/100g,Fruit juice,Beverages,Other beverages,20:01,,11,E
 77744,24,Nutrient,789,0.028,g/100g,Relish,Baking goods,Condiments,20:01,,10,C
 77760,24,Nutrient,793,0.023,g/100g,Vegetarian food,Dishes,Other dishes,20:01,,5,C
 77773,24,Nutrient,795,0.005,g/100g,Cold cut,Dishes,Ground meat,20:01,,15,D
@@ -6106,7 +6106,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 78018,24,Nutrient,844,0.025,g/100g,Pan dulce,Cereals and cereal products,Leavened breads,20:01,,19,E
 78021,24,Nutrient,846,0.001,g/100g,Wonton wrapper,Baking goods,Wrappers,20:01,,14,D
 78022,24,Nutrient,848,0.17,g/100g,Trail mix,Snack foods,Snack foods,20:01,,-3,A
-78061,24,Nutrient,852,0.02,g/100g,Horchata,Beverages,Other beverages,20:01,,14,D
+78061,24,Nutrient,852,0.02,g/100g,Horchata,Beverages,Other beverages,20:01,,14,E
 78089,24,Nutrient,855,0.004,g/100g,Milkshake,Confectioneries,Frozen desserts,20:01,,7,C
 78095,24,Nutrient,856,0.007,g/100g,Chocolate mousse,Confectioneries,Desserts,20:01,,13,D
 78096,24,Nutrient,857,0.427,g/100g,Dripping,Fats and oils,Animal fats,20:01,,6,C
@@ -6223,7 +6223,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 79617,25,Nutrient,834,0.001,g/100g,Piki bread,Cereals and cereal products,Flat breads,"20:2 n-6 c,c",,11,D
 79623,25,Nutrient,836,0.002,g/100g,Wheat bread,Cereals and cereal products,Leavened breads,"20:2 n-6 c,c",,11,D
 79638,25,Nutrient,844,0.009,g/100g,Pan dulce,Cereals and cereal products,Leavened breads,"20:2 n-6 c,c",,19,E
-79639,25,Nutrient,852,0.003,g/100g,Horchata,Beverages,Other beverages,"20:2 n-6 c,c",,14,D
+79639,25,Nutrient,852,0.003,g/100g,Horchata,Beverages,Other beverages,"20:2 n-6 c,c",,14,E
 79640,25,Nutrient,855,0.002,g/100g,Milkshake,Confectioneries,Frozen desserts,"20:2 n-6 c,c",,7,C
 79644,25,Nutrient,858,0.027,g/100g,Pupusa,Dishes,Latin American cuisine,"20:2 n-6 c,c",,11,D
 79647,25,Nutrient,859,0.045,g/100g,Empanada,Dishes,Latin American cuisine,"20:2 n-6 c,c",,17,D
@@ -6646,7 +6646,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 86594,29,Nutrient,840,0.02,g/100g,Cornbread,Cereals and cereal products,Flat breads,20:4 undifferentiated,,25,E
 86615,29,Nutrient,844,0.009,g/100g,Pan dulce,Cereals and cereal products,Leavened breads,20:4 undifferentiated,,19,E
 86618,29,Nutrient,846,0.003,g/100g,Wonton wrapper,Baking goods,Wrappers,20:4 undifferentiated,,14,D
-86653,29,Nutrient,852,0.003,g/100g,Horchata,Beverages,Other beverages,20:4 undifferentiated,,14,D
+86653,29,Nutrient,852,0.003,g/100g,Horchata,Beverages,Other beverages,20:4 undifferentiated,,14,E
 86681,29,Nutrient,855,0.007,g/100g,Milkshake,Confectioneries,Frozen desserts,20:4 undifferentiated,,7,C
 86687,29,Nutrient,856,0.037,g/100g,Chocolate mousse,Confectioneries,Desserts,20:4 undifferentiated,,13,D
 86689,29,Nutrient,858,0.011,g/100g,Pupusa,Dishes,Latin American cuisine,20:4 undifferentiated,,11,D
@@ -6791,12 +6791,12 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 89035,31,Nutrient,760,0.036,g/100g,Waffle,Dishes,Other dishes,22:00,,22,E
 89044,31,Nutrient,762,0.003,g/100g,Meatloaf,Dishes,Ground meat,22:00,,16,D
 89048,31,Nutrient,773,0.029,g/100g,Quesadilla,Dishes,Mexican cuisine,22:00,,19,E
-89050,31,Nutrient,779,0.05,g/100g,Nutritional drink,Beverages,Nutritional beverages,22:00,,10,C
+89050,31,Nutrient,779,0.05,g/100g,Nutritional drink,Beverages,Nutritional beverages,22:00,,10,E
 89051,31,Nutrient,780,0.04,g/100g,Other sandwich,Dishes,Sandwiches,22:00,,16,D
 89058,31,Nutrient,782,0.02,g/100g,Breakfast sandwich,Dishes,Sandwiches,22:00,,19,E
 89077,31,Nutrient,784,0.008,g/100g,Macaroni and cheese,Dishes,Pasta dishes,22:00,,9,C
 89083,31,Nutrient,787,0.042,g/100g,Hushpuppy,Dishes,American cuisine,22:00,,24,E
-89087,31,Nutrient,788,0.001,g/100g,Fruit juice,Beverages,Other beverages,22:00,,11,D
+89087,31,Nutrient,788,0.001,g/100g,Fruit juice,Beverages,Other beverages,22:00,,11,E
 89089,31,Nutrient,793,0.007,g/100g,Vegetarian food,Dishes,Other dishes,22:00,,5,C
 89093,31,Nutrient,796,0.641,g/100g,Mixed nuts,Nuts,Nuts,22:00,,10,C
 89095,31,Nutrient,797,0.33,g/100g,Canola,Herbs and spices,Oilseed crops,22:00,,0,B
@@ -6817,7 +6817,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 89192,31,Nutrient,837,0.001,g/100g,Rye bread,Cereals and cereal products,Leavened breads,22:00,,6,C
 89208,31,Nutrient,842,0.005,g/100g,Multigrain bread,Cereals and cereal products,Leavened breads,22:00,,8,C
 89210,31,Nutrient,844,0.017,g/100g,Pan dulce,Cereals and cereal products,Leavened breads,22:00,,19,E
-89213,31,Nutrient,852,0.035,g/100g,Horchata,Beverages,Other beverages,22:00,,14,D
+89213,31,Nutrient,852,0.035,g/100g,Horchata,Beverages,Other beverages,22:00,,14,E
 89219,31,Nutrient,855,0.002,g/100g,Milkshake,Confectioneries,Frozen desserts,22:00,,7,C
 89224,31,Nutrient,856,0.003,g/100g,Chocolate mousse,Confectioneries,Desserts,22:00,,13,D
 89225,31,Nutrient,858,0.012,g/100g,Pupusa,Dishes,Latin American cuisine,22:00,,11,D
@@ -6889,7 +6889,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 89652,32,Nutrient,818,0.001,g/100g,Other pasta dish,Dishes,Pasta dishes,22:1 c,,2,B
 89653,32,Nutrient,820,0.001,g/100g,Tamale,Dishes,Latin American cuisine,22:1 c,,8,C
 89656,32,Nutrient,834,0.003,g/100g,Piki bread,Cereals and cereal products,Flat breads,22:1 c,,11,D
-89663,32,Nutrient,852,0.002,g/100g,Horchata,Beverages,Other beverages,22:1 c,,14,D
+89663,32,Nutrient,852,0.002,g/100g,Horchata,Beverages,Other beverages,22:1 c,,14,E
 89665,32,Nutrient,858,0.002,g/100g,Pupusa,Dishes,Latin American cuisine,22:1 c,,11,D
 89668,32,Nutrient,859,0.001,g/100g,Empanada,Dishes,Latin American cuisine,22:1 c,,17,D
 89670,32,Nutrient,863,0.001,g/100g,Yellow pond-lily,Herbs and Spices,Herbs,22:1 c,,6,C
@@ -7071,7 +7071,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 94115,34,Nutrient,755,0.004,g/100g,Lasagna,Dishes,Pasta dishes,22:1 undifferentiated,,6,C
 94119,34,Nutrient,757,0.001,g/100g,Pancake,Dishes,Other dishes,22:1 undifferentiated,,20,E
 94207,34,Nutrient,773,0.002,g/100g,Quesadilla,Dishes,Mexican cuisine,22:1 undifferentiated,,19,E
-94218,34,Nutrient,779,0.156,g/100g,Nutritional drink,Beverages,Nutritional beverages,22:1 undifferentiated,,10,C
+94218,34,Nutrient,779,0.156,g/100g,Nutritional drink,Beverages,Nutritional beverages,22:1 undifferentiated,,10,E
 94230,34,Nutrient,780,0.059,g/100g,Other sandwich,Dishes,Sandwiches,22:1 undifferentiated,,16,D
 94248,34,Nutrient,782,0.001,g/100g,Breakfast sandwich,Dishes,Sandwiches,22:1 undifferentiated,,19,E
 94267,34,Nutrient,784,0.001,g/100g,Macaroni and cheese,Dishes,Pasta dishes,22:1 undifferentiated,,9,C
@@ -7088,7 +7088,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 94469,34,Nutrient,820,0.001,g/100g,Tamale,Dishes,Latin American cuisine,22:1 undifferentiated,,8,C
 94496,34,Nutrient,834,0.003,g/100g,Piki bread,Cereals and cereal products,Flat breads,22:1 undifferentiated,,11,D
 94498,34,Nutrient,835,0.001,g/100g,French toast,Cereals and cereal products,Leavened breads,22:1 undifferentiated,,14,D
-94598,34,Nutrient,852,0.002,g/100g,Horchata,Beverages,Other beverages,22:1 undifferentiated,,14,D
+94598,34,Nutrient,852,0.002,g/100g,Horchata,Beverages,Other beverages,22:1 undifferentiated,,14,E
 94628,34,Nutrient,856,0.001,g/100g,Chocolate mousse,Confectioneries,Desserts,22:1 undifferentiated,,13,D
 94630,34,Nutrient,858,0.002,g/100g,Pupusa,Dishes,Latin American cuisine,22:1 undifferentiated,,11,D
 94633,34,Nutrient,859,0.001,g/100g,Empanada,Dishes,Latin American cuisine,22:1 undifferentiated,,17,D
@@ -7170,7 +7170,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 95109,35,Nutrient,834,0.002,g/100g,Piki bread,Cereals and cereal products,Flat breads,22:04,,11,D
 95113,35,Nutrient,836,0.005,g/100g,Wheat bread,Cereals and cereal products,Leavened breads,22:04,,11,D
 95117,35,Nutrient,844,0.009,g/100g,Pan dulce,Cereals and cereal products,Leavened breads,22:04,,19,E
-95118,35,Nutrient,852,0.002,g/100g,Horchata,Beverages,Other beverages,22:04,,14,D
+95118,35,Nutrient,852,0.002,g/100g,Horchata,Beverages,Other beverages,22:04,,14,E
 95119,35,Nutrient,858,0.004,g/100g,Pupusa,Dishes,Latin American cuisine,22:04,,11,D
 95122,35,Nutrient,859,0.008,g/100g,Empanada,Dishes,Latin American cuisine,22:04,,17,D
 95123,35,Nutrient,860,0.002,g/100g,Arepa,Dishes,Latin American cuisine,22:04,,11,D
@@ -7916,14 +7916,14 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 109635,38,Nutrient,624,891.192,kJ/100g,"Columbidae (Dove, Pigeon)",Animal foods,Poultry,Energy,,-5,A
 109637,38,Nutrient,625,543.92,kJ/100g,Conch,Aquatic foods,Mollusks,Energy,,-4,A
 109639,38,Nutrient,626,304,kJ/100g,Grape wine,Beverages,Fermented beverages,Energy,,0,B
-109721,38,Nutrient,630,1047,kJ/100g,Liquor,Beverages,Distilled beverages,Energy,,-2,A
+109721,38,Nutrient,630,1047,kJ/100g,Liquor,Beverages,Distilled beverages,Energy,,-2,B
 109737,38,Nutrient,631,1860,kJ/100g,Cheese,Milk and milk products,Fermented milk products,Energy,5,16,D
 109949,38,Nutrient,632,202,kJ/100g,Milk (Cow),Milk and milk products,Unfermented milks,Energy,,-2,A
 109997,38,Nutrient,633,1511,kJ/100g,Eggs,Eggs,Eggs,Energy,,5,C
 110066,38,Nutrient,634,404,kJ/100g,Yogurt,Milk and milk products,Fermented milk products,Energy,1,7,C
 110130,38,Nutrient,638,125.52,kJ/100g,Bean,Pulses,Beans,Energy,0,-1,A
 110134,38,Nutrient,639,969,kJ/100g,Vodka,Beverages,Distilled beverages,Energy,,0,B
-110137,38,Nutrient,640,1046,kJ/100g,Whisky,Beverages,Distilled beverages,Energy,3,6,C
+110137,38,Nutrient,640,1046,kJ/100g,Whisky,Beverages,Distilled beverages,Energy,3,6,D
 110154,38,Nutrient,641,868,kJ/100g,Ice cream,Confectioneries,Frozen desserts,Energy,2,15,D
 110249,38,Nutrient,642,1099,kJ/100g,Gin,Beverages,Distilled beverages,Energy,,0,B
 110252,38,Nutrient,643,1399,kJ/100g,Honey,Confectioneries,Other confectioneries,Energy,,10,C
@@ -7963,7 +7963,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 111615,38,Nutrient,682,731,kJ/100g,Leavening agent,Baking goods,Baking goods,Energy,2,14,D
 111633,38,Nutrient,683,1467,kJ/100g,Marshmallow,Confectioneries,Candies,Energy,4,11,D
 111636,38,Nutrient,684,1481,kJ/100g,Gelatin,Baking goods,Baking goods,Energy,,-2,A
-111662,38,Nutrient,685,0.999999999,kJ/100g,Water,Beverages,Waters,Energy,,0,B
+111662,38,Nutrient,685,0.999999999,kJ/100g,Water,Beverages,Waters,Energy,,0,A
 111675,38,Nutrient,686,3696,kJ/100g,Other fish product,Aquatic foods,Fish products,Energy,10,21,E
 111690,38,Nutrient,687,242,kJ/100g,Milk (Human),Milk and milk products,Unfermented milks,Energy,,-1,A
 111695,38,Nutrient,689,368.192,kJ/100g,Other beverage,Beverages,Other beverages,Energy,1,4,C
@@ -8051,7 +8051,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 115012,38,Nutrient,776,1627.576,kJ/100g,Spread,Baking goods,Baking goods,Energy,4,28,E
 115030,38,Nutrient,777,820.064,kJ/100g,Enchilada,Dishes,Mexican cuisine,Energy,,2,B
 115036,38,Nutrient,778,1857.696,kJ/100g,Egg substitute,Baking goods,Substitutes,Energy,,3,C
-115040,38,Nutrient,779,1719.624,kJ/100g,Nutritional drink,Beverages,Nutritional beverages,Energy,5,10,C
+115040,38,Nutrient,779,1719.624,kJ/100g,Nutritional drink,Beverages,Nutritional beverages,Energy,5,10,E
 115064,38,Nutrient,780,1184.072,kJ/100g,Other sandwich,Dishes,Sandwiches,Energy,3,16,D
 115124,38,Nutrient,781,479,kJ/100g,Ketchup,Baking goods,Condiments,Energy,1,12,D
 115130,38,Nutrient,782,1556.448,kJ/100g,Breakfast sandwich,Dishes,Sandwiches,Energy,4,19,E
@@ -8060,7 +8060,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 115226,38,Nutrient,785,3665.184,kJ/100g,Butterfat,Milk and milk products,Other milk products,Energy,,0,B
 115228,38,Nutrient,786,184.096,kJ/100g,Horned melon,Gourds,Gourds,Energy,,-1,A
 115230,38,Nutrient,787,1410.008,kJ/100g,Hushpuppy,Dishes,American cuisine,Energy,4,24,E
-115234,38,Nutrient,788,717,kJ/100g,Fruit juice,Beverages,Other beverages,Energy,2,11,D
+115234,38,Nutrient,788,717,kJ/100g,Fruit juice,Beverages,Other beverages,Energy,2,11,E
 115286,38,Nutrient,789,744.752,kJ/100g,Relish,Baking goods,Condiments,Energy,2,10,C
 115296,38,Nutrient,790,1311,kJ/100g,Other fruit product,Fruits,Fruit products,Energy,3,12,D
 115305,38,Nutrient,791,133.888,kJ/100g,Fruit salad,Fruits,Fruit products,Energy,0,0,B
@@ -8116,9 +8116,9 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 116208,38,Nutrient,846,1217.544,kJ/100g,Wonton wrapper,Baking goods,Wrappers,Energy,3,14,D
 116210,38,Nutrient,848,1933.008,kJ/100g,Trail mix,Snack foods,Snack foods,Energy,,-3,A
 116220,38,Nutrient,849,8.368,kJ/100g,Greenthread tea,Teas,Herbal teas,Energy,,0,B
-116222,38,Nutrient,850,1581.552,kJ/100g,Fruit-flavor drink,Beverages,Other beverages,Energy,4,13,D
+116222,38,Nutrient,850,1581.552,kJ/100g,Fruit-flavor drink,Beverages,Other beverages,Energy,4,13,E
 116288,38,Nutrient,851,220,kJ/100g,Vegetable juice,Beverages,Other beverages,Energy,0,0,B
-116295,38,Nutrient,852,1727.992,kJ/100g,Horchata,Beverages,Other beverages,Energy,5,14,D
+116295,38,Nutrient,852,1727.992,kJ/100g,Horchata,Beverages,Other beverages,Energy,5,14,E
 116299,38,Nutrient,853,173,kJ/100g,Soft drink,Beverages,Other beverages,Energy,,0,B
 116346,38,Nutrient,854,665.256,kJ/100g,Frozen yogurt,Confectioneries,Frozen desserts,Energy,1,6,C
 116356,38,Nutrient,855,497.896,kJ/100g,Milkshake,Confectioneries,Frozen desserts,Energy,1,7,C
@@ -8175,7 +8175,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 1621340,39,Nutrient,707,0.01071,g/100g,Cocoa powder,Cocoa and cocoa products,Cocoa products,Ash,,9,C
 1621349,39,Nutrient,506,0.01041,g/100g,"Cattle (Beef, Veal)",Animal foods,Bovines,Ash,,14,D
 1621351,39,Nutrient,633,0.010371,g/100g,Eggs,Eggs,Eggs,Ash,,5,C
-1621353,39,Nutrient,850,0.01031,g/100g,Fruit-flavor drink,Beverages,Other beverages,Ash,,13,D
+1621353,39,Nutrient,850,0.01031,g/100g,Fruit-flavor drink,Beverages,Other beverages,Ash,,13,E
 1621357,39,Nutrient,125,0.009989,g/100g,Rice,Cereals and cereal products,Cereals,Ash,,5,C
 1621367,39,Nutrient,759,0.00999,g/100g,Pudding,Confectioneries,Desserts,Ash,,8,C
 1621372,39,Nutrient,167,0.009639,g/100g,Summer savory,Herbs and Spices,Herbs,Ash,,4,C
@@ -8196,7 +8196,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 1621514,39,Nutrient,124,0.007877,g/100g,Common oregano,Herbs and Spices,Herbs,Ash,,2,B
 1621530,39,Nutrient,549,0.007657,g/100g,Domestic pig,Animal foods,Swine,Ash,,22,E
 1621535,39,Nutrient,67,0.007627,g/100g,Cumin,Herbs and Spices,Spices,Ash,,12,D
-1621564,39,Nutrient,788,0.007277,g/100g,Fruit juice,Beverages,Other beverages,Ash,,11,D
+1621564,39,Nutrient,788,0.007277,g/100g,Fruit juice,Beverages,Other beverages,Ash,,11,E
 1621565,39,Nutrient,690,0.007247,g/100g,Baby food,Baby foods,Baby foods,Ash,,23,E
 1621567,39,Nutrient,564,0.00727,g/100g,Wakame,Aquatic foods,Seaweed,Ash,,9,C
 1621588,39,Nutrient,671,0.007157,g/100g,Sausage,Dishes,Ground meat,Ash,,9,C
@@ -8338,7 +8338,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 1631532,39,Nutrient,160,0.5,g/100g,"Rubus (Blackberry, Raspberry)",Fruits,Berries,Ash,,0,B
 1631770,1,Nutrient,526,0.3,g/100g,Gadus (Common cod),Aquatic foods,Fishes,Fat,,17,D
 1631779,39,Nutrient,526,1.3,g/100g,Gadus (Common cod),Aquatic foods,Fishes,Ash,,17,D
-1631872,39,Nutrient,779,0.003653,g/100g,Nutritional drink,Beverages,Nutritional beverages,Ash,,10,C
+1631872,39,Nutrient,779,0.003653,g/100g,Nutritional drink,Beverages,Nutritional beverages,Ash,,10,E
 1632057,39,Nutrient,98,2.6,g/100g,Lentils,Pulses,Lentils,Ash,,3,C
 1632164,39,Nutrient,158,0.9,g/100g,Watercress,Herbs and Spices,Herbs,Ash,,-2,A
 1632383,39,Nutrient,368,0.003643,g/100g,European chestnut,Nuts,Nuts,Ash,,6,C
@@ -8572,8 +8572,8 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 1676558,39,Nutrient,93,0.002762,g/100g,Black walnut,Nuts,Nuts,Ash,,7,C
 1676638,39,Nutrient,621,0.002762,g/100g,Thunnus,Aquatic foods,Fishes,Ash,,1,B
 1676771,39,Nutrient,733,0.002762,g/100g,Tortilla,Cereals and cereal products,Flat breads,Ash,,4,C
-1676775,1,Nutrient,630,5.8,g/100g,Liquor,Beverages,Distilled beverages,Fat,,-2,A
-1676784,39,Nutrient,630,1.4,g/100g,Liquor,Beverages,Distilled beverages,Ash,,-2,A
+1676775,1,Nutrient,630,5.8,g/100g,Liquor,Beverages,Distilled beverages,Fat,,-2,B
+1676784,39,Nutrient,630,1.4,g/100g,Liquor,Beverages,Distilled beverages,Ash,,-2,B
 1677514,39,Nutrient,728,0.002752,g/100g,Burrito,Dishes,Tex-Mex cuisine,Ash,,11,D
 1677633,39,Nutrient,53,0.3,g/100g,Lime,Fruits,Citrus,Ash,,-1,A
 1677739,39,Nutrient,754,0.1,g/100g,Other frozen dessert,Confectioneries,Frozen desserts,Ash,,5,C
@@ -8616,7 +8616,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 1683049,1,Nutrient,691,11.6,g/100g,Dumpling,Dishes,Other dishes,Fat,,9,C
 1683058,39,Nutrient,691,1,g/100g,Dumpling,Dishes,Other dishes,Ash,,9,C
 1683151,39,Nutrient,464,0.002622,g/100g,Chinook salmon,Aquatic foods,Fishes,Ash,,3,C
-1683378,39,Nutrient,685,0.1,g/100g,Water,Beverages,Waters,Ash,,0,B
+1683378,39,Nutrient,685,0.1,g/100g,Water,Beverages,Waters,Ash,,0,A
 1683795,1,Nutrient,717,4.6,g/100g,Miso,Soy,Soy products,Fat,,8,C
 1683804,39,Nutrient,717,8.4,g/100g,Miso,Soy,Soy products,Ash,,8,C
 1683901,1,Nutrient,687,2.6,g/100g,Milk (Human),Milk and milk products,Unfermented milks,Fat,,-1,A
@@ -8987,7 +8987,7 @@ content_id,source_id,source_type,food_id,orig_content,orig_unit,food_name,food_g
 1740799,39,Nutrient,520,0.0003,g/100g,Jicama,Vegetables,Root vegetables,Ash,,-5,A
 1740802,39,Nutrient,764,0.0003,g/100g,Cocktail,Beverages,Alcoholic beverages,Ash,,4,C
 1740808,39,Nutrient,758,0.0003,g/100g,Pectin,Baking goods,Baking goods,Ash,,11,D
-1740861,39,Nutrient,640,0.00027,g/100g,Whisky,Beverages,Distilled beverages,Ash,,6,C
+1740861,39,Nutrient,640,0.00027,g/100g,Whisky,Beverages,Distilled beverages,Ash,,6,D
 1740871,39,Nutrient,195,0.00026,g/100g,Vanilla,Herbs and Spices,Spices,Ash,,0,B
 1740884,39,Nutrient,426,0.00026,g/100g,Ohelo berry,Fruits,Berries,Ash,,0,B
 1740887,39,Nutrient,823,0.00026,g/100g,Tree fern,Vegetables,Other vegetables,Ash,,-2,A

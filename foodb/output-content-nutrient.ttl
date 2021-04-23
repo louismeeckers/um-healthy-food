@@ -58223,7 +58223,7 @@
 
 <https://foodb.ca/foods/630> a wiki:Q2095;
   rdfs:label "Liquor";
-  foodbp:hasNutriScore "A";
+  foodbp:hasNutriScore "B";
   foodbp:hasNutriScoreValue "-2";
   schema:identifier 630;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Beverages> .
@@ -58279,7 +58279,7 @@
 
 <https://foodb.ca/foods/640> a wiki:Q2095;
   rdfs:label "Whisky";
-  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScore "D";
   foodbp:hasNutriScoreValue "6";
   schema:identifier 640;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Beverages> .
@@ -58594,7 +58594,7 @@
 
 <https://foodb.ca/foods/685> a wiki:Q2095;
   rdfs:label "Water";
-  foodbp:hasNutriScore "B";
+  foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "0";
   schema:identifier 685;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Beverages> .
@@ -59273,7 +59273,7 @@
 
 <https://foodb.ca/foods/779> a wiki:Q2095;
   rdfs:label "Nutritional drink";
-  foodbp:hasNutriScore "C";
+  foodbp:hasNutriScore "E";
   foodbp:hasNutriScoreValue "10";
   schema:identifier 779;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Beverages> .
@@ -59336,7 +59336,7 @@
 
 <https://foodb.ca/foods/788> a wiki:Q2095;
   rdfs:label "Fruit juice";
-  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScore "E";
   foodbp:hasNutriScoreValue "11";
   schema:identifier 788;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Beverages> .
@@ -59770,7 +59770,7 @@
 
 <https://foodb.ca/foods/850> a wiki:Q2095;
   rdfs:label "Fruit-flavor drink";
-  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScore "E";
   foodbp:hasNutriScoreValue "13";
   schema:identifier 850;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Beverages> .
@@ -59784,7 +59784,7 @@
 
 <https://foodb.ca/foods/852> a wiki:Q2095;
   rdfs:label "Horchata";
-  foodbp:hasNutriScore "D";
+  foodbp:hasNutriScore "E";
   foodbp:hasNutriScoreValue "14";
   schema:identifier 852;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Beverages> .
