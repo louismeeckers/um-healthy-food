@@ -91,6 +91,91 @@
   rr:predicateObjectMap [
     rr:predicate foodbp:hasNutriScore ;
     rr:objectMap [ rml:reference "nutri_score_category" ]
+  ] ;
+
+  rr:predicateObjectMap [
+    rr:predicate foodbp:hasQualityMinerals ;
+    rr:objectMap [ rml:reference "sodium" ]
+  ] ;
+
+  rr:predicateObjectMap [
+    rr:predicate foodbp:hasQualityMinerals ;
+    rr:objectMap [ rml:reference "potassium" ]
+  ] ;
+
+  rr:predicateObjectMap [
+    rr:predicate foodbp:hasQualityMinerals ;
+    rr:objectMap [ rml:reference "calcium" ]
+  ] ;
+
+  rr:predicateObjectMap [
+    rr:predicate foodbp:hasQualityMinerals ;
+    rr:objectMap [ rml:reference "iron" ]
+  ] ;
+
+  rr:predicateObjectMap [
+    rr:predicate foodbp:hasQualityMinerals ;
+    rr:objectMap [ rml:reference "phosphorus" ]
+  ] ;
+
+  rr:predicateObjectMap [
+    rr:predicate foodbp:hasQualityVitamins ;
+    rr:objectMap [ rml:reference "vitaminD3" ]
+  ] ;
+
+  rr:predicateObjectMap [
+    rr:predicate foodbp:hasQualityVitamins ;
+    rr:objectMap [ rml:reference "vitaminEAlpha" ]
+  ] ;
+
+  rr:predicateObjectMap [
+    rr:predicate foodbp:hasQualityVitamins ;
+    rr:objectMap [ rml:reference "vitaminEGamma" ]
+  ] ;
+
+  rr:predicateObjectMap [
+    rr:predicate foodbp:hasQualityVitamins ;
+    rr:objectMap [ rml:reference "vitaminEDelta" ]
+  ] ;
+
+  rr:predicateObjectMap [
+    rr:predicate foodbp:hasQualityVitamins ;
+    rr:objectMap [ rml:reference "vitaminEBeta" ]
+  ] ;
+
+  rr:predicateObjectMap [
+    rr:predicate foodbp:hasQualityVitamins ;
+    rr:objectMap [ rml:reference "vitaminK2" ]
+  ] ;
+
+  rr:predicateObjectMap [
+    rr:predicate foodbp:hasQualityVitamins ;
+    rr:objectMap [ rml:reference "vitaminB1" ]
+  ] ;
+
+  rr:predicateObjectMap [
+    rr:predicate foodbp:hasQualityVitamins ;
+    rr:objectMap [ rml:reference "vitaminB2" ]
+  ] ;
+
+  rr:predicateObjectMap [
+    rr:predicate foodbp:hasQualityVitamins ;
+    rr:objectMap [ rml:reference "vitaminB5" ]
+  ] ;
+
+  rr:predicateObjectMap [
+    rr:predicate foodbp:hasQualityVitamins ;
+    rr:objectMap [ rml:reference "vitaminB6" ]
+  ] ;
+
+  rr:predicateObjectMap [
+    rr:predicate foodbp:hasQualityVitamins ;
+    rr:objectMap [ rml:reference "vitaminB8" ]
+  ] ;
+
+  rr:predicateObjectMap [
+    rr:predicate foodbp:hasQualityVitamins ;
+    rr:objectMap [ rml:reference "vitaminB11" ]
   ] .
 
   <TriplesMapFoodGroup>
