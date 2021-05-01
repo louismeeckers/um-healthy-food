@@ -14,3 +14,5 @@ openfoodfact/statements.nt
 openfoodfact/statements.tsv
 
 foodb/content.csv
+foodb/foodb_statements.nq
+foodb/foodb_openfoodfact_statements.nq

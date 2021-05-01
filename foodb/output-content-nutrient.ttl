@@ -54823,7 +54823,7 @@
   foodbp:hasNutriScore "D";
   foodbp:hasNutriScoreValue "14.0";
   foodbp:hasQuality "high_iron", "high_phosphorus", "high_vitaminB11", "high_vitaminB3",
-    "high_vitaminB5", "high_vitaminEGamma";
+    "high_vitaminB5", "high_vitaminEGamma", "high_vitaminK1";
   schema:identifier 11;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Nuts> .
 
@@ -54847,7 +54847,8 @@
   rdfs:label "Bitter gourd";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-4.0";
-  foodbp:hasQuality "high_potassium", "high_vitaminB11", "high_vitaminB5", "high_vitaminB6";
+  foodbp:hasQuality "high_potassium", "high_vitaminB11", "high_vitaminB5", "high_vitaminB6",
+    "high_vitaminK1";
   schema:identifier 115;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Gourds> .
 
@@ -54872,7 +54873,7 @@
   foodbp:hasNutriScoreValue "-2.0";
   foodbp:hasQuality "high_calcium", "high_iron", "high_phosphorus", "high_potassium",
     "high_vitaminB11", "high_vitaminB2", "high_vitaminB3", "high_vitaminB5", "high_vitaminB6",
-    "high_vitaminEAlpha";
+    "high_vitaminEAlpha", "high_vitaminK1";
   schema:identifier 119;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -54896,7 +54897,7 @@
   rdfs:label "Olive";
   foodbp:hasNutriScore "D";
   foodbp:hasNutriScoreValue "16.0";
-  foodbp:hasQuality "high_vitaminB5", "high_vitaminEAlpha";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminEAlpha", "high_vitaminK1";
   schema:identifier 121;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -54905,7 +54906,7 @@
   foodbp:hasNutriScore "C";
   foodbp:hasNutriScoreValue "4.0";
   foodbp:hasQuality "high_calcium", "high_iron", "high_phosphorus", "high_potassium",
-    "high_vitaminB11", "high_vitaminB6";
+    "high_vitaminB11", "high_vitaminB6", "high_vitaminK1";
   schema:identifier 122;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -54914,7 +54915,8 @@
   foodbp:hasNutriScore "B";
   foodbp:hasNutriScoreValue "2.0";
   foodbp:hasQuality "high_calcium", "high_iron", "high_potassium", "high_vitaminB11",
-    "high_vitaminB2", "high_vitaminB5", "high_vitaminB6", "high_vitaminEAlpha", "high_vitaminEGamma";
+    "high_vitaminB2", "high_vitaminB5", "high_vitaminB6", "high_vitaminEAlpha", "high_vitaminEGamma",
+    "high_vitaminK1";
   schema:identifier 124;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -54923,7 +54925,7 @@
   foodbp:hasNutriScore "C";
   foodbp:hasNutriScoreValue "5.0";
   foodbp:hasQuality "high_iron", "high_phosphorus", "high_potassium", "high_vitaminB1",
-    "high_vitaminB5", "high_vitaminB8";
+    "high_vitaminB5", "high_vitaminB8", "high_vitaminK1";
   schema:identifier 125;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
@@ -54981,7 +54983,7 @@
   rdfs:label "Parsley";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-5.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminB8";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminB8", "high_vitaminK1";
   schema:identifier 131;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -55005,7 +55007,8 @@
   rdfs:label "Common bean";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-2.0";
-  foodbp:hasQuality "high_vitaminB1", "high_vitaminB11", "high_vitaminB5", "high_vitaminB8";
+  foodbp:hasQuality "high_vitaminB1", "high_vitaminB11", "high_vitaminB5", "high_vitaminB8",
+    "high_vitaminK1";
   schema:identifier 134;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Pulses> .
 
@@ -55031,7 +55034,7 @@
   foodbp:hasNutriScore "D";
   foodbp:hasNutriScoreValue "11.0";
   foodbp:hasQuality "high_iron", "high_phosphorus", "high_vitaminB1", "high_vitaminB3",
-    "high_vitaminB5", "high_vitaminEAlpha", "high_vitaminEGamma";
+    "high_vitaminB5", "high_vitaminEAlpha", "high_vitaminEGamma", "high_vitaminK1";
   schema:identifier 138;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Nuts> .
 
@@ -55040,7 +55043,7 @@
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-1.0";
   foodbp:hasQuality "high_calcium", "high_iron", "high_potassium", "high_vitaminB5",
-    "high_vitaminEGamma";
+    "high_vitaminEGamma", "high_vitaminK1";
   schema:identifier 139;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -55065,7 +55068,7 @@
   rdfs:label "Common pea";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-6.0";
-  foodbp:hasQuality "high_vitaminB5", "high_vitaminB8";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminB8", "high_vitaminK1";
   schema:identifier 141;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Pulses> .
 
@@ -55139,7 +55142,7 @@
   rdfs:label "Wild celery";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-1.0";
-  foodbp:hasQuality "high_vitaminB1", "high_vitaminB5", "high_vitaminB8";
+  foodbp:hasQuality "high_vitaminB1", "high_vitaminB5", "high_vitaminB8", "high_vitaminK1";
   schema:identifier 15;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -55179,7 +55182,7 @@
   rdfs:label "Garden rhubarb";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-4.0";
-  foodbp:hasQuality "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminK1";
   schema:identifier 154;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -55187,7 +55190,7 @@
   rdfs:label "Blackcurrant";
   foodbp:hasNutriScore "D";
   foodbp:hasNutriScoreValue "11.0";
-  foodbp:hasQuality "high_vitaminB5", "high_vitaminB8";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminB8", "high_vitaminK1";
   schema:identifier 155;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
@@ -55211,7 +55214,7 @@
   rdfs:label "Watercress";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-2.0";
-  foodbp:hasQuality "high_vitaminB5", "high_vitaminB8";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminB8", "high_vitaminK1";
   schema:identifier 158;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -55270,7 +55273,7 @@
   foodbp:hasNutriScore "C";
   foodbp:hasNutriScoreValue "7.0";
   foodbp:hasQuality "high_calcium", "high_iron", "high_potassium", "high_vitaminB1",
-    "high_vitaminB11", "high_vitaminB3", "high_vitaminB6", "high_vitaminEAlpha";
+    "high_vitaminB11", "high_vitaminB3", "high_vitaminB6", "high_vitaminEAlpha", "high_vitaminK1";
   schema:identifier 165;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -55360,7 +55363,7 @@
   rdfs:label "Spinach";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-3.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminB8";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminB8", "high_vitaminK1";
   schema:identifier 178;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -55369,7 +55372,7 @@
   foodbp:hasNutriScore "D";
   foodbp:hasNutriScoreValue "15.0";
   foodbp:hasQuality "high_calcium", "high_iron", "high_potassium", "high_vitaminB5",
-    "high_vitaminEAlpha";
+    "high_vitaminEAlpha", "high_vitaminK1";
   schema:identifier 179;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -55393,7 +55396,7 @@
   rdfs:label "Dandelion";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-2.0";
-  foodbp:hasQuality "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminK1";
   schema:identifier 181;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -55410,7 +55413,8 @@
   foodbp:hasNutriScore "C";
   foodbp:hasNutriScoreValue "5.0";
   foodbp:hasQuality "high_calcium", "high_iron", "high_potassium", "high_vitaminB1",
-    "high_vitaminB11", "high_vitaminB3", "high_vitaminB5", "high_vitaminB6", "high_vitaminEAlpha";
+    "high_vitaminB11", "high_vitaminB3", "high_vitaminB5", "high_vitaminB6", "high_vitaminEAlpha",
+    "high_vitaminK1";
   schema:identifier 183;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -55459,7 +55463,7 @@
   rdfs:label "Highbush blueberry";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-1.0";
-  foodbp:hasQuality "high_vitaminB5", "high_vitaminEAlpha";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminEAlpha", "high_vitaminK1";
   schema:identifier 191;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
@@ -55542,7 +55546,7 @@
   rdfs:label "Mung bean";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-2.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminK1";
   schema:identifier 200;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Pulses> .
 
@@ -55550,7 +55554,7 @@
   rdfs:label "Cowpea";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-4.0";
-  foodbp:hasQuality "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminK1";
   schema:identifier 202;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Pulses> .
 
@@ -55597,7 +55601,7 @@
   rdfs:label "Asparagus";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-2.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminB8";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminB8", "high_vitaminK1";
   schema:identifier 21;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -55605,7 +55609,7 @@
   rdfs:label "Celeriac";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-5.0";
-  foodbp:hasQuality "high_vitaminB5", "high_vitaminB8";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminB8", "high_vitaminK1";
   schema:identifier 214;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -55613,7 +55617,8 @@
   rdfs:label "Oat";
   foodbp:hasNutriScore "C";
   foodbp:hasNutriScoreValue "10.0";
-  foodbp:hasQuality "high_phosphorus", "high_vitaminB1", "high_vitaminB5", "high_vitaminB8";
+  foodbp:hasQuality "high_phosphorus", "high_vitaminB1", "high_vitaminB5", "high_vitaminB8",
+    "high_vitaminK1";
   schema:identifier 22;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
@@ -55652,7 +55657,7 @@
   rdfs:label "Swiss chard";
   foodbp:hasNutriScore "B";
   foodbp:hasNutriScoreValue "0.0";
-  foodbp:hasQuality "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminK1";
   schema:identifier 237;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -55669,7 +55674,7 @@
   rdfs:label "Welsh onion";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-3.0";
-  foodbp:hasQuality "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminK1";
   schema:identifier 241;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -55710,7 +55715,7 @@
   rdfs:label "Black cabbage";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-4.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminK1";
   schema:identifier 247;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -55734,7 +55739,7 @@
   rdfs:label "Pak choy";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-1.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminK1";
   schema:identifier 252;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -55742,7 +55747,7 @@
   rdfs:label "Napa cabbage";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-1.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminK1";
   schema:identifier 253;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -55798,7 +55803,7 @@
   rdfs:label "Chinese mustard";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-4.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminK1";
   schema:identifier 27;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -55815,7 +55820,7 @@
   rdfs:label "Other soy product";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-5.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminEGamma";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminEGamma", "high_vitaminK1";
   schema:identifier 272;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Soy> .
 
@@ -55869,7 +55874,7 @@
   rdfs:label "Abalone";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-2.0";
-  foodbp:hasQuality "high_vitaminB5", "high_vitaminEAlpha";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminEAlpha", "high_vitaminK1";
   schema:identifier 280;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -55924,7 +55929,7 @@
   rdfs:label "Alfalfa";
   foodbp:hasNutriScore "C";
   foodbp:hasNutriScoreValue "10.0";
-  foodbp:hasQuality "high_iron", "high_vitaminB2", "high_vitaminB5";
+  foodbp:hasQuality "high_iron", "high_vitaminB2", "high_vitaminB5", "high_vitaminK1";
   schema:identifier 287;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -55940,7 +55945,7 @@
   rdfs:label "Amaranth";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-6.0";
-  foodbp:hasQuality "high_potassium", "high_vitaminB11", "high_vitaminB5";
+  foodbp:hasQuality "high_potassium", "high_vitaminB11", "high_vitaminB5", "high_vitaminK1";
   schema:identifier 289;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -56036,7 +56041,7 @@
   rdfs:label "Common cabbage";
   foodbp:hasNutriScore "C";
   foodbp:hasNutriScoreValue "4.0";
-  foodbp:hasQuality "high_vitaminB5", "high_vitaminB8";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminB8", "high_vitaminK1";
   schema:identifier 30;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -56140,7 +56145,7 @@
   rdfs:label "Rapini";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-3.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminK1";
   schema:identifier 314;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -56172,7 +56177,7 @@
   rdfs:label "Brussel sprouts";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-6.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminB8";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminB8", "high_vitaminK1";
   schema:identifier 32;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -56293,7 +56298,8 @@
   rdfs:label "Chicken";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-3.0";
-  foodbp:hasQuality "high_iron", "high_vitaminB2", "high_vitaminB3", "high_vitaminB8";
+  foodbp:hasQuality "high_iron", "high_vitaminB2", "high_vitaminB3", "high_vitaminB8",
+    "high_vitaminK1";
   schema:identifier 334;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Animal%20foods> .
 
@@ -56301,7 +56307,7 @@
   rdfs:label "Chinese broccoli";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-2.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminK1";
   schema:identifier 335;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -56325,7 +56331,7 @@
   rdfs:label "Garland chrysanthemum";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-4.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminK1";
   schema:identifier 338;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -56341,7 +56347,8 @@
   rdfs:label "Broccoli";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-4.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminB8", "high_vitaminC";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminB8", "high_vitaminC",
+    "high_vitaminK1";
   schema:identifier 34;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -56399,7 +56406,7 @@
   foodbp:hasNutriScoreValue "20.0";
   foodbp:hasQuality "high_calcium", "high_iron", "high_phosphorus", "high_potassium",
     "high_vitaminB1", "high_vitaminB11", "high_vitaminB5", "high_vitaminB6", "high_vitaminB8",
-    "high_vitaminEAlpha";
+    "high_vitaminEAlpha", "high_vitaminK1";
   schema:identifier 346;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -56430,7 +56437,7 @@
   rdfs:label "Chinese cabbage";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-1.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminEGamma";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminEGamma", "high_vitaminK1";
   schema:identifier 35;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -56573,7 +56580,7 @@
   rdfs:label "Pigeon pea";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-3.0";
-  foodbp:hasQuality "high_vitaminB1", "high_vitaminB11", "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB1", "high_vitaminB11", "high_vitaminB5", "high_vitaminK1";
   schema:identifier 37;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Pulses> .
 
@@ -56686,7 +56693,7 @@
   rdfs:label "Horseradish tree";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-5.0";
-  foodbp:hasQuality "high_vitaminB2", "high_vitaminB5", "high_vitaminB6";
+  foodbp:hasQuality "high_vitaminB2", "high_vitaminB5", "high_vitaminB6", "high_vitaminK1";
   schema:identifier 384;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -56735,7 +56742,7 @@
   rdfs:label "Capers";
   foodbp:hasNutriScore "C";
   foodbp:hasNutriScoreValue "6.0";
-  foodbp:hasQuality "high_sodium", "high_vitaminB5";
+  foodbp:hasQuality "high_sodium", "high_vitaminB5", "high_vitaminK1";
   schema:identifier 39;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -56775,7 +56782,7 @@
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-4.0";
   foodbp:hasQuality "high_iron", "high_vitaminB11", "high_vitaminB2", "high_vitaminB5",
-    "high_vitaminB6";
+    "high_vitaminB6", "high_vitaminK1";
   schema:identifier 394;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -56783,7 +56790,7 @@
   rdfs:label "Kale";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-4.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminB8";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminB8", "high_vitaminK1";
   schema:identifier 395;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -56791,7 +56798,7 @@
   rdfs:label "Kelp";
   foodbp:hasNutriScore "B";
   foodbp:hasNutriScoreValue "1.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminK1";
   schema:identifier 396;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -56816,7 +56823,7 @@
   rdfs:label "Lambsquarters";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-6.0";
-  foodbp:hasQuality "high_calcium", "high_vitaminB2", "high_vitaminB5";
+  foodbp:hasQuality "high_calcium", "high_vitaminB2", "high_vitaminB5", "high_vitaminK1";
   schema:identifier 399;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -56824,7 +56831,7 @@
   rdfs:label "Kiwi";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-1.0";
-  foodbp:hasQuality "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminK1";
   schema:identifier 4;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
@@ -56832,7 +56839,7 @@
   rdfs:label "Pepper";
   foodbp:hasNutriScore "C";
   foodbp:hasNutriScoreValue "9.0";
-  foodbp:hasQuality "high_sodium", "high_vitaminB5", "high_vitaminB8";
+  foodbp:hasQuality "high_sodium", "high_vitaminB5", "high_vitaminB8", "high_vitaminK1";
   schema:identifier 40;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -56848,7 +56855,7 @@
   rdfs:label "Wild leek";
   foodbp:hasNutriScore "B";
   foodbp:hasNutriScoreValue "1.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminK1";
   schema:identifier 401;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -57020,7 +57027,7 @@
   rdfs:label "New Zealand spinach";
   foodbp:hasNutriScore "B";
   foodbp:hasNutriScoreValue "0.0";
-  foodbp:hasQuality "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminK1";
   schema:identifier 422;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -57059,7 +57066,7 @@
   rdfs:label "Okra";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-4.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminK1";
   schema:identifier 427;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -57200,7 +57207,7 @@
   rdfs:label "American pokeweed";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-2.0";
-  foodbp:hasQuality "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminK1";
   schema:identifier 445;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -57273,7 +57280,7 @@
   rdfs:label "Rose hip";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-1.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminEAlpha";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminEAlpha", "high_vitaminK1";
   schema:identifier 456;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -57398,7 +57405,7 @@
   foodbp:hasNutriScore "C";
   foodbp:hasNutriScoreValue "8.0";
   foodbp:hasQuality "high_iron", "high_phosphorus", "high_potassium", "high_vitaminB1",
-    "high_vitaminB11", "high_vitaminB5";
+    "high_vitaminB11", "high_vitaminB5", "high_vitaminK1";
   schema:identifier 47;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Pulses> .
 
@@ -57487,7 +57494,7 @@
   rdfs:label "Endive";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-3.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminK1";
   schema:identifier 48;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -57577,7 +57584,7 @@
   rdfs:label "Chicory";
   foodbp:hasNutriScore "B";
   foodbp:hasNutriScoreValue "0.0";
-  foodbp:hasQuality "high_vitaminB5", "high_vitaminB8";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminB8", "high_vitaminK1";
   schema:identifier 49;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -57585,7 +57592,7 @@
   rdfs:label "Spirulina";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-5.0";
-  foodbp:hasQuality "high_vitaminB5", "high_vitaminEAlpha";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminEAlpha", "high_vitaminK1";
   schema:identifier 490;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -57664,7 +57671,8 @@
   rdfs:label "Chinese cinnamon";
   foodbp:hasNutriScore "C";
   foodbp:hasNutriScoreValue "3.0";
-  foodbp:hasQuality "high_calcium", "high_iron", "high_vitaminB5", "high_vitaminEGamma";
+  foodbp:hasQuality "high_calcium", "high_iron", "high_vitaminB5", "high_vitaminEGamma",
+    "high_vitaminK1";
   schema:identifier 50;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -57722,7 +57730,8 @@
   rdfs:label "Cattle (Beef, Veal)";
   foodbp:hasNutriScore "D";
   foodbp:hasNutriScoreValue "14.0";
-  foodbp:hasQuality "high_phosphorus", "high_vitaminB3", "high_vitaminB5", "high_vitaminB8";
+  foodbp:hasQuality "high_phosphorus", "high_vitaminB3", "high_vitaminB5", "high_vitaminB8",
+    "high_vitaminK1";
   schema:identifier 506;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Animal%20foods> .
 
@@ -57956,7 +57965,7 @@
   rdfs:label "Black-eyed pea";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-2.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminK1";
   schema:identifier 534;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Pulses> .
 
@@ -58068,7 +58077,8 @@
   rdfs:label "Domestic pig";
   foodbp:hasNutriScore "E";
   foodbp:hasNutriScoreValue "22.0";
-  foodbp:hasQuality "high_sodium", "high_vitaminB1", "high_vitaminB5", "high_vitaminB8";
+  foodbp:hasQuality "high_sodium", "high_vitaminB1", "high_vitaminB5", "high_vitaminB8",
+    "high_vitaminK1";
   schema:identifier 549;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Animal%20foods> .
 
@@ -58291,7 +58301,7 @@
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-2.0";
   foodbp:hasQuality "high_iron", "high_phosphorus", "high_potassium", "high_vitaminB1",
-    "high_vitaminB11", "high_vitaminB5", "high_vitaminB6", "high_vitaminB8";
+    "high_vitaminB11", "high_vitaminB5", "high_vitaminB6", "high_vitaminB8", "high_vitaminK1";
   schema:identifier 575;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
@@ -58299,7 +58309,7 @@
   rdfs:label "Common chokecherry";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-2.0";
-  foodbp:hasQuality "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminK1";
   schema:identifier 576;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
@@ -58315,7 +58325,7 @@
   rdfs:label "Narrowleaf cattail";
   foodbp:hasNutriScore "B";
   foodbp:hasNutriScoreValue "1.0";
-  foodbp:hasQuality "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminK1";
   schema:identifier 578;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -58596,7 +58606,7 @@
   foodbp:hasNutriScore "C";
   foodbp:hasNutriScoreValue "4.0";
   foodbp:hasQuality "high_calcium", "high_iron", "high_phosphorus", "high_potassium",
-    "high_vitaminB1", "high_vitaminB11", "high_vitaminB5";
+    "high_vitaminB1", "high_vitaminB11", "high_vitaminB5", "high_vitaminK1";
   schema:identifier 61;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -58675,7 +58685,7 @@
   rdfs:label "Catfish";
   foodbp:hasNutriScore "B";
   foodbp:hasNutriScoreValue "0.0";
-  foodbp:hasQuality "high_vitaminB3", "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB3", "high_vitaminB5", "high_vitaminK1";
   schema:identifier 619;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -58701,7 +58711,7 @@
   foodbp:hasNutriScore "B";
   foodbp:hasNutriScoreValue "1.0";
   foodbp:hasQuality "high_phosphorus", "high_vitaminB3", "high_vitaminB5", "high_vitaminB6",
-    "high_vitaminB8", "high_vitaminD3", "high_vitaminEGamma";
+    "high_vitaminB8", "high_vitaminD3", "high_vitaminEGamma", "high_vitaminK1";
   schema:identifier 621;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -58846,7 +58856,7 @@
   rdfs:label "Honey";
   foodbp:hasNutriScore "C";
   foodbp:hasNutriScoreValue "10.0";
-  foodbp:hasQuality "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminK1";
   schema:identifier 643;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Confectioneries> .
 
@@ -58966,7 +58976,7 @@
   rdfs:label "Cucurbita";
   foodbp:hasNutriScore "C";
   foodbp:hasNutriScoreValue "6.0";
-  foodbp:hasQuality "high_vitaminB5", "high_vitaminB8", "high_vitaminEGamma";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminB8", "high_vitaminEGamma", "high_vitaminK1";
   schema:identifier 66;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Gourds> .
 
@@ -59005,7 +59015,8 @@
   rdfs:label "Salad dressing";
   foodbp:hasNutriScore "E";
   foodbp:hasNutriScoreValue "22.0";
-  foodbp:hasQuality "high_vitaminB5", "high_vitaminB8", "high_vitaminEAlpha", "high_vitaminEGamma";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminB8", "high_vitaminEAlpha", "high_vitaminEGamma",
+    "high_vitaminK1";
   schema:identifier 664;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
@@ -59219,7 +59230,8 @@
   foodbp:hasNutriScore "E";
   foodbp:hasNutriScoreValue "23.0";
   foodbp:hasQuality "high_calcium", "high_iron", "high_phosphorus", "high_vitaminB2",
-    "high_vitaminB3", "high_vitaminB5", "high_vitaminB6", "high_vitaminB8", "high_vitaminEAlpha";
+    "high_vitaminB3", "high_vitaminB5", "high_vitaminB6", "high_vitaminB8", "high_vitaminEAlpha",
+    "high_vitaminK1";
   schema:identifier 690;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baby%20foods> .
 
@@ -59250,7 +59262,7 @@
   rdfs:label "Unclassified food or beverage";
   foodbp:hasNutriScore "C";
   foodbp:hasNutriScoreValue "10.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminB6";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminB6", "high_vitaminK1";
   schema:identifier 694;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Unclassified> .
 
@@ -59314,7 +59326,7 @@
   foodbp:hasNutriScore "C";
   foodbp:hasNutriScoreValue "4.0";
   foodbp:hasQuality "high_calcium", "high_iron", "high_phosphorus", "high_potassium",
-    "high_vitaminB11", "high_vitaminB6", "high_vitaminEAlpha";
+    "high_vitaminB11", "high_vitaminB6", "high_vitaminEAlpha", "high_vitaminK1";
   schema:identifier 700;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -59353,6 +59365,7 @@
   rdfs:label "Cocoa butter";
   foodbp:hasNutriScore "B";
   foodbp:hasNutriScoreValue "0.0";
+  foodbp:hasQuality "high_vitaminK1";
   schema:identifier 706;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cocoa%20and%20cocoa%20products> .
 
@@ -59441,7 +59454,7 @@
   rdfs:label "Miso";
   foodbp:hasNutriScore "C";
   foodbp:hasNutriScoreValue "8.0";
-  foodbp:hasQuality "high_phosphorus", "high_sodium", "high_vitaminB5";
+  foodbp:hasQuality "high_phosphorus", "high_sodium", "high_vitaminB5", "high_vitaminK1";
   schema:identifier 717;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Soy> .
 
@@ -59596,7 +59609,7 @@
   rdfs:label "Salad";
   foodbp:hasNutriScore "C";
   foodbp:hasNutriScoreValue "3.0";
-  foodbp:hasQuality "high_vitaminB5", "high_vitaminEGamma";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminEGamma", "high_vitaminK1";
   schema:identifier 736;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
@@ -59644,7 +59657,7 @@
   rdfs:label "Egg roll";
   foodbp:hasNutriScore "D";
   foodbp:hasNutriScoreValue "13.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminK1";
   schema:identifier 742;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
@@ -59878,7 +59891,7 @@
   rdfs:label "Rocket salad (ssp.)";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-2.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminK1";
   schema:identifier 77;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -59886,7 +59899,7 @@
   rdfs:label "Semolina";
   foodbp:hasNutriScore "C";
   foodbp:hasNutriScoreValue "8.0";
-  foodbp:hasQuality "high_vitaminB1", "high_vitaminB5", "high_vitaminB8";
+  foodbp:hasQuality "high_vitaminB1", "high_vitaminB5", "high_vitaminB8", "high_vitaminK1";
   schema:identifier 770;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Cereals%20and%20cereal%20products> .
 
@@ -59934,7 +59947,7 @@
   rdfs:label "Spread";
   foodbp:hasNutriScore "E";
   foodbp:hasNutriScoreValue "28.0";
-  foodbp:hasQuality "high_sodium", "high_vitaminB5", "high_vitaminEAlpha";
+  foodbp:hasQuality "high_sodium", "high_vitaminB5", "high_vitaminEAlpha", "high_vitaminK1";
   schema:identifier 776;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
@@ -60026,7 +60039,7 @@
   foodbp:hasNutriScore "E";
   foodbp:hasNutriScoreValue "24.0";
   foodbp:hasQuality "high_calcium", "high_sodium", "high_vitaminB1", "high_vitaminB11",
-    "high_vitaminB5";
+    "high_vitaminB5", "high_vitaminK1";
   schema:identifier 787;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Dishes> .
 
@@ -60042,7 +60055,7 @@
   rdfs:label "Relish";
   foodbp:hasNutriScore "C";
   foodbp:hasNutriScoreValue "10.0";
-  foodbp:hasQuality "high_vitaminB5";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminK1";
   schema:identifier 789;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
@@ -60105,7 +60118,7 @@
   rdfs:label "Canola";
   foodbp:hasNutriScore "B";
   foodbp:hasNutriScoreValue "0.0";
-  foodbp:hasQuality "high_vitaminEAlpha", "high_vitaminEGamma";
+  foodbp:hasQuality "high_vitaminEAlpha", "high_vitaminEGamma", "high_vitaminK1";
   schema:identifier 797;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20spices> .
 
@@ -60166,7 +60179,8 @@
   rdfs:label "Cooking oil";
   foodbp:hasNutriScore "B";
   foodbp:hasNutriScoreValue "0.0";
-  foodbp:hasQuality "high_vitaminEAlpha", "high_vitaminEDelta", "high_vitaminEGamma";
+  foodbp:hasQuality "high_vitaminEAlpha", "high_vitaminEDelta", "high_vitaminEGamma",
+    "high_vitaminK1";
   schema:identifier 804;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
@@ -60174,7 +60188,7 @@
   rdfs:label "Pie crust";
   foodbp:hasNutriScore "E";
   foodbp:hasNutriScoreValue "29.0";
-  foodbp:hasQuality "high_vitaminB5", "high_vitaminEGamma";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminEGamma", "high_vitaminK1";
   schema:identifier 805;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baking%20goods> .
 
@@ -60198,7 +60212,8 @@
   rdfs:label "Shortening";
   foodbp:hasNutriScore "B";
   foodbp:hasNutriScoreValue "0.0";
-  foodbp:hasQuality "high_vitaminB5", "high_vitaminEAlpha", "high_vitaminEDelta", "high_vitaminEGamma";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminEAlpha", "high_vitaminEDelta", "high_vitaminEGamma",
+    "high_vitaminK1";
   schema:identifier 808;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fats%20and%20oils> .
 
@@ -60262,7 +60277,7 @@
   rdfs:label "Natto";
   foodbp:hasNutriScore "C";
   foodbp:hasNutriScoreValue "3.0";
-  foodbp:hasQuality "high_iron", "high_potassium", "high_vitaminB5";
+  foodbp:hasQuality "high_iron", "high_potassium", "high_vitaminB5", "high_vitaminK1";
   schema:identifier 815;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Soy> .
 
@@ -60524,7 +60539,7 @@
   foodbp:hasNutriScoreValue "5.0";
   foodbp:hasQuality "high_iron", "high_phosphorus", "high_potassium", "high_vitaminB1",
     "high_vitaminB11", "high_vitaminB2", "high_vitaminB3", "high_vitaminB5", "high_vitaminB8",
-    "high_vitaminEDelta", "high_vitaminEGamma";
+    "high_vitaminEDelta", "high_vitaminEGamma", "high_vitaminK1";
   schema:identifier 85;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Soy> .
 
@@ -60724,7 +60739,7 @@
   foodbp:hasNutriScore "C";
   foodbp:hasNutriScoreValue "8.0";
   foodbp:hasQuality "high_sodium", "high_vitaminB5", "high_vitaminEAlpha", "high_vitaminEDelta",
-    "high_vitaminEGamma";
+    "high_vitaminEGamma", "high_vitaminK1";
   schema:identifier 872;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fats%20and%20oils> .
 
@@ -60732,7 +60747,7 @@
   rdfs:label "Margarine-like spread";
   foodbp:hasNutriScore "C";
   foodbp:hasNutriScoreValue "3.0";
-  foodbp:hasQuality "high_vitaminB5", "high_vitaminEAlpha", "high_vitaminEGamma";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminEAlpha", "high_vitaminEGamma", "high_vitaminK1";
   schema:identifier 873;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fats%20and%20oils> .
 
@@ -60825,7 +60840,7 @@
   rdfs:label "Chives";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-3.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminB8";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminB8", "high_vitaminK1";
   schema:identifier 9;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Herbs%20and%20Spices> .
 
@@ -60841,7 +60856,7 @@
   rdfs:label "Sweet potato";
   foodbp:hasNutriScore "B";
   foodbp:hasNutriScoreValue "0.0";
-  foodbp:hasQuality "high_vitaminB5", "high_vitaminB8";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminB8", "high_vitaminK1";
   schema:identifier 92;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -60885,7 +60900,7 @@
   rdfs:label "Lettuce";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-1.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminB8";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminB8", "high_vitaminK1";
   schema:identifier 95;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -60927,7 +60942,7 @@
   rdfs:label "Garden cress";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-2.0";
-  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminB8";
+  foodbp:hasQuality "high_vitaminB11", "high_vitaminB5", "high_vitaminB8", "high_vitaminK1";
   schema:identifier 99;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
