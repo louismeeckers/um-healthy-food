@@ -1,0 +1,5243 @@
+@prefix : <http://mapping.example.com/> .
+@prefix d2rq: <http://www.wiwiss.fu-berlin.de/suhl/bizer/D2RQ/0.1#> .
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix essglobal: <http://purl.org/essglobal/vocab/> .
+@prefix ex: <http://example.org/> .
+@prefix fnml: <http://semweb.mmlab.be/ns/fnml#> .
+@prefix fno: <https://w3id.org/function/ontology#> .
+@prefix fo: <https://www.bbc.co.uk/ontologies/fo/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix food: <http://data.lirmm.fr/ontologies/food#> .
+@prefix grel: <http://users.ugent.be/~bjdmeest/function/grel.ttl#> .
+@prefix ken: <https://w3id.org/um/ken4256/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix ql: <http://semweb.mmlab.be/ns/ql#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rev: <http://purl.org/stuff/rev#> .
+@prefix rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix schema: <https://schema.org/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wd: <https://www.wikidata.org/wiki/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/accent%20seasoning> a fo:Ingredient;
+  rdfs:label "accent seasoning" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/acorns> a fo:Ingredient;
+  rdfs:label "acorns" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/adobo%20sauce> a fo:Ingredient;
+  rdfs:label "adobo sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/african%20bird%20pepper> a fo:Ingredient;
+  rdfs:label "african bird pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/agar> a fo:Ingredient;
+  rdfs:label "agar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/agave> a fo:Ingredient;
+  rdfs:label "agave" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/agave%20nectar> a fo:Ingredient;
+  rdfs:label "agave nectar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/agave%20syrup> a fo:Ingredient;
+  rdfs:label "agave syrup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ahi> a fo:Ingredient;
+  rdfs:label "ahi" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/alcohol> a fo:Ingredient;
+  rdfs:label "alcohol" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ale> a fo:Ingredient;
+  rdfs:label "ale" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/alfalfa%20sprouts> a fo:Ingredient;
+  rdfs:label "alfalfa sprouts" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/alfredo%20sauce> a fo:Ingredient;
+  rdfs:label "alfredo sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/allspice> a fo:Ingredient;
+  rdfs:label "allspice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/allspice%20berries> a fo:Ingredient;
+  rdfs:label "allspice berries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/almond%20butter> a fo:Ingredient;
+  rdfs:label "almond butter" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/almond%20extract> a fo:Ingredient;
+  rdfs:label "almond extract" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/almond%20flavoring> a fo:Ingredient;
+  rdfs:label "almond flavoring" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/almond%20flour> a fo:Ingredient;
+  rdfs:label "almond flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/almond%20meal> a fo:Ingredient;
+  rdfs:label "almond meal" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/almond%20milk> a fo:Ingredient;
+  rdfs:label "almond milk" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/almond%20oil> a fo:Ingredient;
+  rdfs:label "almond oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/almond%20paste> a fo:Ingredient;
+  rdfs:label "almond paste" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/almonds> a fo:Ingredient;
+  rdfs:label "almonds" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/aluminum%20foil> a fo:Ingredient;
+  rdfs:label "aluminum foil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/american%20cheese> a fo:Ingredient;
+  rdfs:label "american cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/anaheim%20chilies> a fo:Ingredient;
+  rdfs:label "anaheim chilies" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ancho%20chili> a fo:Ingredient;
+  rdfs:label "ancho chili" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/anchovies> a fo:Ingredient;
+  rdfs:label "anchovies" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/anchovy%20fillets> a fo:Ingredient;
+  rdfs:label "anchovy fillets" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/anchovy%20paste> a fo:Ingredient;
+  rdfs:label "anchovy paste" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/andes%20peppermint%20crunch%20baking%20chips>
+  a fo:Ingredient;
+  rdfs:label "andes peppermint crunch baking chips" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/andouille%20sausage> a fo:Ingredient;
+  rdfs:label "andouille sausage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/angel%20food%20cake> a fo:Ingredient;
+  rdfs:label "angel food cake" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/angel%20hair%20pasta> a fo:Ingredient;
+  rdfs:label "angel hair pasta" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/anise> a fo:Ingredient;
+  rdfs:label "anise" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/anise%20extract> a fo:Ingredient;
+  rdfs:label "anise extract" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/anise%20seed> a fo:Ingredient;
+  rdfs:label "anise seed" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/apple> a fo:Ingredient;
+  rdfs:label "apple" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/apple%20butter> a fo:Ingredient;
+  rdfs:label "apple butter" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/apple%20cider> a fo:Ingredient;
+  rdfs:label "apple cider" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/apple%20cider%20vinegar> a fo:Ingredient;
+  rdfs:label "apple cider vinegar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/apple%20jelly> a fo:Ingredient;
+  rdfs:label "apple jelly" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/apple%20juice> a fo:Ingredient;
+  rdfs:label "apple juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/apple%20pie%20spice> a fo:Ingredient;
+  rdfs:label "apple pie spice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/apples> a fo:Ingredient;
+  rdfs:label "apples" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/applesauce> a fo:Ingredient;
+  rdfs:label "applesauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/apricot> a fo:Ingredient;
+  rdfs:label "apricot" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/apricot%20halves> a fo:Ingredient;
+  rdfs:label "apricot halves" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/apricot%20jam> a fo:Ingredient;
+  rdfs:label "apricot jam" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/apricot%20nectar> a fo:Ingredient;
+  rdfs:label "apricot nectar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/apricots> a fo:Ingredient;
+  rdfs:label "apricots" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/arbol%20chili%20powder> a fo:Ingredient;
+  rdfs:label "arbol chili powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/arrowroot> a fo:Ingredient;
+  rdfs:label "arrowroot" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/artichoke> a fo:Ingredient;
+  rdfs:label "artichoke" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/artichoke%20hearts> a fo:Ingredient;
+  rdfs:label "artichoke hearts" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/artificial%20sweetener> a fo:Ingredient;
+  rdfs:label "artificial sweetener" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/arugula> a fo:Ingredient;
+  rdfs:label "arugula" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/asiago%20cheese> a fo:Ingredient;
+  rdfs:label "asiago cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/asparagus> a fo:Ingredient;
+  rdfs:label "asparagus" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/asparagus%20spears> a fo:Ingredient;
+  rdfs:label "asparagus spears" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/asparagus%20tips> a fo:Ingredient;
+  rdfs:label "asparagus tips" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/avocado> a fo:Ingredient;
+  rdfs:label "avocado" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/avocado%20oil> a fo:Ingredient;
+  rdfs:label "avocado oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/baby%20arugula> a fo:Ingredient;
+  rdfs:label "baby arugula" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/baby%20bella%20mushrooms> a fo:Ingredient;
+  rdfs:label "baby bella mushrooms" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/baby%20bok%20choy> a fo:Ingredient;
+  rdfs:label "baby bok choy" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/baby%20butter%20beans> a fo:Ingredient;
+  rdfs:label "baby butter beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/baby%20carrots> a fo:Ingredient;
+  rdfs:label "baby carrots" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/baby%20corn> a fo:Ingredient;
+  rdfs:label "baby corn" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/baby%20food> a fo:Ingredient;
+  rdfs:label "baby food" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/baby%20peas> a fo:Ingredient;
+  rdfs:label "baby peas" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/baby%20rocket> a fo:Ingredient;
+  rdfs:label "baby rocket" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/baby%20spinach> a fo:Ingredient;
+  rdfs:label "baby spinach" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/baby%20spinach%20leaves> a fo:Ingredient;
+  rdfs:label "baby spinach leaves" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bacon> a fo:Ingredient;
+  rdfs:label "bacon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bacon%20bits> a fo:Ingredient;
+  rdfs:label "bacon bits" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bacon%20drippings> a fo:Ingredient;
+  rdfs:label "bacon drippings" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bacon%20fat> a fo:Ingredient;
+  rdfs:label "bacon fat" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bacon%20grease> a fo:Ingredient;
+  rdfs:label "bacon grease" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bagels> a fo:Ingredient;
+  rdfs:label "bagels" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/baked%20beans> a fo:Ingredient;
+  rdfs:label "baked beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/baked%20tofu> a fo:Ingredient;
+  rdfs:label "baked tofu" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/baking%20chocolate> a fo:Ingredient;
+  rdfs:label "baking chocolate" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/baking%20powder> a fo:Ingredient;
+  rdfs:label "baking powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/baking%20soda> a fo:Ingredient;
+  rdfs:label "baking soda" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/balsamic%20vinaigrette> a fo:Ingredient;
+  rdfs:label "balsamic vinaigrette" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/balsamic%20vinegar> a fo:Ingredient;
+  rdfs:label "balsamic vinegar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bamboo%20shoots> a fo:Ingredient;
+  rdfs:label "bamboo shoots" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/banana> a fo:Ingredient;
+  rdfs:label "banana" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/banana%20bread> a fo:Ingredient;
+  rdfs:label "banana bread" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/banana%20extract> a fo:Ingredient;
+  rdfs:label "banana extract" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/banana%20peppers> a fo:Ingredient;
+  rdfs:label "banana peppers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/banana%20rum> a fo:Ingredient;
+  rdfs:label "banana rum" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bananas> a fo:Ingredient;
+  rdfs:label "bananas" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/barbecue%20sauce> a fo:Ingredient;
+  rdfs:label "barbecue sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/barley> a fo:Ingredient;
+  rdfs:label "barley" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/barley%20flour> a fo:Ingredient;
+  rdfs:label "barley flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/barley%20malt%20syrup> a fo:Ingredient;
+  rdfs:label "barley malt syrup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/basil> a fo:Ingredient;
+  rdfs:label "basil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/basil%20leaves> a fo:Ingredient;
+  rdfs:label "basil leaves" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/basmati%20rice> a fo:Ingredient;
+  rdfs:label "basmati rice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/batter> a fo:Ingredient;
+  rdfs:label "batter" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bay%20leaf> a fo:Ingredient;
+  rdfs:label "bay leaf" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bay%20leaves> a fo:Ingredient;
+  rdfs:label "bay leaves" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bay%20scallops> a fo:Ingredient;
+  rdfs:label "bay scallops" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bean%20flour> a fo:Ingredient;
+  rdfs:label "bean flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bean%20sprouts> a fo:Ingredient;
+  rdfs:label "bean sprouts" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/beans> a fo:Ingredient;
+  rdfs:label "beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/beef> a fo:Ingredient;
+  rdfs:label "beef" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/beef%20bouillon> a fo:Ingredient;
+  rdfs:label "beef bouillon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/beef%20bouillon%20cube> a fo:Ingredient;
+  rdfs:label "beef bouillon cube" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/beef%20bouillon%20powder> a fo:Ingredient;
+  rdfs:label "beef bouillon powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/beef%20broth> a fo:Ingredient;
+  rdfs:label "beef broth" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/beef%20liver> a fo:Ingredient;
+  rdfs:label "beef liver" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/beef%20ribs> a fo:Ingredient;
+  rdfs:label "beef ribs" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/beef%20roast> a fo:Ingredient;
+  rdfs:label "beef roast" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/beef%20sirloin> a fo:Ingredient;
+  rdfs:label "beef sirloin" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/beef%20stew> a fo:Ingredient;
+  rdfs:label "beef stew" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/beef%20stew%20meat> a fo:Ingredient;
+  rdfs:label "beef stew meat" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/beef%20stock> a fo:Ingredient;
+  rdfs:label "beef stock" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/beef%20tenderloin> a fo:Ingredient;
+  rdfs:label "beef tenderloin" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/beer> a fo:Ingredient;
+  rdfs:label "beer" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/beet> a fo:Ingredient;
+  rdfs:label "beet" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bell%20pepper> a fo:Ingredient;
+  rdfs:label "bell pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bell%20peppers> a fo:Ingredient;
+  rdfs:label "bell peppers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/berries> a fo:Ingredient;
+  rdfs:label "berries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bibb%20lettuce> a fo:Ingredient;
+  rdfs:label "bibb lettuce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/biscuit%20mix> a fo:Ingredient;
+  rdfs:label "biscuit mix" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/biscuits> a fo:Ingredient;
+  rdfs:label "biscuits" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/black%20beans> a fo:Ingredient;
+  rdfs:label "black beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/black%20cherries> a fo:Ingredient;
+  rdfs:label "black cherries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/black%20coffee> a fo:Ingredient;
+  rdfs:label "black coffee" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/black%20forest%20ham> a fo:Ingredient;
+  rdfs:label "black forest ham" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/black%20olives> a fo:Ingredient;
+  rdfs:label "black olives" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/black%20pepper> a fo:Ingredient;
+  rdfs:label "black pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/black%20sesame%20seeds> a fo:Ingredient;
+  rdfs:label "black sesame seeds" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/black%20treacle> a fo:Ingredient;
+  rdfs:label "black treacle" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/blackberries> a fo:Ingredient;
+  rdfs:label "blackberries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/blackberry%20jelly> a fo:Ingredient;
+  rdfs:label "blackberry jelly" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/blade%20steak> a fo:Ingredient;
+  rdfs:label "blade steak" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/blood%20orange%20juice> a fo:Ingredient;
+  rdfs:label "blood orange juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/blue%20cheese> a fo:Ingredient;
+  rdfs:label "blue cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/blue%20curacao> a fo:Ingredient;
+  rdfs:label "blue curacao" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/blue%20food%20coloring> a fo:Ingredient;
+  rdfs:label "blue food coloring" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/blueberries> a fo:Ingredient;
+  rdfs:label "blueberries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/blueberry%20filling> a fo:Ingredient;
+  rdfs:label "blueberry filling" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/blueberry%20preserves> a fo:Ingredient;
+  rdfs:label "blueberry preserves" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/boiled%20ham> a fo:Ingredient;
+  rdfs:label "boiled ham" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/boiling%20water> a fo:Ingredient;
+  rdfs:label "boiling water" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/boneless%20pork%20chops> a fo:Ingredient;
+  rdfs:label "boneless pork chops" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/boneless%20skinless%20chicken%20breast>
+  a fo:Ingredient;
+  rdfs:label "boneless skinless chicken breast" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/boneless%20skinless%20chicken%20thighs>
+  a fo:Ingredient;
+  rdfs:label "boneless skinless chicken thighs" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/boneless%20turkey%20breast> a fo:Ingredient;
+  rdfs:label "boneless turkey breast" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/borlotti%20beans> a fo:Ingredient;
+  rdfs:label "borlotti beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bosc%20pears> a fo:Ingredient;
+  rdfs:label "bosc pears" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bouillon> a fo:Ingredient;
+  rdfs:label "bouillon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bouillon%20cube> a fo:Ingredient;
+  rdfs:label "bouillon cube" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bouillon%20cubes> a fo:Ingredient;
+  rdfs:label "bouillon cubes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bourbon> a fo:Ingredient;
+  rdfs:label "bourbon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/boursin%20cheese> a fo:Ingredient;
+  rdfs:label "boursin cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bow%20tie%20pasta> a fo:Ingredient;
+  rdfs:label "bow tie pasta" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/braggs%20liquid%20aminos> a fo:Ingredient;
+  rdfs:label "braggs liquid aminos" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bran%20flakes> a fo:Ingredient;
+  rdfs:label "bran flakes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/brandy> a fo:Ingredient;
+  rdfs:label "brandy" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bread> a fo:Ingredient;
+  rdfs:label "bread" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bread%20flour> a fo:Ingredient;
+  rdfs:label "bread flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/breakfast%20cereal> a fo:Ingredient;
+  rdfs:label "breakfast cereal" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/breakfast%20sausage> a fo:Ingredient;
+  rdfs:label "breakfast sausage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/brewed%20coffee> a fo:Ingredient;
+  rdfs:label "brewed coffee" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/brie%20cheese> a fo:Ingredient;
+  rdfs:label "brie cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/broccoli> a fo:Ingredient;
+  rdfs:label "broccoli" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/broiler> a fo:Ingredient;
+  rdfs:label "broiler" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/broth> a fo:Ingredient;
+  rdfs:label "broth" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/brown%20and%20wild%20rice%20mix> a fo:Ingredient;
+  rdfs:label "brown and wild rice mix" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/brown%20gravy> a fo:Ingredient;
+  rdfs:label "brown gravy" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/brown%20gravy%20mix> a fo:Ingredient;
+  rdfs:label "brown gravy mix" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/brown%20lentils> a fo:Ingredient;
+  rdfs:label "brown lentils" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/brown%20rice> a fo:Ingredient;
+  rdfs:label "brown rice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/brown%20rice%20flour> a fo:Ingredient;
+  rdfs:label "brown rice flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/brown%20rice%20syrup> a fo:Ingredient;
+  rdfs:label "brown rice syrup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/brown%20sugar> a fo:Ingredient;
+  rdfs:label "brown sugar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/brown%20sugar%20substitute> a fo:Ingredient;
+  rdfs:label "brown sugar substitute" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/brown%20sugar%20twin> a fo:Ingredient;
+  rdfs:label "brown sugar twin" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/buckwheat%20flour> a fo:Ingredient;
+  rdfs:label "buckwheat flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/buckwheat%20honey> a fo:Ingredient;
+  rdfs:label "buckwheat honey" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/buffalo> a fo:Ingredient;
+  rdfs:label "buffalo" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bulgar%20wheat> a fo:Ingredient;
+  rdfs:label "bulgar wheat" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bulgur> a fo:Ingredient;
+  rdfs:label "bulgur" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/bulk%20pork%20sausage> a fo:Ingredient;
+  rdfs:label "bulk pork sausage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/buns> a fo:Ingredient;
+  rdfs:label "buns" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/burgundy%20cooking%20wine> a fo:Ingredient;
+  rdfs:label "burgundy cooking wine" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/burgundy%20wine> a fo:Ingredient;
+  rdfs:label "burgundy wine" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/butter> a fo:Ingredient;
+  rdfs:label "butter" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/butter%20beans> a fo:Ingredient;
+  rdfs:label "butter beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/butter%20buds> a fo:Ingredient;
+  rdfs:label "butter buds" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/butter%20lettuce> a fo:Ingredient;
+  rdfs:label "butter lettuce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/buttermilk> a fo:Ingredient;
+  rdfs:label "buttermilk" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/butternut%20squash> a fo:Ingredient;
+  rdfs:label "butternut squash" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/butterscotch%20chips> a fo:Ingredient;
+  rdfs:label "butterscotch chips" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/butterscotch%20extract> a fo:Ingredient;
+  rdfs:label "butterscotch extract" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/butterscotch%20pudding%20mix> a fo:Ingredient;
+  rdfs:label "butterscotch pudding mix" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/button%20mushrooms> a fo:Ingredient;
+  rdfs:label "button mushrooms" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cabbage> a fo:Ingredient;
+  rdfs:label "cabbage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cabbage%20leaves> a fo:Ingredient;
+  rdfs:label "cabbage leaves" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cacao> a fo:Ingredient;
+  rdfs:label "cacao" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cajun%20seasoning> a fo:Ingredient;
+  rdfs:label "cajun seasoning" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cajun%20spices> a fo:Ingredient;
+  rdfs:label "cajun spices" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cake> a fo:Ingredient;
+  rdfs:label "cake" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cake%20flour> a fo:Ingredient;
+  rdfs:label "cake flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cake%20yeast> a fo:Ingredient;
+  rdfs:label "cake yeast" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/calabaza%20squash> a fo:Ingredient;
+  rdfs:label "calabaza squash" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/canadian%20bacon> a fo:Ingredient;
+  rdfs:label "canadian bacon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/candied%20ginger> a fo:Ingredient;
+  rdfs:label "candied ginger" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/candied%20lemon%20peel> a fo:Ingredient;
+  rdfs:label "candied lemon peel" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/candied%20pecans> a fo:Ingredient;
+  rdfs:label "candied pecans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/candies> a fo:Ingredient;
+  rdfs:label "candies" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/candy%20corn> a fo:Ingredient;
+  rdfs:label "candy corn" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cane%20syrup> a fo:Ingredient;
+  rdfs:label "cane syrup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/canned%20apricots> a fo:Ingredient;
+  rdfs:label "canned apricots" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/canned%20beef%20broth> a fo:Ingredient;
+  rdfs:label "canned beef broth" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/canned%20broth> a fo:Ingredient;
+  rdfs:label "canned broth" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/canned%20chicken> a fo:Ingredient;
+  rdfs:label "canned chicken" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/canned%20chicken%20broth> a fo:Ingredient;
+  rdfs:label "canned chicken broth" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/canned%20corn> a fo:Ingredient;
+  rdfs:label "canned corn" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/canned%20milk> a fo:Ingredient;
+  rdfs:label "canned milk" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/canned%20peaches> a fo:Ingredient;
+  rdfs:label "canned peaches" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/canned%20pineapple%20juice> a fo:Ingredient;
+  rdfs:label "canned pineapple juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/canned%20pumpkin> a fo:Ingredient;
+  rdfs:label "canned pumpkin" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/canned%20salmon> a fo:Ingredient;
+  rdfs:label "canned salmon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/canned%20shrimp> a fo:Ingredient;
+  rdfs:label "canned shrimp" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/canned%20tomatoes> a fo:Ingredient;
+  rdfs:label "canned tomatoes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/canned%20vegetable%20broth> a fo:Ingredient;
+  rdfs:label "canned vegetable broth" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/canned%20white%20beans> a fo:Ingredient;
+  rdfs:label "canned white beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cannellini%20beans> a fo:Ingredient;
+  rdfs:label "cannellini beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/canola%20oil> a fo:Ingredient;
+  rdfs:label "canola oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cantaloupe> a fo:Ingredient;
+  rdfs:label "cantaloupe" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/capers> a fo:Ingredient;
+  rdfs:label "capers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/capon> a fo:Ingredient;
+  rdfs:label "capon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/capsicum> a fo:Ingredient;
+  rdfs:label "capsicum" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/caramel> a fo:Ingredient;
+  rdfs:label "caramel" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/caramel%20apple%20dip> a fo:Ingredient;
+  rdfs:label "caramel apple dip" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/caramel%20essence> a fo:Ingredient;
+  rdfs:label "caramel essence" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/caramel%20ice%20cream%20topping> a fo:Ingredient;
+  rdfs:label "caramel ice cream topping" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/caramel%20syrup> a fo:Ingredient;
+  rdfs:label "caramel syrup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/caraway%20seed> a fo:Ingredient;
+  rdfs:label "caraway seed" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/caraway%20seeds> a fo:Ingredient;
+  rdfs:label "caraway seeds" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cardamom> a fo:Ingredient;
+  rdfs:label "cardamom" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cardamom%20powder> a fo:Ingredient;
+  rdfs:label "cardamom powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/carob%20chips> a fo:Ingredient;
+  rdfs:label "carob chips" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/carob%20powder> a fo:Ingredient;
+  rdfs:label "carob powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/carrot> a fo:Ingredient;
+  rdfs:label "carrot" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/carrots> a fo:Ingredient;
+  rdfs:label "carrots" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cashew%20pieces> a fo:Ingredient;
+  rdfs:label "cashew pieces" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cashews> a fo:Ingredient;
+  rdfs:label "cashews" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/caster%20sugar> a fo:Ingredient;
+  rdfs:label "caster sugar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/catsup> a fo:Ingredient;
+  rdfs:label "catsup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cauliflower> a fo:Ingredient;
+  rdfs:label "cauliflower" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cavatappi%20pasta> a fo:Ingredient;
+  rdfs:label "cavatappi pasta" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cayenne> a fo:Ingredient;
+  rdfs:label "cayenne" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cayenne%20pepper> a fo:Ingredient;
+  rdfs:label "cayenne pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cayenne%20powder> a fo:Ingredient;
+  rdfs:label "cayenne powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/celery> a fo:Ingredient;
+  rdfs:label "celery" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/celery%20leaves> a fo:Ingredient;
+  rdfs:label "celery leaves" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/celery%20salt> a fo:Ingredient;
+  rdfs:label "celery salt" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/celery%20seed> a fo:Ingredient;
+  rdfs:label "celery seed" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/celery%20seeds> a fo:Ingredient;
+  rdfs:label "celery seeds" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/celery%20soup> a fo:Ingredient;
+  rdfs:label "celery soup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cereal> a fo:Ingredient;
+  rdfs:label "cereal" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chablis> a fo:Ingredient;
+  rdfs:label "chablis" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/champagne> a fo:Ingredient;
+  rdfs:label "champagne" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/champagne%20vinegar> a fo:Ingredient;
+  rdfs:label "champagne vinegar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chayote> a fo:Ingredient;
+  rdfs:label "chayote" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cheddar> a fo:Ingredient;
+  rdfs:label "cheddar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cheddar%20cheese> a fo:Ingredient;
+  rdfs:label "cheddar cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cheddar%20cheese%20soup> a fo:Ingredient;
+  rdfs:label "cheddar cheese soup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cheese> a fo:Ingredient;
+  rdfs:label "cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cheese%20soup> a fo:Ingredient;
+  rdfs:label "cheese soup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cheese%20spread> a fo:Ingredient;
+  rdfs:label "cheese spread" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cheese%20tortellini> a fo:Ingredient;
+  rdfs:label "cheese tortellini" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cheese%20whiz> a fo:Ingredient;
+  rdfs:label "cheese whiz" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cheesecake> a fo:Ingredient;
+  rdfs:label "cheesecake" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cherries> a fo:Ingredient;
+  rdfs:label "cherries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cherry%20extract> a fo:Ingredient;
+  rdfs:label "cherry extract" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cherry%20pie%20filling> a fo:Ingredient;
+  rdfs:label "cherry pie filling" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cherry%20preserves> a fo:Ingredient;
+  rdfs:label "cherry preserves" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cherry%20tomatoes> a fo:Ingredient;
+  rdfs:label "cherry tomatoes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cherry%20vodka> a fo:Ingredient;
+  rdfs:label "cherry vodka" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chervil> a fo:Ingredient;
+  rdfs:label "chervil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chestnut%20flour> a fo:Ingredient;
+  rdfs:label "chestnut flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chestnuts> a fo:Ingredient;
+  rdfs:label "chestnuts" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chicken> a fo:Ingredient;
+  rdfs:label "chicken" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chicken%20base> a fo:Ingredient;
+  rdfs:label "chicken base" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chicken%20bouillon> a fo:Ingredient;
+  rdfs:label "chicken bouillon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chicken%20bouillon%20granules> a fo:Ingredient;
+  rdfs:label "chicken bouillon granules" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chicken%20breast> a fo:Ingredient;
+  rdfs:label "chicken breast" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chicken%20breasts> a fo:Ingredient;
+  rdfs:label "chicken breasts" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chicken%20broth> a fo:Ingredient;
+  rdfs:label "chicken broth" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chicken%20frankfurters> a fo:Ingredient;
+  rdfs:label "chicken frankfurters" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chicken%20gravy> a fo:Ingredient;
+  rdfs:label "chicken gravy" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chicken%20soup> a fo:Ingredient;
+  rdfs:label "chicken soup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chicken%20stock> a fo:Ingredient;
+  rdfs:label "chicken stock" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chicken%20strips> a fo:Ingredient;
+  rdfs:label "chicken strips" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chicken%20thighs> a fo:Ingredient;
+  rdfs:label "chicken thighs" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chickpea%20flour> a fo:Ingredient;
+  rdfs:label "chickpea flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chickpeas> a fo:Ingredient;
+  rdfs:label "chickpeas" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chile> a fo:Ingredient;
+  rdfs:label "chile" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chili> a fo:Ingredient;
+  rdfs:label "chili" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chili%20beans> a fo:Ingredient;
+  rdfs:label "chili beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chili%20flakes> a fo:Ingredient;
+  rdfs:label "chili flakes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chili%20oil> a fo:Ingredient;
+  rdfs:label "chili oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chili%20paste> a fo:Ingredient;
+  rdfs:label "chili paste" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chili%20pepper> a fo:Ingredient;
+  rdfs:label "chili pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chili%20peppers> a fo:Ingredient;
+  rdfs:label "chili peppers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chili%20powder> a fo:Ingredient;
+  rdfs:label "chili powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chili%20sauce> a fo:Ingredient;
+  rdfs:label "chili sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chilies> a fo:Ingredient;
+  rdfs:label "chilies" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chinese%20wine> a fo:Ingredient;
+  rdfs:label "chinese wine" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chipotle%20chile%20in%20adobo> a fo:Ingredient;
+  rdfs:label "chipotle chile in adobo" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chipotle%20chiles> a fo:Ingredient;
+  rdfs:label "chipotle chiles" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chipotle%20hot%20sauce> a fo:Ingredient;
+  rdfs:label "chipotle hot sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chipotle%20pepper> a fo:Ingredient;
+  rdfs:label "chipotle pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chipotle%20peppers> a fo:Ingredient;
+  rdfs:label "chipotle peppers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chips> a fo:Ingredient;
+  rdfs:label "chips" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chives> a fo:Ingredient;
+  rdfs:label "chives" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chocolate> a fo:Ingredient;
+  rdfs:label "chocolate" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chocolate%20chips> a fo:Ingredient;
+  rdfs:label "chocolate chips" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chocolate%20chunks> a fo:Ingredient;
+  rdfs:label "chocolate chunks" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chocolate%20crumb%20crust> a fo:Ingredient;
+  rdfs:label "chocolate crumb crust" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chocolate%20graham%20crackers> a fo:Ingredient;
+  rdfs:label "chocolate graham crackers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chocolate%20pudding> a fo:Ingredient;
+  rdfs:label "chocolate pudding" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chocolate%20shavings> a fo:Ingredient;
+  rdfs:label "chocolate shavings" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chocolate%20syrup> a fo:Ingredient;
+  rdfs:label "chocolate syrup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chopped%20coconut> a fo:Ingredient;
+  rdfs:label "chopped coconut" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chopped%20tomato> a fo:Ingredient;
+  rdfs:label "chopped tomato" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chopped%20tomatoes> a fo:Ingredient;
+  rdfs:label "chopped tomatoes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chow%20mein%20noodles> a fo:Ingredient;
+  rdfs:label "chow mein noodles" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chuck> a fo:Ingredient;
+  rdfs:label "chuck" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chuck%20steak> a fo:Ingredient;
+  rdfs:label "chuck steak" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/chutney> a fo:Ingredient;
+  rdfs:label "chutney" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cider> a fo:Ingredient;
+  rdfs:label "cider" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cider%20vinegar> a fo:Ingredient;
+  rdfs:label "cider vinegar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cinnamon> a fo:Ingredient;
+  rdfs:label "cinnamon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cinnamon%20applesauce> a fo:Ingredient;
+  rdfs:label "cinnamon applesauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cinnamon%20stick> a fo:Ingredient;
+  rdfs:label "cinnamon stick" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cinnamon%20sticks> a fo:Ingredient;
+  rdfs:label "cinnamon sticks" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cinnamon%20syrup> a fo:Ingredient;
+  rdfs:label "cinnamon syrup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/citric%20acid> a fo:Ingredient;
+  rdfs:label "citric acid" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/clam%20broth> a fo:Ingredient;
+  rdfs:label "clam broth" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/clam%20juice> a fo:Ingredient;
+  rdfs:label "clam juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/clear%20jel> a fo:Ingredient;
+  rdfs:label "clear jel" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/clementine> a fo:Ingredient;
+  rdfs:label "clementine" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/clove> a fo:Ingredient;
+  rdfs:label "clove" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/clove%20powder> a fo:Ingredient;
+  rdfs:label "clove powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cloves> a fo:Ingredient;
+  rdfs:label "cloves" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/club%20soda> a fo:Ingredient;
+  rdfs:label "club soda" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/coarse%20black%20pepper> a fo:Ingredient;
+  rdfs:label "coarse black pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/coarse%20salt> a fo:Ingredient;
+  rdfs:label "coarse salt" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cocoa> a fo:Ingredient;
+  rdfs:label "cocoa" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cocoa%20powder> a fo:Ingredient;
+  rdfs:label "cocoa powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/coconut> a fo:Ingredient;
+  rdfs:label "coconut" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/coconut%20aminos> a fo:Ingredient;
+  rdfs:label "coconut aminos" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/coconut%20butter> a fo:Ingredient;
+  rdfs:label "coconut butter" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/coconut%20cream> a fo:Ingredient;
+  rdfs:label "coconut cream" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/coconut%20cream%20pudding%20mix> a fo:Ingredient;
+  rdfs:label "coconut cream pudding mix" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/coconut%20extract> a fo:Ingredient;
+  rdfs:label "coconut extract" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/coconut%20flour> a fo:Ingredient;
+  rdfs:label "coconut flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/coconut%20ice%20cream> a fo:Ingredient;
+  rdfs:label "coconut ice cream" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/coconut%20milk> a fo:Ingredient;
+  rdfs:label "coconut milk" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/coconut%20oil> a fo:Ingredient;
+  rdfs:label "coconut oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/coconut%20sugar> a fo:Ingredient;
+  rdfs:label "coconut sugar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cod> a fo:Ingredient;
+  rdfs:label "cod" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/coffee> a fo:Ingredient;
+  rdfs:label "coffee" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/coffee%20extract> a fo:Ingredient;
+  rdfs:label "coffee extract" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/coffee%20liqueur> a fo:Ingredient;
+  rdfs:label "coffee liqueur" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cognac> a fo:Ingredient;
+  rdfs:label "cognac" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cola> a fo:Ingredient;
+  rdfs:label "cola" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/colby> a fo:Ingredient;
+  rdfs:label "colby" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/coleslaw%20mix> a fo:Ingredient;
+  rdfs:label "coleslaw mix" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/collard%20greens> a fo:Ingredient;
+  rdfs:label "collard greens" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/condensed%20milk> a fo:Ingredient;
+  rdfs:label "condensed milk" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/condensed%20tomato%20soup> a fo:Ingredient;
+  rdfs:label "condensed tomato soup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/consomme> a fo:Ingredient;
+  rdfs:label "consomme" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/converted%20rice> a fo:Ingredient;
+  rdfs:label "converted rice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cooked%20barley> a fo:Ingredient;
+  rdfs:label "cooked barley" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cooked%20chicken> a fo:Ingredient;
+  rdfs:label "cooked chicken" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cooked%20chicken%20breast> a fo:Ingredient;
+  rdfs:label "cooked chicken breast" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cooked%20chicken%20breasts> a fo:Ingredient;
+  rdfs:label "cooked chicken breasts" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cooked%20ham> a fo:Ingredient;
+  rdfs:label "cooked ham" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cooked%20macaroni> a fo:Ingredient;
+  rdfs:label "cooked macaroni" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cooked%20rice> a fo:Ingredient;
+  rdfs:label "cooked rice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cooked%20sausage> a fo:Ingredient;
+  rdfs:label "cooked sausage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cooked%20shrimp> a fo:Ingredient;
+  rdfs:label "cooked shrimp" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cooked%20turkey> a fo:Ingredient;
+  rdfs:label "cooked turkey" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cooked%20turkey%20breast> a fo:Ingredient;
+  rdfs:label "cooked turkey breast" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cooking%20oil> a fo:Ingredient;
+  rdfs:label "cooking oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cooking%20onion> a fo:Ingredient;
+  rdfs:label "cooking onion" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cooking%20sherry> a fo:Ingredient;
+  rdfs:label "cooking sherry" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cooking%20spray> a fo:Ingredient;
+  rdfs:label "cooking spray" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cooking%20wine> a fo:Ingredient;
+  rdfs:label "cooking wine" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cool%20whip> a fo:Ingredient;
+  rdfs:label "cool whip" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/coriander> a fo:Ingredient;
+  rdfs:label "coriander" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/corn> a fo:Ingredient;
+  rdfs:label "corn" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/corn%20chips> a fo:Ingredient;
+  rdfs:label "corn chips" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/corn%20flakes> a fo:Ingredient;
+  rdfs:label "corn flakes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/corn%20nuts> a fo:Ingredient;
+  rdfs:label "corn nuts" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/corn%20oil> a fo:Ingredient;
+  rdfs:label "corn oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/corn%20syrup> a fo:Ingredient;
+  rdfs:label "corn syrup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/corn%20tortillas> a fo:Ingredient;
+  rdfs:label "corn tortillas" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cornbread> a fo:Ingredient;
+  rdfs:label "cornbread" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cornbread%20mix> a fo:Ingredient;
+  rdfs:label "cornbread mix" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/corned%20beef> a fo:Ingredient;
+  rdfs:label "corned beef" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cornmeal> a fo:Ingredient;
+  rdfs:label "cornmeal" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cornstarch> a fo:Ingredient;
+  rdfs:label "cornstarch" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cottage%20cheese> a fo:Ingredient;
+  rdfs:label "cottage cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/courgettes> a fo:Ingredient;
+  rdfs:label "courgettes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/couscous> a fo:Ingredient;
+  rdfs:label "couscous" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/crab> a fo:Ingredient;
+  rdfs:label "crab" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cracked%20wheat> a fo:Ingredient;
+  rdfs:label "cracked wheat" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cracker%20crumbs> a fo:Ingredient;
+  rdfs:label "cracker crumbs" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/crackers> a fo:Ingredient;
+  rdfs:label "crackers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cranberries> a fo:Ingredient;
+  rdfs:label "cranberries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cranberry%20juice> a fo:Ingredient;
+  rdfs:label "cranberry juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cranberry%20sauce> a fo:Ingredient;
+  rdfs:label "cranberry sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/crawfish> a fo:Ingredient;
+  rdfs:label "crawfish" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/crawfish%20tails> a fo:Ingredient;
+  rdfs:label "crawfish tails" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cream> a fo:Ingredient;
+  rdfs:label "cream" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cream%20cheese> a fo:Ingredient;
+  rdfs:label "cream cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cream%20of%20celery%20soup> a fo:Ingredient;
+  rdfs:label "cream of celery soup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cream%20of%20chicken%20and%20mushroom%20soup>
+  a fo:Ingredient;
+  rdfs:label "cream of chicken and mushroom soup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cream%20of%20chicken%20soup> a fo:Ingredient;
+  rdfs:label "cream of chicken soup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cream%20of%20coconut> a fo:Ingredient;
+  rdfs:label "cream of coconut" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cream%20of%20mushroom%20soup> a fo:Ingredient;
+  rdfs:label "cream of mushroom soup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cream%20of%20onion%20soup> a fo:Ingredient;
+  rdfs:label "cream of onion soup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cream%20of%20shrimp%20soup> a fo:Ingredient;
+  rdfs:label "cream of shrimp soup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cream%20of%20tartar> a fo:Ingredient;
+  rdfs:label "cream of tartar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cream%20soup> a fo:Ingredient;
+  rdfs:label "cream soup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/creamed%20corn> a fo:Ingredient;
+  rdfs:label "creamed corn" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/creamed%20honey> a fo:Ingredient;
+  rdfs:label "creamed honey" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/creamy%20peanut%20butter> a fo:Ingredient;
+  rdfs:label "creamy peanut butter" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/creme%20de%20menthe> a fo:Ingredient;
+  rdfs:label "creme de menthe" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/creme%20fraiche> a fo:Ingredient;
+  rdfs:label "creme fraiche" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/creole%20seasoning> a fo:Ingredient;
+  rdfs:label "creole seasoning" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/crisco%20shortening> a fo:Ingredient;
+  rdfs:label "crisco shortening" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/crispy%20rice%20cereal> a fo:Ingredient;
+  rdfs:label "crispy rice cereal" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/croissants> a fo:Ingredient;
+  rdfs:label "croissants" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/crunchy%20peanut%20butter> a fo:Ingredient;
+  rdfs:label "crunchy peanut butter" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/crushed%20pineapple> a fo:Ingredient;
+  rdfs:label "crushed pineapple" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/crushed%20red%20pepper%20flakes> a fo:Ingredient;
+  rdfs:label "crushed red pepper flakes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/crushed%20tomatoes> a fo:Ingredient;
+  rdfs:label "crushed tomatoes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cube%20steak> a fo:Ingredient;
+  rdfs:label "cube steak" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cucumber> a fo:Ingredient;
+  rdfs:label "cucumber" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cucumbers> a fo:Ingredient;
+  rdfs:label "cucumbers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cumin> a fo:Ingredient;
+  rdfs:label "cumin" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cumin%20seeds> a fo:Ingredient;
+  rdfs:label "cumin seeds" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/currants> a fo:Ingredient;
+  rdfs:label "currants" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/curry> a fo:Ingredient;
+  rdfs:label "curry" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/curry%20leaf> a fo:Ingredient;
+  rdfs:label "curry leaf" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/curry%20leaves> a fo:Ingredient;
+  rdfs:label "curry leaves" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/curry%20paste> a fo:Ingredient;
+  rdfs:label "curry paste" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/curry%20powder> a fo:Ingredient;
+  rdfs:label "curry powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/custard%20powder> a fo:Ingredient;
+  rdfs:label "custard powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/cut%20green%20beans> a fo:Ingredient;
+  rdfs:label "cut green beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dal> a fo:Ingredient;
+  rdfs:label "dal" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/danish%20blue%20cheese> a fo:Ingredient;
+  rdfs:label "danish blue cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dark%20beer> a fo:Ingredient;
+  rdfs:label "dark beer" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dark%20brown%20sugar> a fo:Ingredient;
+  rdfs:label "dark brown sugar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dark%20chocolate> a fo:Ingredient;
+  rdfs:label "dark chocolate" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dark%20chocolate%20chips> a fo:Ingredient;
+  rdfs:label "dark chocolate chips" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dark%20corn%20syrup> a fo:Ingredient;
+  rdfs:label "dark corn syrup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dark%20molasses> a fo:Ingredient;
+  rdfs:label "dark molasses" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dark%20rum> a fo:Ingredient;
+  rdfs:label "dark rum" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dashi%20stock> a fo:Ingredient;
+  rdfs:label "dashi stock" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dates> a fo:Ingredient;
+  rdfs:label "dates" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/deer> a fo:Ingredient;
+  rdfs:label "deer" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dehydrated%20onion> a fo:Ingredient;
+  rdfs:label "dehydrated onion" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dextrose> a fo:Ingredient;
+  rdfs:label "dextrose" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/diced%20onion> a fo:Ingredient;
+  rdfs:label "diced onion" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/diced%20onions> a fo:Ingredient;
+  rdfs:label "diced onions" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/diced%20tomato> a fo:Ingredient;
+  rdfs:label "diced tomato" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/diced%20tomatoes> a fo:Ingredient;
+  rdfs:label "diced tomatoes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/diced%20tomatoes%20with%20green%20chilies>
+  a fo:Ingredient;
+  rdfs:label "diced tomatoes with green chilies" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dijon%20mustard> a fo:Ingredient;
+  rdfs:label "dijon mustard" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dill> a fo:Ingredient;
+  rdfs:label "dill" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dill%20pickle> a fo:Ingredient;
+  rdfs:label "dill pickle" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dill%20pickles> a fo:Ingredient;
+  rdfs:label "dill pickles" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dill%20relish> a fo:Ingredient;
+  rdfs:label "dill relish" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dill%20seed> a fo:Ingredient;
+  rdfs:label "dill seed" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dill%20weed> a fo:Ingredient;
+  rdfs:label "dill weed" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/double%20cream> a fo:Ingredient;
+  rdfs:label "double cream" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20apricots> a fo:Ingredient;
+  rdfs:label "dried apricots" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20basil> a fo:Ingredient;
+  rdfs:label "dried basil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20black%20fungus> a fo:Ingredient;
+  rdfs:label "dried black fungus" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20blueberries> a fo:Ingredient;
+  rdfs:label "dried blueberries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20breadcrumbs> a fo:Ingredient;
+  rdfs:label "dried breadcrumbs" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20cherries> a fo:Ingredient;
+  rdfs:label "dried cherries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20chives> a fo:Ingredient;
+  rdfs:label "dried chives" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20cilantro> a fo:Ingredient;
+  rdfs:label "dried cilantro" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20cranberries> a fo:Ingredient;
+  rdfs:label "dried cranberries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20currants> a fo:Ingredient;
+  rdfs:label "dried currants" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20dates> a fo:Ingredient;
+  rdfs:label "dried dates" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20dill> a fo:Ingredient;
+  rdfs:label "dried dill" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20fig> a fo:Ingredient;
+  rdfs:label "dried fig" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20greek%20oregano> a fo:Ingredient;
+  rdfs:label "dried greek oregano" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20marjoram> a fo:Ingredient;
+  rdfs:label "dried marjoram" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20mint> a fo:Ingredient;
+  rdfs:label "dried mint" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20mushrooms> a fo:Ingredient;
+  rdfs:label "dried mushrooms" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20mustard> a fo:Ingredient;
+  rdfs:label "dried mustard" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20onion> a fo:Ingredient;
+  rdfs:label "dried onion" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20onion%20flakes> a fo:Ingredient;
+  rdfs:label "dried onion flakes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20oregano> a fo:Ingredient;
+  rdfs:label "dried oregano" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20pineapple> a fo:Ingredient;
+  rdfs:label "dried pineapple" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20porcini%20mushrooms> a fo:Ingredient;
+  rdfs:label "dried porcini mushrooms" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20red%20peppers> a fo:Ingredient;
+  rdfs:label "dried red peppers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20rose%20petals> a fo:Ingredient;
+  rdfs:label "dried rose petals" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20shrimp%20paste> a fo:Ingredient;
+  rdfs:label "dried shrimp paste" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20sour%20cherries> a fo:Ingredient;
+  rdfs:label "dried sour cherries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20sweetened%20cranberries> a fo:Ingredient;
+  rdfs:label "dried sweetened cranberries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20tarragon> a fo:Ingredient;
+  rdfs:label "dried tarragon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20thyme> a fo:Ingredient;
+  rdfs:label "dried thyme" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dried%20tomatoes> a fo:Ingredient;
+  rdfs:label "dried tomatoes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/drippings> a fo:Ingredient;
+  rdfs:label "drippings" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dry%20buttermilk> a fo:Ingredient;
+  rdfs:label "dry buttermilk" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dry%20milk> a fo:Ingredient;
+  rdfs:label "dry milk" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dry%20mustard> a fo:Ingredient;
+  rdfs:label "dry mustard" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dry%20onion%20soup%20mix> a fo:Ingredient;
+  rdfs:label "dry onion soup mix" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dry%20ranch%20dressing%20mix> a fo:Ingredient;
+  rdfs:label "dry ranch dressing mix" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dry%20sherry> a fo:Ingredient;
+  rdfs:label "dry sherry" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dry%20white%20wine> a fo:Ingredient;
+  rdfs:label "dry white wine" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/duck%20fat> a fo:Ingredient;
+  rdfs:label "duck fat" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dulce%20de%20leche> a fo:Ingredient;
+  rdfs:label "dulce de leche" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/dumplings> a fo:Ingredient;
+  rdfs:label "dumplings" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ear%20of%20corn> a fo:Ingredient;
+  rdfs:label "ear of corn" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/earth%20balance%20margarine> a fo:Ingredient;
+  rdfs:label "earth balance margarine" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/edam%20cheese> a fo:Ingredient;
+  rdfs:label "edam cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/edamame> a fo:Ingredient;
+  rdfs:label "edamame" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/eel> a fo:Ingredient;
+  rdfs:label "eel" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/egg> a fo:Ingredient;
+  rdfs:label "egg" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/egg%20noodles> a fo:Ingredient;
+  rdfs:label "egg noodles" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/egg%20salad> a fo:Ingredient;
+  rdfs:label "egg salad" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/egg%20substitute> a fo:Ingredient;
+  rdfs:label "egg substitute" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/egg%20wash> a fo:Ingredient;
+  rdfs:label "egg wash" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/egg%20white> a fo:Ingredient;
+  rdfs:label "egg white" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/egg%20whites> a fo:Ingredient;
+  rdfs:label "egg whites" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/eggnog> a fo:Ingredient;
+  rdfs:label "eggnog" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/eggplant> a fo:Ingredient;
+  rdfs:label "eggplant" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/eggs> a fo:Ingredient;
+  rdfs:label "eggs" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/elbow%20macaroni> a fo:Ingredient;
+  rdfs:label "elbow macaroni" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/enchilada%20sauce> a fo:Ingredient;
+  rdfs:label "enchilada sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/english%20cucumber> a fo:Ingredient;
+  rdfs:label "english cucumber" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/espresso> a fo:Ingredient;
+  rdfs:label "espresso" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/espresso%20coffee> a fo:Ingredient;
+  rdfs:label "espresso coffee" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/evaporated%20milk> a fo:Ingredient;
+  rdfs:label "evaporated milk" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/extra%20lean%20ground%20beef> a fo:Ingredient;
+  rdfs:label "extra lean ground beef" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/extra%20virgin%20olive%20oil> a fo:Ingredient;
+  rdfs:label "extra virgin olive oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/extract> a fo:Ingredient;
+  rdfs:label "extract" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fat> a fo:Ingredient;
+  rdfs:label "fat" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fat%20free%20chicken%20broth> a fo:Ingredient;
+  rdfs:label "fat free chicken broth" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fat%20free%20greek%20yogurt> a fo:Ingredient;
+  rdfs:label "fat free greek yogurt" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fat%20free%20sour%20cream> a fo:Ingredient;
+  rdfs:label "fat free sour cream" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fava%20bean%20flour> a fo:Ingredient;
+  rdfs:label "fava bean flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fava%20beans> a fo:Ingredient;
+  rdfs:label "fava beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fennel> a fo:Ingredient;
+  rdfs:label "fennel" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fennel%20seed> a fo:Ingredient;
+  rdfs:label "fennel seed" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fennel%20seeds> a fo:Ingredient;
+  rdfs:label "fennel seeds" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fenugreek%20leaves> a fo:Ingredient;
+  rdfs:label "fenugreek leaves" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fenugreek%20seeds> a fo:Ingredient;
+  rdfs:label "fenugreek seeds" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/feta> a fo:Ingredient;
+  rdfs:label "feta" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/feta%20cheese> a fo:Ingredient;
+  rdfs:label "feta cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/field%20peas> a fo:Ingredient;
+  rdfs:label "field peas" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fiesta%20nacho%20cheese%20soup> a fo:Ingredient;
+  rdfs:label "fiesta nacho cheese soup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fig> a fo:Ingredient;
+  rdfs:label "fig" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fig%20spread> a fo:Ingredient;
+  rdfs:label "fig spread" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/figs> a fo:Ingredient;
+  rdfs:label "figs" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fillets> a fo:Ingredient;
+  rdfs:label "fillets" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fine%20dry%20breadcrumbs> a fo:Ingredient;
+  rdfs:label "fine dry breadcrumbs" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fingerling%20potatoes> a fo:Ingredient;
+  rdfs:label "fingerling potatoes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/firm%20tofu> a fo:Ingredient;
+  rdfs:label "firm tofu" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fish%20fillet> a fo:Ingredient;
+  rdfs:label "fish fillet" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fish%20oil> a fo:Ingredient;
+  rdfs:label "fish oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fish%20sauce> a fo:Ingredient;
+  rdfs:label "fish sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fish%20stock> a fo:Ingredient;
+  rdfs:label "fish stock" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/flank%20steak> a fo:Ingredient;
+  rdfs:label "flank steak" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/flat%20bread> a fo:Ingredient;
+  rdfs:label "flat bread" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/flavoring> a fo:Ingredient;
+  rdfs:label "flavoring" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/flax%20seed> a fo:Ingredient;
+  rdfs:label "flax seed" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/flax%20seed%20oil> a fo:Ingredient;
+  rdfs:label "flax seed oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/flax%20seeds> a fo:Ingredient;
+  rdfs:label "flax seeds" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fleur%20de%20sel> a fo:Ingredient;
+  rdfs:label "fleur de sel" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/flounder> a fo:Ingredient;
+  rdfs:label "flounder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/flour> a fo:Ingredient;
+  rdfs:label "flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/flour%20tortillas> a fo:Ingredient;
+  rdfs:label "flour tortillas" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fontina> a fo:Ingredient;
+  rdfs:label "fontina" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/frank> a fo:Ingredient;
+  rdfs:label "frank" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/french%20bread> a fo:Ingredient;
+  rdfs:label "french bread" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/french%20onion%20dip> a fo:Ingredient;
+  rdfs:label "french onion dip" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/french%20onion%20soup> a fo:Ingredient;
+  rdfs:label "french onion soup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/french%20onion%20soup%20mix> a fo:Ingredient;
+  rdfs:label "french onion soup mix" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/french%20style%20green%20beans> a fo:Ingredient;
+  rdfs:label "french style green beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/french%20tarragon> a fo:Ingredient;
+  rdfs:label "french tarragon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20apricots> a fo:Ingredient;
+  rdfs:label "fresh apricots" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20basil> a fo:Ingredient;
+  rdfs:label "fresh basil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20black%20pepper> a fo:Ingredient;
+  rdfs:label "fresh black pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20blueberries> a fo:Ingredient;
+  rdfs:label "fresh blueberries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20chives> a fo:Ingredient;
+  rdfs:label "fresh chives" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20cilantro> a fo:Ingredient;
+  rdfs:label "fresh cilantro" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20coriander> a fo:Ingredient;
+  rdfs:label "fresh coriander" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20corn> a fo:Ingredient;
+  rdfs:label "fresh corn" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20cranberries> a fo:Ingredient;
+  rdfs:label "fresh cranberries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20dill> a fo:Ingredient;
+  rdfs:label "fresh dill" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20garlic> a fo:Ingredient;
+  rdfs:label "fresh garlic" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20ginger> a fo:Ingredient;
+  rdfs:label "fresh ginger" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20green%20beans> a fo:Ingredient;
+  rdfs:label "fresh green beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20jalapeno> a fo:Ingredient;
+  rdfs:label "fresh jalapeno" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20kale> a fo:Ingredient;
+  rdfs:label "fresh kale" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20lemon> a fo:Ingredient;
+  rdfs:label "fresh lemon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20lemon%20juice> a fo:Ingredient;
+  rdfs:label "fresh lemon juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20lime%20juice> a fo:Ingredient;
+  rdfs:label "fresh lime juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20mango> a fo:Ingredient;
+  rdfs:label "fresh mango" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20mint%20leaves> a fo:Ingredient;
+  rdfs:label "fresh mint leaves" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20onion> a fo:Ingredient;
+  rdfs:label "fresh onion" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20orange%20juice> a fo:Ingredient;
+  rdfs:label "fresh orange juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20oregano> a fo:Ingredient;
+  rdfs:label "fresh oregano" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20parsley> a fo:Ingredient;
+  rdfs:label "fresh parsley" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20peaches> a fo:Ingredient;
+  rdfs:label "fresh peaches" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20pineapple> a fo:Ingredient;
+  rdfs:label "fresh pineapple" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20pumpkin> a fo:Ingredient;
+  rdfs:label "fresh pumpkin" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20pumpkin%20puree> a fo:Ingredient;
+  rdfs:label "fresh pumpkin puree" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20rosemary> a fo:Ingredient;
+  rdfs:label "fresh rosemary" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20sage> a fo:Ingredient;
+  rdfs:label "fresh sage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20salmon> a fo:Ingredient;
+  rdfs:label "fresh salmon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20spinach> a fo:Ingredient;
+  rdfs:label "fresh spinach" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20strawberries> a fo:Ingredient;
+  rdfs:label "fresh strawberries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20thyme> a fo:Ingredient;
+  rdfs:label "fresh thyme" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20tomato> a fo:Ingredient;
+  rdfs:label "fresh tomato" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20tomatoes> a fo:Ingredient;
+  rdfs:label "fresh tomatoes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fresh%20zucchini> a fo:Ingredient;
+  rdfs:label "fresh zucchini" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fried%20onions> a fo:Ingredient;
+  rdfs:label "fried onions" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/frosting> a fo:Ingredient;
+  rdfs:label "frosting" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/frozen%20baby%20peas> a fo:Ingredient;
+  rdfs:label "frozen baby peas" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/frozen%20blackberries> a fo:Ingredient;
+  rdfs:label "frozen blackberries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/frozen%20blueberries> a fo:Ingredient;
+  rdfs:label "frozen blueberries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/frozen%20bread%20dough> a fo:Ingredient;
+  rdfs:label "frozen bread dough" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/frozen%20chopped%20broccoli> a fo:Ingredient;
+  rdfs:label "frozen chopped broccoli" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/frozen%20chopped%20spinach> a fo:Ingredient;
+  rdfs:label "frozen chopped spinach" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/frozen%20corn> a fo:Ingredient;
+  rdfs:label "frozen corn" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/frozen%20dark%20sweet%20cherries> a fo:Ingredient;
+  rdfs:label "frozen dark sweet cherries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/frozen%20green%20beans> a fo:Ingredient;
+  rdfs:label "frozen green beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/frozen%20green%20peas> a fo:Ingredient;
+  rdfs:label "frozen green peas" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/frozen%20hash%20browns> a fo:Ingredient;
+  rdfs:label "frozen hash browns" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/frozen%20lemonade> a fo:Ingredient;
+  rdfs:label "frozen lemonade" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/frozen%20lima%20beans> a fo:Ingredient;
+  rdfs:label "frozen lima beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/frozen%20meatballs> a fo:Ingredient;
+  rdfs:label "frozen meatballs" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/frozen%20mixed%20berries> a fo:Ingredient;
+  rdfs:label "frozen mixed berries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/frozen%20mixed%20vegetables> a fo:Ingredient;
+  rdfs:label "frozen mixed vegetables" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/frozen%20orange%20juice> a fo:Ingredient;
+  rdfs:label "frozen orange juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/frozen%20peas> a fo:Ingredient;
+  rdfs:label "frozen peas" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/frozen%20raspberries> a fo:Ingredient;
+  rdfs:label "frozen raspberries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/frozen%20salad%20shrimp> a fo:Ingredient;
+  rdfs:label "frozen salad shrimp" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/frozen%20spinach> a fo:Ingredient;
+  rdfs:label "frozen spinach" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/frozen%20strawberries> a fo:Ingredient;
+  rdfs:label "frozen strawberries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/frozen%20sweet%20peas> a fo:Ingredient;
+  rdfs:label "frozen sweet peas" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fructose> a fo:Ingredient;
+  rdfs:label "fructose" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fruit> a fo:Ingredient;
+  rdfs:label "fruit" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fruit%20cocktail> a fo:Ingredient;
+  rdfs:label "fruit cocktail" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fruit%20juice> a fo:Ingredient;
+  rdfs:label "fruit juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fruit%20puree> a fo:Ingredient;
+  rdfs:label "fruit puree" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fuji%20apple> a fo:Ingredient;
+  rdfs:label "fuji apple" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fuji%20apples> a fo:Ingredient;
+  rdfs:label "fuji apples" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/fusilli> a fo:Ingredient;
+  rdfs:label "fusilli" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/garam%20masala> a fo:Ingredient;
+  rdfs:label "garam masala" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/garbanzo%20beans> a fo:Ingredient;
+  rdfs:label "garbanzo beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/garbanzo%20flour> a fo:Ingredient;
+  rdfs:label "garbanzo flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/garlic> a fo:Ingredient;
+  rdfs:label "garlic" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/garlic%20chives> a fo:Ingredient;
+  rdfs:label "garlic chives" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/garlic%20clove> a fo:Ingredient;
+  rdfs:label "garlic clove" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/garlic%20granules> a fo:Ingredient;
+  rdfs:label "garlic granules" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/garlic%20oil> a fo:Ingredient;
+  rdfs:label "garlic oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/garlic%20paste> a fo:Ingredient;
+  rdfs:label "garlic paste" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/garlic%20powder> a fo:Ingredient;
+  rdfs:label "garlic powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/garlic%20salt> a fo:Ingredient;
+  rdfs:label "garlic salt" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/garlic%20seasoning> a fo:Ingredient;
+  rdfs:label "garlic seasoning" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/gelatin> a fo:Ingredient;
+  rdfs:label "gelatin" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ghee> a fo:Ingredient;
+  rdfs:label "ghee" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/gherkins> a fo:Ingredient;
+  rdfs:label "gherkins" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/gin> a fo:Ingredient;
+  rdfs:label "gin" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ginger> a fo:Ingredient;
+  rdfs:label "ginger" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ginger%20ale> a fo:Ingredient;
+  rdfs:label "ginger ale" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ginger%20juice> a fo:Ingredient;
+  rdfs:label "ginger juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ginger%20powder> a fo:Ingredient;
+  rdfs:label "ginger powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/glace%20cherries> a fo:Ingredient;
+  rdfs:label "glace cherries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/glaze> a fo:Ingredient;
+  rdfs:label "glaze" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/gluten> a fo:Ingredient;
+  rdfs:label "gluten" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/gnocchi> a fo:Ingredient;
+  rdfs:label "gnocchi" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/goat%20cheese> a fo:Ingredient;
+  rdfs:label "goat cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/golden%20beets> a fo:Ingredient;
+  rdfs:label "golden beets" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/golden%20raisins> a fo:Ingredient;
+  rdfs:label "golden raisins" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/golden%20syrup> a fo:Ingredient;
+  rdfs:label "golden syrup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/goldfish%20crackers> a fo:Ingredient;
+  rdfs:label "goldfish crackers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/gorgonzola> a fo:Ingredient;
+  rdfs:label "gorgonzola" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/gouda%20cheese> a fo:Ingredient;
+  rdfs:label "gouda cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/graham%20cracker%20crumb%20crust> a fo:Ingredient;
+  rdfs:label "graham cracker crumb crust" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/graham%20crackers> a fo:Ingredient;
+  rdfs:label "graham crackers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/grain> a fo:Ingredient;
+  rdfs:label "grain" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/grainy%20mustard> a fo:Ingredient;
+  rdfs:label "grainy mustard" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/granny%20smith%20apples> a fo:Ingredient;
+  rdfs:label "granny smith apples" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/granulated%20garlic> a fo:Ingredient;
+  rdfs:label "granulated garlic" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/granulated%20sugar> a fo:Ingredient;
+  rdfs:label "granulated sugar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/grape%20jam> a fo:Ingredient;
+  rdfs:label "grape jam" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/grape%20jelly> a fo:Ingredient;
+  rdfs:label "grape jelly" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/grape%20juice> a fo:Ingredient;
+  rdfs:label "grape juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/grape%20tomatoes> a fo:Ingredient;
+  rdfs:label "grape tomatoes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/grapefruit%20juice> a fo:Ingredient;
+  rdfs:label "grapefruit juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/grapes> a fo:Ingredient;
+  rdfs:label "grapes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/grapeseed%20oil> a fo:Ingredient;
+  rdfs:label "grapeseed oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/gravy%20mix> a fo:Ingredient;
+  rdfs:label "gravy mix" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/great%20northern%20beans> a fo:Ingredient;
+  rdfs:label "great northern beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/greek%20olives> a fo:Ingredient;
+  rdfs:label "greek olives" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/greek%20oregano> a fo:Ingredient;
+  rdfs:label "greek oregano" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/greek%20yogurt> a fo:Ingredient;
+  rdfs:label "greek yogurt" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/green%20apple> a fo:Ingredient;
+  rdfs:label "green apple" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/green%20beans> a fo:Ingredient;
+  rdfs:label "green beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/green%20bell%20pepper> a fo:Ingredient;
+  rdfs:label "green bell pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/green%20bell%20peppers> a fo:Ingredient;
+  rdfs:label "green bell peppers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/green%20cabbage> a fo:Ingredient;
+  rdfs:label "green cabbage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/green%20chili> a fo:Ingredient;
+  rdfs:label "green chili" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/green%20chilies> a fo:Ingredient;
+  rdfs:label "green chilies" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/green%20enchilada%20sauce> a fo:Ingredient;
+  rdfs:label "green enchilada sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/green%20grapes> a fo:Ingredient;
+  rdfs:label "green grapes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/green%20olives> a fo:Ingredient;
+  rdfs:label "green olives" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/green%20onion> a fo:Ingredient;
+  rdfs:label "green onion" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/green%20onion%20tops> a fo:Ingredient;
+  rdfs:label "green onion tops" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/green%20onions> a fo:Ingredient;
+  rdfs:label "green onions" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/green%20peas> a fo:Ingredient;
+  rdfs:label "green peas" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/green%20pepper> a fo:Ingredient;
+  rdfs:label "green pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/green%20peppers> a fo:Ingredient;
+  rdfs:label "green peppers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/green%20salad> a fo:Ingredient;
+  rdfs:label "green salad" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/green%20tomatoes> a fo:Ingredient;
+  rdfs:label "green tomatoes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/green%20zucchini> a fo:Ingredient;
+  rdfs:label "green zucchini" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/greens> a fo:Ingredient;
+  rdfs:label "greens" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/grey%20poupon> a fo:Ingredient;
+  rdfs:label "grey poupon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20almonds> a fo:Ingredient;
+  rdfs:label "ground almonds" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20beef> a fo:Ingredient;
+  rdfs:label "ground beef" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20black%20pepper> a fo:Ingredient;
+  rdfs:label "ground black pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20cardamom> a fo:Ingredient;
+  rdfs:label "ground cardamom" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20chicken> a fo:Ingredient;
+  rdfs:label "ground chicken" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20chicken%20breast> a fo:Ingredient;
+  rdfs:label "ground chicken breast" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20chuck> a fo:Ingredient;
+  rdfs:label "ground chuck" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20cinnamon> a fo:Ingredient;
+  rdfs:label "ground cinnamon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20cloves> a fo:Ingredient;
+  rdfs:label "ground cloves" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20coriander> a fo:Ingredient;
+  rdfs:label "ground coriander" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20cumin> a fo:Ingredient;
+  rdfs:label "ground cumin" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20espresso> a fo:Ingredient;
+  rdfs:label "ground espresso" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20ginger> a fo:Ingredient;
+  rdfs:label "ground ginger" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20hazelnuts> a fo:Ingredient;
+  rdfs:label "ground hazelnuts" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20lamb> a fo:Ingredient;
+  rdfs:label "ground lamb" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20meat> a fo:Ingredient;
+  rdfs:label "ground meat" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20mustard> a fo:Ingredient;
+  rdfs:label "ground mustard" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20nutmeg> a fo:Ingredient;
+  rdfs:label "ground nutmeg" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20paprika> a fo:Ingredient;
+  rdfs:label "ground paprika" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20pepper> a fo:Ingredient;
+  rdfs:label "ground pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20pork> a fo:Ingredient;
+  rdfs:label "ground pork" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20red%20pepper> a fo:Ingredient;
+  rdfs:label "ground red pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20rosemary> a fo:Ingredient;
+  rdfs:label "ground rosemary" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20round> a fo:Ingredient;
+  rdfs:label "ground round" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20sage> a fo:Ingredient;
+  rdfs:label "ground sage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20sausage> a fo:Ingredient;
+  rdfs:label "ground sausage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20sirloin> a fo:Ingredient;
+  rdfs:label "ground sirloin" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20turkey> a fo:Ingredient;
+  rdfs:label "ground turkey" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20turkey%20breast> a fo:Ingredient;
+  rdfs:label "ground turkey breast" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20venison> a fo:Ingredient;
+  rdfs:label "ground venison" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ground%20white%20pepper> a fo:Ingredient;
+  rdfs:label "ground white pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/gruyere> a fo:Ingredient;
+  rdfs:label "gruyere" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/gruyere%20cheese> a fo:Ingredient;
+  rdfs:label "gruyere cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/guar%20gum> a fo:Ingredient;
+  rdfs:label "guar gum" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/habanero%20peppers> a fo:Ingredient;
+  rdfs:label "habanero peppers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/haddock> a fo:Ingredient;
+  rdfs:label "haddock" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ham> a fo:Ingredient;
+  rdfs:label "ham" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ham%20bone> a fo:Ingredient;
+  rdfs:label "ham bone" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ham%20hock> a fo:Ingredient;
+  rdfs:label "ham hock" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ham%20hocks> a fo:Ingredient;
+  rdfs:label "ham hocks" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ham%20steak> a fo:Ingredient;
+  rdfs:label "ham steak" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hamburger> a fo:Ingredient;
+  rdfs:label "hamburger" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hamburger%20meat> a fo:Ingredient;
+  rdfs:label "hamburger meat" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/harissa> a fo:Ingredient;
+  rdfs:label "harissa" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hash%20brown%20patties> a fo:Ingredient;
+  rdfs:label "hash brown patties" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hash%20browns> a fo:Ingredient;
+  rdfs:label "hash browns" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hazelnut%20oil> a fo:Ingredient;
+  rdfs:label "hazelnut oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hazelnuts> a fo:Ingredient;
+  rdfs:label "hazelnuts" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/head%20of%20lettuce> a fo:Ingredient;
+  rdfs:label "head of lettuce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hearts%20of%20palm> a fo:Ingredient;
+  rdfs:label "hearts of palm" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/heavy%20cream> a fo:Ingredient;
+  rdfs:label "heavy cream" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/heavy%20whipping%20cream> a fo:Ingredient;
+  rdfs:label "heavy whipping cream" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/heinz%20chili%20sauce> a fo:Ingredient;
+  rdfs:label "heinz chili sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/heinz%20ketchup> a fo:Ingredient;
+  rdfs:label "heinz ketchup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hemp%20milk> a fo:Ingredient;
+  rdfs:label "hemp milk" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hemp%20seeds> a fo:Ingredient;
+  rdfs:label "hemp seeds" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hen> a fo:Ingredient;
+  rdfs:label "hen" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/herbal%20tea> a fo:Ingredient;
+  rdfs:label "herbal tea" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/herbed%20goat%20cheese> a fo:Ingredient;
+  rdfs:label "herbed goat cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/herbes%20de%20provence> a fo:Ingredient;
+  rdfs:label "herbes de provence" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/herbs> a fo:Ingredient;
+  rdfs:label "herbs" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hickory%20liquid%20smoke> a fo:Ingredient;
+  rdfs:label "hickory liquid smoke" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hing> a fo:Ingredient;
+  rdfs:label "hing" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hoisin%20sauce> a fo:Ingredient;
+  rdfs:label "hoisin sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hokkien%20noodles> a fo:Ingredient;
+  rdfs:label "hokkien noodles" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/homemade%20chicken%20broth> a fo:Ingredient;
+  rdfs:label "homemade chicken broth" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/homemade%20chicken%20stock> a fo:Ingredient;
+  rdfs:label "homemade chicken stock" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/homemade%20vegetable%20stock> a fo:Ingredient;
+  rdfs:label "homemade vegetable stock" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hominy> a fo:Ingredient;
+  rdfs:label "hominy" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/honey> a fo:Ingredient;
+  rdfs:label "honey" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/honey%20mustard> a fo:Ingredient;
+  rdfs:label "honey mustard" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/honey%20nut%20cheerios> a fo:Ingredient;
+  rdfs:label "honey nut cheerios" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/honey%20powder> a fo:Ingredient;
+  rdfs:label "honey powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/honeydew> a fo:Ingredient;
+  rdfs:label "honeydew" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/honeydew%20melon> a fo:Ingredient;
+  rdfs:label "honeydew melon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hop> a fo:Ingredient;
+  rdfs:label "hop" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/horseradish> a fo:Ingredient;
+  rdfs:label "horseradish" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/horseradish%20cream> a fo:Ingredient;
+  rdfs:label "horseradish cream" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/horseradish%20mustard> a fo:Ingredient;
+  rdfs:label "horseradish mustard" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/horseradish%20powder> a fo:Ingredient;
+  rdfs:label "horseradish powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hot%20chicken%20stock> a fo:Ingredient;
+  rdfs:label "hot chicken stock" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hot%20chili%20flakes> a fo:Ingredient;
+  rdfs:label "hot chili flakes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hot%20chili%20pepper> a fo:Ingredient;
+  rdfs:label "hot chili pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hot%20chili%20powder> a fo:Ingredient;
+  rdfs:label "hot chili powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hot%20chili%20sauce> a fo:Ingredient;
+  rdfs:label "hot chili sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hot%20coffee> a fo:Ingredient;
+  rdfs:label "hot coffee" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hot%20dog%20buns> a fo:Ingredient;
+  rdfs:label "hot dog buns" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hot%20dogs> a fo:Ingredient;
+  rdfs:label "hot dogs" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hot%20italian%20sausage> a fo:Ingredient;
+  rdfs:label "hot italian sausage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hot%20pepper%20flakes> a fo:Ingredient;
+  rdfs:label "hot pepper flakes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hot%20pepper%20sauce> a fo:Ingredient;
+  rdfs:label "hot pepper sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hot%20peppers> a fo:Ingredient;
+  rdfs:label "hot peppers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hot%20salsa> a fo:Ingredient;
+  rdfs:label "hot salsa" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hot%20sauce> a fo:Ingredient;
+  rdfs:label "hot sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hot%20water> a fo:Ingredient;
+  rdfs:label "hot water" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/huckleberries> a fo:Ingredient;
+  rdfs:label "huckleberries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hummus> a fo:Ingredient;
+  rdfs:label "hummus" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/hungarian%20paprika> a fo:Ingredient;
+  rdfs:label "hungarian paprika" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ice> a fo:Ingredient;
+  rdfs:label "ice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ice%20cream> a fo:Ingredient;
+  rdfs:label "ice cream" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ice%20cubes> a fo:Ingredient;
+  rdfs:label "ice cubes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ice%20wine> a fo:Ingredient;
+  rdfs:label "ice wine" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/iceberg%20lettuce> a fo:Ingredient;
+  rdfs:label "iceberg lettuce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/icing%20sugar> a fo:Ingredient;
+  rdfs:label "icing sugar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/imitation%20lobster%20meat> a fo:Ingredient;
+  rdfs:label "imitation lobster meat" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/instant%20coffee> a fo:Ingredient;
+  rdfs:label "instant coffee" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/instant%20malted%20milk%20powder> a fo:Ingredient;
+  rdfs:label "instant malted milk powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/instant%20mashed%20potatoes> a fo:Ingredient;
+  rdfs:label "instant mashed potatoes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/instant%20minced%20onion> a fo:Ingredient;
+  rdfs:label "instant minced onion" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/instant%20oats> a fo:Ingredient;
+  rdfs:label "instant oats" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/instant%20rice> a fo:Ingredient;
+  rdfs:label "instant rice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/instant%20vanilla%20pudding> a fo:Ingredient;
+  rdfs:label "instant vanilla pudding" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/instant%20yeast> a fo:Ingredient;
+  rdfs:label "instant yeast" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/italian%20breadcrumbs> a fo:Ingredient;
+  rdfs:label "italian breadcrumbs" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/italian%20cheese> a fo:Ingredient;
+  rdfs:label "italian cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/italian%20cheese%20blend> a fo:Ingredient;
+  rdfs:label "italian cheese blend" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/italian%20dressing> a fo:Ingredient;
+  rdfs:label "italian dressing" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/italian%20herb%20seasoning> a fo:Ingredient;
+  rdfs:label "italian herb seasoning" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/italian%20sausage> a fo:Ingredient;
+  rdfs:label "italian sausage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/italian%20seasoning> a fo:Ingredient;
+  rdfs:label "italian seasoning" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/italian%20spices> a fo:Ingredient;
+  rdfs:label "italian spices" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/italian%20turkey%20sausage> a fo:Ingredient;
+  rdfs:label "italian turkey sausage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/jalapeno> a fo:Ingredient;
+  rdfs:label "jalapeno" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/jalapeno%20juice> a fo:Ingredient;
+  rdfs:label "jalapeno juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/jalapeno%20pepper> a fo:Ingredient;
+  rdfs:label "jalapeno pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/jalapenos> a fo:Ingredient;
+  rdfs:label "jalapenos" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/jam> a fo:Ingredient;
+  rdfs:label "jam" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/jar> a fo:Ingredient;
+  rdfs:label "jar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/jasmine%20rice> a fo:Ingredient;
+  rdfs:label "jasmine rice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/jelly> a fo:Ingredient;
+  rdfs:label "jelly" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/jicama> a fo:Ingredient;
+  rdfs:label "jicama" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/juice> a fo:Ingredient;
+  rdfs:label "juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/kaffir%20lime%20leaf> a fo:Ingredient;
+  rdfs:label "kaffir lime leaf" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/kaffir%20lime%20leaves> a fo:Ingredient;
+  rdfs:label "kaffir lime leaves" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/kalamata%20olives> a fo:Ingredient;
+  rdfs:label "kalamata olives" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/kale> a fo:Ingredient;
+  rdfs:label "kale" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/karo%20syrup> a fo:Ingredient;
+  rdfs:label "karo syrup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/kefir> a fo:Ingredient;
+  rdfs:label "kefir" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/kelp> a fo:Ingredient;
+  rdfs:label "kelp" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/kernel%20corn> a fo:Ingredient;
+  rdfs:label "kernel corn" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ketchup> a fo:Ingredient;
+  rdfs:label "ketchup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/key%20lime%20juice> a fo:Ingredient;
+  rdfs:label "key lime juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/kidney%20beans> a fo:Ingredient;
+  rdfs:label "kidney beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/kielbasa> a fo:Ingredient;
+  rdfs:label "kielbasa" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/kiwi> a fo:Ingredient;
+  rdfs:label "kiwi" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/kiwi%20fruit> a fo:Ingredient;
+  rdfs:label "kiwi fruit" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/kohlrabi> a fo:Ingredient;
+  rdfs:label "kohlrabi" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/kosher%20salt> a fo:Ingredient;
+  rdfs:label "kosher salt" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lady%20fingers> a fo:Ingredient;
+  rdfs:label "lady fingers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ladyfingers> a fo:Ingredient;
+  rdfs:label "ladyfingers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lamb> a fo:Ingredient;
+  rdfs:label "lamb" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lamb%20broth> a fo:Ingredient;
+  rdfs:label "lamb broth" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lamb%20chops> a fo:Ingredient;
+  rdfs:label "lamb chops" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lamb%20shoulder> a fo:Ingredient;
+  rdfs:label "lamb shoulder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lard> a fo:Ingredient;
+  rdfs:label "lard" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lasagna%20noodles> a fo:Ingredient;
+  rdfs:label "lasagna noodles" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lean%20ground%20beef> a fo:Ingredient;
+  rdfs:label "lean ground beef" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lean%20ground%20chicken> a fo:Ingredient;
+  rdfs:label "lean ground chicken" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lean%20ground%20turkey> a fo:Ingredient;
+  rdfs:label "lean ground turkey" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/leek> a fo:Ingredient;
+  rdfs:label "leek" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/leeks> a fo:Ingredient;
+  rdfs:label "leeks" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lemon> a fo:Ingredient;
+  rdfs:label "lemon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lemon%20balm> a fo:Ingredient;
+  rdfs:label "lemon balm" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lemon%20concentrate> a fo:Ingredient;
+  rdfs:label "lemon concentrate" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lemon%20extract> a fo:Ingredient;
+  rdfs:label "lemon extract" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lemon%20gelatin> a fo:Ingredient;
+  rdfs:label "lemon gelatin" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lemon%20juice> a fo:Ingredient;
+  rdfs:label "lemon juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lemon%20juice%20concentrate> a fo:Ingredient;
+  rdfs:label "lemon juice concentrate" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lemon%20peel> a fo:Ingredient;
+  rdfs:label "lemon peel" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lemon%20pepper> a fo:Ingredient;
+  rdfs:label "lemon pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lemon%20pudding%20mix> a fo:Ingredient;
+  rdfs:label "lemon pudding mix" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lemon%20rind> a fo:Ingredient;
+  rdfs:label "lemon rind" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lemon%20slices> a fo:Ingredient;
+  rdfs:label "lemon slices" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lemon%20thyme> a fo:Ingredient;
+  rdfs:label "lemon thyme" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lemon%20yogurt> a fo:Ingredient;
+  rdfs:label "lemon yogurt" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lemon%20zest> a fo:Ingredient;
+  rdfs:label "lemon zest" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lemongrass> a fo:Ingredient;
+  rdfs:label "lemongrass" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lemons> a fo:Ingredient;
+  rdfs:label "lemons" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lentils> a fo:Ingredient;
+  rdfs:label "lentils" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lettuce> a fo:Ingredient;
+  rdfs:label "lettuce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lettuce%20leaves> a fo:Ingredient;
+  rdfs:label "lettuce leaves" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/light%20beer> a fo:Ingredient;
+  rdfs:label "light beer" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/light%20brown%20sugar> a fo:Ingredient;
+  rdfs:label "light brown sugar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/light%20butter> a fo:Ingredient;
+  rdfs:label "light butter" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/light%20coconut%20milk> a fo:Ingredient;
+  rdfs:label "light coconut milk" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/light%20corn%20syrup> a fo:Ingredient;
+  rdfs:label "light corn syrup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/light%20cream> a fo:Ingredient;
+  rdfs:label "light cream" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/light%20cream%20cheese> a fo:Ingredient;
+  rdfs:label "light cream cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/light%20margarine> a fo:Ingredient;
+  rdfs:label "light margarine" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/light%20olive%20oil> a fo:Ingredient;
+  rdfs:label "light olive oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/light%20raisins> a fo:Ingredient;
+  rdfs:label "light raisins" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/light%20sour%20cream> a fo:Ingredient;
+  rdfs:label "light sour cream" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/light%20soy%20sauce> a fo:Ingredient;
+  rdfs:label "light soy sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lima%20beans> a fo:Ingredient;
+  rdfs:label "lima beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lime> a fo:Ingredient;
+  rdfs:label "lime" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lime%20juice> a fo:Ingredient;
+  rdfs:label "lime juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lime%20peel> a fo:Ingredient;
+  rdfs:label "lime peel" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lime%20zest> a fo:Ingredient;
+  rdfs:label "lime zest" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/limeade> a fo:Ingredient;
+  rdfs:label "limeade" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/limes> a fo:Ingredient;
+  rdfs:label "limes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/linguine> a fo:Ingredient;
+  rdfs:label "linguine" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/link%20sausage> a fo:Ingredient;
+  rdfs:label "link sausage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lipton%20onion%20soup%20mix> a fo:Ingredient;
+  rdfs:label "lipton onion soup mix" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/liqueur> a fo:Ingredient;
+  rdfs:label "liqueur" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/liquid> a fo:Ingredient;
+  rdfs:label "liquid" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/liquid%20glucose> a fo:Ingredient;
+  rdfs:label "liquid glucose" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/liquid%20smoke> a fo:Ingredient;
+  rdfs:label "liquid smoke" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/liquor> a fo:Ingredient;
+  rdfs:label "liquor" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/liver> a fo:Ingredient;
+  rdfs:label "liver" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lobster> a fo:Ingredient;
+  rdfs:label "lobster" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lobster%20base> a fo:Ingredient;
+  rdfs:label "lobster base" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/long%20beans> a fo:Ingredient;
+  rdfs:label "long beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/long%20grain%20rice> a fo:Ingredient;
+  rdfs:label "long grain rice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/louisiana%20hot%20sauce> a fo:Ingredient;
+  rdfs:label "louisiana hot sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/low%20fat%20cottage%20cheese> a fo:Ingredient;
+  rdfs:label "low fat cottage cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/low%20sodium%20beef%20broth> a fo:Ingredient;
+  rdfs:label "low sodium beef broth" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/low%20sodium%20chicken%20broth> a fo:Ingredient;
+  rdfs:label "low sodium chicken broth" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/low%20sodium%20soy%20sauce> a fo:Ingredient;
+  rdfs:label "low sodium soy sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lox> a fo:Ingredient;
+  rdfs:label "lox" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/lump%20crabmeat> a fo:Ingredient;
+  rdfs:label "lump crabmeat" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/macadamia%20nuts> a fo:Ingredient;
+  rdfs:label "macadamia nuts" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/macadamias> a fo:Ingredient;
+  rdfs:label "macadamias" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/macaroni> a fo:Ingredient;
+  rdfs:label "macaroni" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mace> a fo:Ingredient;
+  rdfs:label "mace" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/malt%20vinegar> a fo:Ingredient;
+  rdfs:label "malt vinegar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mandarin%20juice> a fo:Ingredient;
+  rdfs:label "mandarin juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mandarin%20oranges> a fo:Ingredient;
+  rdfs:label "mandarin oranges" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mango> a fo:Ingredient;
+  rdfs:label "mango" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mango%20chutney> a fo:Ingredient;
+  rdfs:label "mango chutney" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mango%20nectar> a fo:Ingredient;
+  rdfs:label "mango nectar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mango%20powder> a fo:Ingredient;
+  rdfs:label "mango powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mango%20salsa> a fo:Ingredient;
+  rdfs:label "mango salsa" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mango%20sorbet> a fo:Ingredient;
+  rdfs:label "mango sorbet" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mangoes> a fo:Ingredient;
+  rdfs:label "mangoes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/maple%20extract> a fo:Ingredient;
+  rdfs:label "maple extract" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/maple%20flavoring> a fo:Ingredient;
+  rdfs:label "maple flavoring" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/maple%20syrup> a fo:Ingredient;
+  rdfs:label "maple syrup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/maraschino%20cherries> a fo:Ingredient;
+  rdfs:label "maraschino cherries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/margarine> a fo:Ingredient;
+  rdfs:label "margarine" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/margarine%20spread> a fo:Ingredient;
+  rdfs:label "margarine spread" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/marinade> a fo:Ingredient;
+  rdfs:label "marinade" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/marinara%20sauce> a fo:Ingredient;
+  rdfs:label "marinara sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/marinated%20artichoke%20hearts> a fo:Ingredient;
+  rdfs:label "marinated artichoke hearts" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/marjoram> a fo:Ingredient;
+  rdfs:label "marjoram" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/marsala%20wine> a fo:Ingredient;
+  rdfs:label "marsala wine" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/marshmallow%20cream> a fo:Ingredient;
+  rdfs:label "marshmallow cream" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/marshmallow%20creme> a fo:Ingredient;
+  rdfs:label "marshmallow creme" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/marshmallow%20whip> a fo:Ingredient;
+  rdfs:label "marshmallow whip" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/marshmallows> a fo:Ingredient;
+  rdfs:label "marshmallows" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/marzipan> a fo:Ingredient;
+  rdfs:label "marzipan" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/masa%20harina> a fo:Ingredient;
+  rdfs:label "masa harina" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/masago%20smelt%20roe> a fo:Ingredient;
+  rdfs:label "masago smelt roe" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/masala> a fo:Ingredient;
+  rdfs:label "masala" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mascarpone> a fo:Ingredient;
+  rdfs:label "mascarpone" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mashed%20banana> a fo:Ingredient;
+  rdfs:label "mashed banana" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mashed%20bananas> a fo:Ingredient;
+  rdfs:label "mashed bananas" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mashed%20sweet%20potato> a fo:Ingredient;
+  rdfs:label "mashed sweet potato" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/maui%20onion> a fo:Ingredient;
+  rdfs:label "maui onion" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mayonnaise> a fo:Ingredient;
+  rdfs:label "mayonnaise" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/meal> a fo:Ingredient;
+  rdfs:label "meal" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/meat> a fo:Ingredient;
+  rdfs:label "meat" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/meatballs> a fo:Ingredient;
+  rdfs:label "meatballs" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/melon> a fo:Ingredient;
+  rdfs:label "melon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/meringue%20powder> a fo:Ingredient;
+  rdfs:label "meringue powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/merlot> a fo:Ingredient;
+  rdfs:label "merlot" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mexican%20beer> a fo:Ingredient;
+  rdfs:label "mexican beer" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mexican%20blend%20cheese> a fo:Ingredient;
+  rdfs:label "mexican blend cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mexican%20chili%20powder> a fo:Ingredient;
+  rdfs:label "mexican chili powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mexican%20chocolate> a fo:Ingredient;
+  rdfs:label "mexican chocolate" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mexican%20oregano> a fo:Ingredient;
+  rdfs:label "mexican oregano" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mexican%20rice> a fo:Ingredient;
+  rdfs:label "mexican rice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mild%20italian%20sausage> a fo:Ingredient;
+  rdfs:label "mild italian sausage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mild%20salsa> a fo:Ingredient;
+  rdfs:label "mild salsa" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mild%20taco%20sauce> a fo:Ingredient;
+  rdfs:label "mild taco sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/milk> a fo:Ingredient;
+  rdfs:label "milk" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/milk%20chocolate> a fo:Ingredient;
+  rdfs:label "milk chocolate" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/milk%20chocolate%20chips> a fo:Ingredient;
+  rdfs:label "milk chocolate chips" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/millet> a fo:Ingredient;
+  rdfs:label "millet" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mincemeat> a fo:Ingredient;
+  rdfs:label "mincemeat" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mini%20chocolate%20chips> a fo:Ingredient;
+  rdfs:label "mini chocolate chips" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mini%20marshmallows> a fo:Ingredient;
+  rdfs:label "mini marshmallows" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mint> a fo:Ingredient;
+  rdfs:label "mint" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mint%20chocolate%20chips> a fo:Ingredient;
+  rdfs:label "mint chocolate chips" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mint%20extract> a fo:Ingredient;
+  rdfs:label "mint extract" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/minute%20rice> a fo:Ingredient;
+  rdfs:label "minute rice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/miracle%20whip> a fo:Ingredient;
+  rdfs:label "miracle whip" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mirin> a fo:Ingredient;
+  rdfs:label "mirin" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/miso> a fo:Ingredient;
+  rdfs:label "miso" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mixed%20berries> a fo:Ingredient;
+  rdfs:label "mixed berries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mixed%20greens> a fo:Ingredient;
+  rdfs:label "mixed greens" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mixed%20nuts> a fo:Ingredient;
+  rdfs:label "mixed nuts" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mixed%20spice> a fo:Ingredient;
+  rdfs:label "mixed spice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/molasses> a fo:Ingredient;
+  rdfs:label "molasses" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/monterey%20jack%20cheese> a fo:Ingredient;
+  rdfs:label "monterey jack cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/montreal%20chicken%20seasoning> a fo:Ingredient;
+  rdfs:label "montreal chicken seasoning" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mortadella> a fo:Ingredient;
+  rdfs:label "mortadella" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mozzarella%20cheese> a fo:Ingredient;
+  rdfs:label "mozzarella cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/msg> a fo:Ingredient;
+  rdfs:label "msg" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/muesli> a fo:Ingredient;
+  rdfs:label "muesli" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mulberries> a fo:Ingredient;
+  rdfs:label "mulberries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mushroom> a fo:Ingredient;
+  rdfs:label "mushroom" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mushroom%20broth> a fo:Ingredient;
+  rdfs:label "mushroom broth" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mushroom%20liquid> a fo:Ingredient;
+  rdfs:label "mushroom liquid" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mushroom%20soup> a fo:Ingredient;
+  rdfs:label "mushroom soup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mushroom%20stock> a fo:Ingredient;
+  rdfs:label "mushroom stock" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mushrooms> a fo:Ingredient;
+  rdfs:label "mushrooms" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mustard> a fo:Ingredient;
+  rdfs:label "mustard" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mustard%20greens> a fo:Ingredient;
+  rdfs:label "mustard greens" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mustard%20powder> a fo:Ingredient;
+  rdfs:label "mustard powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/mustard%20seeds> a fo:Ingredient;
+  rdfs:label "mustard seeds" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/napa%20cabbage> a fo:Ingredient;
+  rdfs:label "napa cabbage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/natural%20applesauce> a fo:Ingredient;
+  rdfs:label "natural applesauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/natural%20bran> a fo:Ingredient;
+  rdfs:label "natural bran" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/natural%20yoghurt> a fo:Ingredient;
+  rdfs:label "natural yoghurt" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/navy%20beans> a fo:Ingredient;
+  rdfs:label "navy beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/nectarine> a fo:Ingredient;
+  rdfs:label "nectarine" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/nectarines> a fo:Ingredient;
+  rdfs:label "nectarines" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/neufchatel%20cheese> a fo:Ingredient;
+  rdfs:label "neufchatel cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/new%20potatoes> a fo:Ingredient;
+  rdfs:label "new potatoes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/nigella%20seeds> a fo:Ingredient;
+  rdfs:label "nigella seeds" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/nonfat%20dry%20milk%20powder> a fo:Ingredient;
+  rdfs:label "nonfat dry milk powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/nonfat%20milk> a fo:Ingredient;
+  rdfs:label "nonfat milk" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/nonfat%20plain%20yogurt> a fo:Ingredient;
+  rdfs:label "nonfat plain yogurt" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/nonfat%20yogurt> a fo:Ingredient;
+  rdfs:label "nonfat yogurt" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/noodles> a fo:Ingredient;
+  rdfs:label "noodles" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/nutmeg> a fo:Ingredient;
+  rdfs:label "nutmeg" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/nutritional%20yeast%20flakes> a fo:Ingredient;
+  rdfs:label "nutritional yeast flakes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/nuts> a fo:Ingredient;
+  rdfs:label "nuts" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/oat%20bran> a fo:Ingredient;
+  rdfs:label "oat bran" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/oat%20flour> a fo:Ingredient;
+  rdfs:label "oat flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/oatmeal> a fo:Ingredient;
+  rdfs:label "oatmeal" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/oats> a fo:Ingredient;
+  rdfs:label "oats" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/oil> a fo:Ingredient;
+  rdfs:label "oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/okra> a fo:Ingredient;
+  rdfs:label "okra" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/old%20bay%20seasoning> a fo:Ingredient;
+  rdfs:label "old bay seasoning" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/olive> a fo:Ingredient;
+  rdfs:label "olive" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/olive%20oil> a fo:Ingredient;
+  rdfs:label "olive oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/olive%20oil%20margarine> a fo:Ingredient;
+  rdfs:label "olive oil margarine" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/olives> a fo:Ingredient;
+  rdfs:label "olives" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/onion> a fo:Ingredient;
+  rdfs:label "onion" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/onion%20flakes> a fo:Ingredient;
+  rdfs:label "onion flakes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/onion%20gravy%20mix> a fo:Ingredient;
+  rdfs:label "onion gravy mix" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/onion%20juice> a fo:Ingredient;
+  rdfs:label "onion juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/onion%20powder> a fo:Ingredient;
+  rdfs:label "onion powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/onion%20salt> a fo:Ingredient;
+  rdfs:label "onion salt" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/onion%20soup> a fo:Ingredient;
+  rdfs:label "onion soup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/onion%20soup%20mix> a fo:Ingredient;
+  rdfs:label "onion soup mix" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/onions> a fo:Ingredient;
+  rdfs:label "onions" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/orange> a fo:Ingredient;
+  rdfs:label "orange" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/orange%20blossom%20water> a fo:Ingredient;
+  rdfs:label "orange blossom water" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/orange%20champagne%20vinegar> a fo:Ingredient;
+  rdfs:label "orange champagne vinegar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/orange%20extract> a fo:Ingredient;
+  rdfs:label "orange extract" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/orange%20juice> a fo:Ingredient;
+  rdfs:label "orange juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/orange%20juice%20concentrate> a fo:Ingredient;
+  rdfs:label "orange juice concentrate" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/orange%20marmalade> a fo:Ingredient;
+  rdfs:label "orange marmalade" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/orange%20peel> a fo:Ingredient;
+  rdfs:label "orange peel" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/orange%20pepper> a fo:Ingredient;
+  rdfs:label "orange pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/orange%20rind> a fo:Ingredient;
+  rdfs:label "orange rind" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/orange%20sauce> a fo:Ingredient;
+  rdfs:label "orange sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/orange%20sections> a fo:Ingredient;
+  rdfs:label "orange sections" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/orange%20soda> a fo:Ingredient;
+  rdfs:label "orange soda" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/orange%20zest> a fo:Ingredient;
+  rdfs:label "orange zest" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/oranges> a fo:Ingredient;
+  rdfs:label "oranges" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/oregano> a fo:Ingredient;
+  rdfs:label "oregano" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/organic%20virgin%20coconut%20oil> a fo:Ingredient;
+  rdfs:label "organic virgin coconut oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/organic%20whole%20wheat%20flour> a fo:Ingredient;
+  rdfs:label "organic whole wheat flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/orzo%20pasta> a fo:Ingredient;
+  rdfs:label "orzo pasta" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/other%20seasoning> a fo:Ingredient;
+  rdfs:label "other seasoning" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ouzo> a fo:Ingredient;
+  rdfs:label "ouzo" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/oyster%20mushrooms> a fo:Ingredient;
+  rdfs:label "oyster mushrooms" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/oyster%20sauce> a fo:Ingredient;
+  rdfs:label "oyster sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/oysters> a fo:Ingredient;
+  rdfs:label "oysters" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pak%20choi> a fo:Ingredient;
+  rdfs:label "pak choi" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/palm%20oil> a fo:Ingredient;
+  rdfs:label "palm oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/palm%20sugar> a fo:Ingredient;
+  rdfs:label "palm sugar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pancake%20mix> a fo:Ingredient;
+  rdfs:label "pancake mix" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pancake%20syrup> a fo:Ingredient;
+  rdfs:label "pancake syrup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pancetta> a fo:Ingredient;
+  rdfs:label "pancetta" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/papaya> a fo:Ingredient;
+  rdfs:label "papaya" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/paprika> a fo:Ingredient;
+  rdfs:label "paprika" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/parmesan%20cheese> a fo:Ingredient;
+  rdfs:label "parmesan cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/parsley> a fo:Ingredient;
+  rdfs:label "parsley" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/parsley%20flakes> a fo:Ingredient;
+  rdfs:label "parsley flakes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/parsnip> a fo:Ingredient;
+  rdfs:label "parsnip" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/parsnips> a fo:Ingredient;
+  rdfs:label "parsnips" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pasta> a fo:Ingredient;
+  rdfs:label "pasta" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pasta%20sauce> a fo:Ingredient;
+  rdfs:label "pasta sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pasta%20shells> a fo:Ingredient;
+  rdfs:label "pasta shells" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/peach> a fo:Ingredient;
+  rdfs:label "peach" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/peach%20baby%20food> a fo:Ingredient;
+  rdfs:label "peach baby food" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/peach%20preserves> a fo:Ingredient;
+  rdfs:label "peach preserves" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/peach%20slices> a fo:Ingredient;
+  rdfs:label "peach slices" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/peaches> a fo:Ingredient;
+  rdfs:label "peaches" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/peanut%20butter> a fo:Ingredient;
+  rdfs:label "peanut butter" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/peanut%20butter%20chips> a fo:Ingredient;
+  rdfs:label "peanut butter chips" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/peanut%20oil> a fo:Ingredient;
+  rdfs:label "peanut oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/peanuts> a fo:Ingredient;
+  rdfs:label "peanuts" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pear> a fo:Ingredient;
+  rdfs:label "pear" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pear%20brandy> a fo:Ingredient;
+  rdfs:label "pear brandy" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pear%20juice> a fo:Ingredient;
+  rdfs:label "pear juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pearl%20barley> a fo:Ingredient;
+  rdfs:label "pearl barley" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pearl%20onions> a fo:Ingredient;
+  rdfs:label "pearl onions" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pears> a fo:Ingredient;
+  rdfs:label "pears" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/peas> a fo:Ingredient;
+  rdfs:label "peas" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/peas%20and%20carrots> a fo:Ingredient;
+  rdfs:label "peas and carrots" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pecan%20chips> a fo:Ingredient;
+  rdfs:label "pecan chips" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pecan%20halves> a fo:Ingredient;
+  rdfs:label "pecan halves" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pecan%20pieces> a fo:Ingredient;
+  rdfs:label "pecan pieces" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pecans> a fo:Ingredient;
+  rdfs:label "pecans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pectin> a fo:Ingredient;
+  rdfs:label "pectin" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/penne> a fo:Ingredient;
+  rdfs:label "penne" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/penne%20pasta> a fo:Ingredient;
+  rdfs:label "penne pasta" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pepper> a fo:Ingredient;
+  rdfs:label "pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pepper%20sauce> a fo:Ingredient;
+  rdfs:label "pepper sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/peppercorns> a fo:Ingredient;
+  rdfs:label "peppercorns" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/peppermint> a fo:Ingredient;
+  rdfs:label "peppermint" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/peppermint%20extract> a fo:Ingredient;
+  rdfs:label "peppermint extract" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/peppermint%20oil> a fo:Ingredient;
+  rdfs:label "peppermint oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pepperoni> a fo:Ingredient;
+  rdfs:label "pepperoni" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/persimmon%20pulp> a fo:Ingredient;
+  rdfs:label "persimmon pulp" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pheasant> a fo:Ingredient;
+  rdfs:label "pheasant" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pheasant%20breast> a fo:Ingredient;
+  rdfs:label "pheasant breast" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/picante%20sauce> a fo:Ingredient;
+  rdfs:label "picante sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pickled%20ginger> a fo:Ingredient;
+  rdfs:label "pickled ginger" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pickles> a fo:Ingredient;
+  rdfs:label "pickles" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pimentos> a fo:Ingredient;
+  rdfs:label "pimentos" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pimiento> a fo:Ingredient;
+  rdfs:label "pimiento" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pine%20nuts> a fo:Ingredient;
+  rdfs:label "pine nuts" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pineapple> a fo:Ingredient;
+  rdfs:label "pineapple" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pineapple%20essence> a fo:Ingredient;
+  rdfs:label "pineapple essence" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pineapple%20extract> a fo:Ingredient;
+  rdfs:label "pineapple extract" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pineapple%20jam> a fo:Ingredient;
+  rdfs:label "pineapple jam" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pineapple%20juice> a fo:Ingredient;
+  rdfs:label "pineapple juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pineapple%20slices> a fo:Ingredient;
+  rdfs:label "pineapple slices" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pink%20beans> a fo:Ingredient;
+  rdfs:label "pink beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pinto%20beans> a fo:Ingredient;
+  rdfs:label "pinto beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pistachios> a fo:Ingredient;
+  rdfs:label "pistachios" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pizza%20dough> a fo:Ingredient;
+  rdfs:label "pizza dough" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pizza%20sauce> a fo:Ingredient;
+  rdfs:label "pizza sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/plain%20flour> a fo:Ingredient;
+  rdfs:label "plain flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/plain%20gelatin> a fo:Ingredient;
+  rdfs:label "plain gelatin" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/plain%20nonfat%20yogurt> a fo:Ingredient;
+  rdfs:label "plain nonfat yogurt" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/plain%20yogurt> a fo:Ingredient;
+  rdfs:label "plain yogurt" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/plum> a fo:Ingredient;
+  rdfs:label "plum" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/plum%20jam> a fo:Ingredient;
+  rdfs:label "plum jam" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/plum%20tomatoes> a fo:Ingredient;
+  rdfs:label "plum tomatoes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/plum%20wine%20vinegar> a fo:Ingredient;
+  rdfs:label "plum wine vinegar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/plums> a fo:Ingredient;
+  rdfs:label "plums" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/poblano%20pepper> a fo:Ingredient;
+  rdfs:label "poblano pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/poi> a fo:Ingredient;
+  rdfs:label "poi" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/polenta%20flour> a fo:Ingredient;
+  rdfs:label "polenta flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/polish%20sausage> a fo:Ingredient;
+  rdfs:label "polish sausage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pollock%20fillets> a fo:Ingredient;
+  rdfs:label "pollock fillets" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/polska%20kielbasa> a fo:Ingredient;
+  rdfs:label "polska kielbasa" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pomegranate> a fo:Ingredient;
+  rdfs:label "pomegranate" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pomegranate%20juice> a fo:Ingredient;
+  rdfs:label "pomegranate juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pomegranate%20molasses> a fo:Ingredient;
+  rdfs:label "pomegranate molasses" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pomegranate%20seeds> a fo:Ingredient;
+  rdfs:label "pomegranate seeds" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ponzu%20sauce> a fo:Ingredient;
+  rdfs:label "ponzu sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/poppy%20seeds> a fo:Ingredient;
+  rdfs:label "poppy seeds" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pork> a fo:Ingredient;
+  rdfs:label "pork" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pork%20butt> a fo:Ingredient;
+  rdfs:label "pork butt" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pork%20chops> a fo:Ingredient;
+  rdfs:label "pork chops" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pork%20hocks> a fo:Ingredient;
+  rdfs:label "pork hocks" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pork%20jowl> a fo:Ingredient;
+  rdfs:label "pork jowl" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pork%20liver> a fo:Ingredient;
+  rdfs:label "pork liver" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pork%20loin%20steaks> a fo:Ingredient;
+  rdfs:label "pork loin steaks" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pork%20roast> a fo:Ingredient;
+  rdfs:label "pork roast" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pork%20sausage> a fo:Ingredient;
+  rdfs:label "pork sausage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pork%20tenderloin> a fo:Ingredient;
+  rdfs:label "pork tenderloin" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pot%20stickers> a fo:Ingredient;
+  rdfs:label "pot stickers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/potato> a fo:Ingredient;
+  rdfs:label "potato" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/potato%20chips> a fo:Ingredient;
+  rdfs:label "potato chips" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/potato%20flakes> a fo:Ingredient;
+  rdfs:label "potato flakes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/potato%20flour> a fo:Ingredient;
+  rdfs:label "potato flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/potato%20starch> a fo:Ingredient;
+  rdfs:label "potato starch" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/potatoes> a fo:Ingredient;
+  rdfs:label "potatoes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/poultry> a fo:Ingredient;
+  rdfs:label "poultry" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/poultry%20seasoning> a fo:Ingredient;
+  rdfs:label "poultry seasoning" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/powdered%20milk> a fo:Ingredient;
+  rdfs:label "powdered milk" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/powdered%20oregano> a fo:Ingredient;
+  rdfs:label "powdered oregano" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/powdered%20sugar> a fo:Ingredient;
+  rdfs:label "powdered sugar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/prawns> a fo:Ingredient;
+  rdfs:label "prawns" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/prepared%20horseradish> a fo:Ingredient;
+  rdfs:label "prepared horseradish" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/prepared%20mustard> a fo:Ingredient;
+  rdfs:label "prepared mustard" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/preserved%20lemon> a fo:Ingredient;
+  rdfs:label "preserved lemon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/preserves> a fo:Ingredient;
+  rdfs:label "preserves" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/prosciutto> a fo:Ingredient;
+  rdfs:label "prosciutto" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/provolone%20cheese> a fo:Ingredient;
+  rdfs:label "provolone cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/prune%20baby%20food> a fo:Ingredient;
+  rdfs:label "prune baby food" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/prune%20puree> a fo:Ingredient;
+  rdfs:label "prune puree" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/prunes> a fo:Ingredient;
+  rdfs:label "prunes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pudding> a fo:Ingredient;
+  rdfs:label "pudding" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pumpkin> a fo:Ingredient;
+  rdfs:label "pumpkin" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pumpkin%20butter> a fo:Ingredient;
+  rdfs:label "pumpkin butter" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pumpkin%20pie%20spice> a fo:Ingredient;
+  rdfs:label "pumpkin pie spice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pumpkin%20puree> a fo:Ingredient;
+  rdfs:label "pumpkin puree" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pumpkin%20seeds> a fo:Ingredient;
+  rdfs:label "pumpkin seeds" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pumpkin%20spice> a fo:Ingredient;
+  rdfs:label "pumpkin spice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/pure%20maple%20syrup> a fo:Ingredient;
+  rdfs:label "pure maple syrup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/puree> a fo:Ingredient;
+  rdfs:label "puree" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/purple%20onion> a fo:Ingredient;
+  rdfs:label "purple onion" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/queso%20anejo> a fo:Ingredient;
+  rdfs:label "queso anejo" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/queso%20fresco> a fo:Ingredient;
+  rdfs:label "queso fresco" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/quick%20oats> a fo:Ingredient;
+  rdfs:label "quick oats" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/quinoa> a fo:Ingredient;
+  rdfs:label "quinoa" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/quinoa%20flour> a fo:Ingredient;
+  rdfs:label "quinoa flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/quorn%20mince> a fo:Ingredient;
+  rdfs:label "quorn mince" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/rabbit> a fo:Ingredient;
+  rdfs:label "rabbit" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/radishes> a fo:Ingredient;
+  rdfs:label "radishes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/raisins> a fo:Ingredient;
+  rdfs:label "raisins" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ramen%20noodles> a fo:Ingredient;
+  rdfs:label "ramen noodles" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ranch%20dip> a fo:Ingredient;
+  rdfs:label "ranch dip" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ranch%20dressing> a fo:Ingredient;
+  rdfs:label "ranch dressing" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ranch%20dressing%20mix> a fo:Ingredient;
+  rdfs:label "ranch dressing mix" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/raspberries> a fo:Ingredient;
+  rdfs:label "raspberries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/raspberry%20extract> a fo:Ingredient;
+  rdfs:label "raspberry extract" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/raspberry%20jam> a fo:Ingredient;
+  rdfs:label "raspberry jam" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/raspberry%20liqueur> a fo:Ingredient;
+  rdfs:label "raspberry liqueur" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/raspberry%20sorbet> a fo:Ingredient;
+  rdfs:label "raspberry sorbet" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/raspberry%20vinegar> a fo:Ingredient;
+  rdfs:label "raspberry vinegar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ravioli> a fo:Ingredient;
+  rdfs:label "ravioli" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/raw%20chicken> a fo:Ingredient;
+  rdfs:label "raw chicken" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/raw%20honey> a fo:Ingredient;
+  rdfs:label "raw honey" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/raw%20sugar> a fo:Ingredient;
+  rdfs:label "raw sugar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/real%20butter> a fo:Ingredient;
+  rdfs:label "real butter" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/real%20maple%20syrup> a fo:Ingredient;
+  rdfs:label "real maple syrup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/real%20vanilla%20extract> a fo:Ingredient;
+  rdfs:label "real vanilla extract" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/red%20beans> a fo:Ingredient;
+  rdfs:label "red beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/red%20bell%20pepper> a fo:Ingredient;
+  rdfs:label "red bell pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/red%20bell%20peppers> a fo:Ingredient;
+  rdfs:label "red bell peppers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/red%20cabbage> a fo:Ingredient;
+  rdfs:label "red cabbage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/red%20capsicum> a fo:Ingredient;
+  rdfs:label "red capsicum" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/red%20caviar> a fo:Ingredient;
+  rdfs:label "red caviar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/red%20cayenne%20pepper> a fo:Ingredient;
+  rdfs:label "red cayenne pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/red%20chile> a fo:Ingredient;
+  rdfs:label "red chile" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/red%20chili%20powder> a fo:Ingredient;
+  rdfs:label "red chili powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/red%20chilies> a fo:Ingredient;
+  rdfs:label "red chilies" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/red%20curry%20paste> a fo:Ingredient;
+  rdfs:label "red curry paste" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/red%20decorating%20gel> a fo:Ingredient;
+  rdfs:label "red decorating gel" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/red%20grapes> a fo:Ingredient;
+  rdfs:label "red grapes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/red%20kidney%20beans> a fo:Ingredient;
+  rdfs:label "red kidney beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/red%20lentils> a fo:Ingredient;
+  rdfs:label "red lentils" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/red%20onion> a fo:Ingredient;
+  rdfs:label "red onion" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/red%20onions> a fo:Ingredient;
+  rdfs:label "red onions" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/red%20pepper> a fo:Ingredient;
+  rdfs:label "red pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/red%20pepper%20flakes> a fo:Ingredient;
+  rdfs:label "red pepper flakes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/red%20peppers> a fo:Ingredient;
+  rdfs:label "red peppers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/red%20potato> a fo:Ingredient;
+  rdfs:label "red potato" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/red%20potatoes> a fo:Ingredient;
+  rdfs:label "red potatoes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/red%20snapper> a fo:Ingredient;
+  rdfs:label "red snapper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/red%20table%20wine> a fo:Ingredient;
+  rdfs:label "red table wine" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/red%20wine> a fo:Ingredient;
+  rdfs:label "red wine" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/red%20wine%20vinegar> a fo:Ingredient;
+  rdfs:label "red wine vinegar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/refried%20beans> a fo:Ingredient;
+  rdfs:label "refried beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/relish> a fo:Ingredient;
+  rdfs:label "relish" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/rhubarb> a fo:Ingredient;
+  rdfs:label "rhubarb" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/rib> a fo:Ingredient;
+  rdfs:label "rib" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ribs> a fo:Ingredient;
+  rdfs:label "ribs" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/rice> a fo:Ingredient;
+  rdfs:label "rice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/rice%20flour> a fo:Ingredient;
+  rdfs:label "rice flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/rice%20krispies> a fo:Ingredient;
+  rdfs:label "rice krispies" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/rice%20milk> a fo:Ingredient;
+  rdfs:label "rice milk" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/rice%20noodles> a fo:Ingredient;
+  rdfs:label "rice noodles" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/rice%20vinegar> a fo:Ingredient;
+  rdfs:label "rice vinegar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/rice%20wine> a fo:Ingredient;
+  rdfs:label "rice wine" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/rice%20wine%20vinegar> a fo:Ingredient;
+  rdfs:label "rice wine vinegar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ricotta%20cheese> a fo:Ingredient;
+  rdfs:label "ricotta cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ripe%20olives> a fo:Ingredient;
+  rdfs:label "ripe olives" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/ritz%20crackers> a fo:Ingredient;
+  rdfs:label "ritz crackers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/roast> a fo:Ingredient;
+  rdfs:label "roast" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/roast%20beef> a fo:Ingredient;
+  rdfs:label "roast beef" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/roasted%20garlic> a fo:Ingredient;
+  rdfs:label "roasted garlic" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/roasted%20peanuts> a fo:Ingredient;
+  rdfs:label "roasted peanuts" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/roasted%20peppers> a fo:Ingredient;
+  rdfs:label "roasted peppers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/roasted%20red%20pepper> a fo:Ingredient;
+  rdfs:label "roasted red pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/roasted%20red%20peppers> a fo:Ingredient;
+  rdfs:label "roasted red peppers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/roasted%20walnuts> a fo:Ingredient;
+  rdfs:label "roasted walnuts" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/rocket> a fo:Ingredient;
+  rdfs:label "rocket" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/rolled%20oatmeal> a fo:Ingredient;
+  rdfs:label "rolled oatmeal" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/rolled%20oats> a fo:Ingredient;
+  rdfs:label "rolled oats" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/rolls> a fo:Ingredient;
+  rdfs:label "rolls" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/roma> a fo:Ingredient;
+  rdfs:label "roma" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/roma%20tomatoes> a fo:Ingredient;
+  rdfs:label "roma tomatoes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/romaine%20lettuce> a fo:Ingredient;
+  rdfs:label "romaine lettuce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/romano%20beans> a fo:Ingredient;
+  rdfs:label "romano beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/rose%20water> a fo:Ingredient;
+  rdfs:label "rose water" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/rosemary> a fo:Ingredient;
+  rdfs:label "rosemary" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/rotel%20tomatoes> a fo:Ingredient;
+  rdfs:label "rotel tomatoes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/rotelle%20pasta> a fo:Ingredient;
+  rdfs:label "rotelle pasta" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/rotini%20pasta> a fo:Ingredient;
+  rdfs:label "rotini pasta" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/rubbed%20sage> a fo:Ingredient;
+  rdfs:label "rubbed sage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/rum> a fo:Ingredient;
+  rdfs:label "rum" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/rum%20extract> a fo:Ingredient;
+  rdfs:label "rum extract" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/russet%20potatoes> a fo:Ingredient;
+  rdfs:label "russet potatoes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/rutabaga> a fo:Ingredient;
+  rdfs:label "rutabaga" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/rye%20flour> a fo:Ingredient;
+  rdfs:label "rye flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/safflower%20oil> a fo:Ingredient;
+  rdfs:label "safflower oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/saffron> a fo:Ingredient;
+  rdfs:label "saffron" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/saffron%20threads> a fo:Ingredient;
+  rdfs:label "saffron threads" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sage> a fo:Ingredient;
+  rdfs:label "sage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sage%20leaves> a fo:Ingredient;
+  rdfs:label "sage leaves" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sago> a fo:Ingredient;
+  rdfs:label "sago" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sake> a fo:Ingredient;
+  rdfs:label "sake" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/salad%20dressing> a fo:Ingredient;
+  rdfs:label "salad dressing" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/salami> a fo:Ingredient;
+  rdfs:label "salami" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/salmon> a fo:Ingredient;
+  rdfs:label "salmon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/salmon%20fillets> a fo:Ingredient;
+  rdfs:label "salmon fillets" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/salsa> a fo:Ingredient;
+  rdfs:label "salsa" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/salsa%20verde> a fo:Ingredient;
+  rdfs:label "salsa verde" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/salt> a fo:Ingredient;
+  rdfs:label "salt" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/salt%20and%20pepper> a fo:Ingredient;
+  rdfs:label "salt and pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/salt%20pork> a fo:Ingredient;
+  rdfs:label "salt pork" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/salt%20substitute> a fo:Ingredient;
+  rdfs:label "salt substitute" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/salted%20butter> a fo:Ingredient;
+  rdfs:label "salted butter" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/salted%20nuts> a fo:Ingredient;
+  rdfs:label "salted nuts" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/salted%20peanuts> a fo:Ingredient;
+  rdfs:label "salted peanuts" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/saltine%20crackers> a fo:Ingredient;
+  rdfs:label "saltine crackers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/saltines> a fo:Ingredient;
+  rdfs:label "saltines" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sauerkraut> a fo:Ingredient;
+  rdfs:label "sauerkraut" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sausage> a fo:Ingredient;
+  rdfs:label "sausage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/savory> a fo:Ingredient;
+  rdfs:label "savory" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/scallion> a fo:Ingredient;
+  rdfs:label "scallion" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/scallions> a fo:Ingredient;
+  rdfs:label "scallions" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/scallops> a fo:Ingredient;
+  rdfs:label "scallops" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/scotch> a fo:Ingredient;
+  rdfs:label "scotch" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sea%20salt> a fo:Ingredient;
+  rdfs:label "sea salt" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/seafood> a fo:Ingredient;
+  rdfs:label "seafood" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/seafood%20sauce> a fo:Ingredient;
+  rdfs:label "seafood sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/seafood%20stock> a fo:Ingredient;
+  rdfs:label "seafood stock" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/season%20salt> a fo:Ingredient;
+  rdfs:label "season salt" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/seasoned%20bread%20crumbs> a fo:Ingredient;
+  rdfs:label "seasoned bread crumbs" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/seasoning> a fo:Ingredient;
+  rdfs:label "seasoning" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/seasoning%20salt> a fo:Ingredient;
+  rdfs:label "seasoning salt" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/seed%20oil> a fo:Ingredient;
+  rdfs:label "seed oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/seedless%20raisins> a fo:Ingredient;
+  rdfs:label "seedless raisins" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/seeds> a fo:Ingredient;
+  rdfs:label "seeds" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/self%20rising%20flour> a fo:Ingredient;
+  rdfs:label "self rising flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/seltzer%20water> a fo:Ingredient;
+  rdfs:label "seltzer water" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/serrano%20ham> a fo:Ingredient;
+  rdfs:label "serrano ham" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/serrano%20pepper> a fo:Ingredient;
+  rdfs:label "serrano pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/serrano%20peppers> a fo:Ingredient;
+  rdfs:label "serrano peppers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sesame> a fo:Ingredient;
+  rdfs:label "sesame" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sesame%20oil> a fo:Ingredient;
+  rdfs:label "sesame oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sesame%20paste> a fo:Ingredient;
+  rdfs:label "sesame paste" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sesame%20seeds> a fo:Ingredient;
+  rdfs:label "sesame seeds" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/shallot> a fo:Ingredient;
+  rdfs:label "shallot" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/shallots> a fo:Ingredient;
+  rdfs:label "shallots" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/shaosing%20wine> a fo:Ingredient;
+  rdfs:label "shaosing wine" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sharp%20cheddar> a fo:Ingredient;
+  rdfs:label "sharp cheddar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sharp%20cheddar%20cheese> a fo:Ingredient;
+  rdfs:label "sharp cheddar cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sherbet> a fo:Ingredient;
+  rdfs:label "sherbet" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sherry> a fo:Ingredient;
+  rdfs:label "sherry" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sherry%20wine> a fo:Ingredient;
+  rdfs:label "sherry wine" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sherry%20wine%20vinegar> a fo:Ingredient;
+  rdfs:label "sherry wine vinegar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/shiitake%20mushrooms> a fo:Ingredient;
+  rdfs:label "shiitake mushrooms" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/shirataki%20noodles> a fo:Ingredient;
+  rdfs:label "shirataki noodles" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/shortening> a fo:Ingredient;
+  rdfs:label "shortening" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/shredded%20coconut> a fo:Ingredient;
+  rdfs:label "shredded coconut" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/shrimp> a fo:Ingredient;
+  rdfs:label "shrimp" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/shrimp%20sauce> a fo:Ingredient;
+  rdfs:label "shrimp sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/shrimp%20stock> a fo:Ingredient;
+  rdfs:label "shrimp stock" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/silken%20tofu> a fo:Ingredient;
+  rdfs:label "silken tofu" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/simple%20syrup> a fo:Ingredient;
+  rdfs:label "simple syrup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sirloin> a fo:Ingredient;
+  rdfs:label "sirloin" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/skim%20evaporated%20milk> a fo:Ingredient;
+  rdfs:label "skim evaporated milk" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/skim%20milk> a fo:Ingredient;
+  rdfs:label "skim milk" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/skirt%20steak> a fo:Ingredient;
+  rdfs:label "skirt steak" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sliced%20almonds> a fo:Ingredient;
+  rdfs:label "sliced almonds" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sliced%20mushrooms> a fo:Ingredient;
+  rdfs:label "sliced mushrooms" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/slivered%20almonds> a fo:Ingredient;
+  rdfs:label "slivered almonds" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/smoked%20beef%20sausage> a fo:Ingredient;
+  rdfs:label "smoked beef sausage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/smoked%20chicken%20breast> a fo:Ingredient;
+  rdfs:label "smoked chicken breast" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/smoked%20cod> a fo:Ingredient;
+  rdfs:label "smoked cod" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/smoked%20ham> a fo:Ingredient;
+  rdfs:label "smoked ham" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/smoked%20jalapeno%20sausage> a fo:Ingredient;
+  rdfs:label "smoked jalapeno sausage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/smoked%20oysters> a fo:Ingredient;
+  rdfs:label "smoked oysters" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/smoked%20paprika> a fo:Ingredient;
+  rdfs:label "smoked paprika" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/smoked%20pork%20butt> a fo:Ingredient;
+  rdfs:label "smoked pork butt" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/smoked%20salmon> a fo:Ingredient;
+  rdfs:label "smoked salmon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/smoked%20sausage> a fo:Ingredient;
+  rdfs:label "smoked sausage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/smoked%20turkey> a fo:Ingredient;
+  rdfs:label "smoked turkey" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/smoked%20turkey%20leg> a fo:Ingredient;
+  rdfs:label "smoked turkey leg" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/smoked%20turkey%20legs> a fo:Ingredient;
+  rdfs:label "smoked turkey legs" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/smoked%20turkey%20sausage> a fo:Ingredient;
+  rdfs:label "smoked turkey sausage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/snap%20peas> a fo:Ingredient;
+  rdfs:label "snap peas" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/snow%20peas> a fo:Ingredient;
+  rdfs:label "snow peas" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/soda%20water> a fo:Ingredient;
+  rdfs:label "soda water" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/soft%20brown%20sugar> a fo:Ingredient;
+  rdfs:label "soft brown sugar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/soft%20margarine> a fo:Ingredient;
+  rdfs:label "soft margarine" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/soft%20silken%20tofu> a fo:Ingredient;
+  rdfs:label "soft silken tofu" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/soft%20tofu> a fo:Ingredient;
+  rdfs:label "soft tofu" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sole> a fo:Ingredient;
+  rdfs:label "sole" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sorghum> a fo:Ingredient;
+  rdfs:label "sorghum" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sorghum%20flour> a fo:Ingredient;
+  rdfs:label "sorghum flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/soup> a fo:Ingredient;
+  rdfs:label "soup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/soup%20mix> a fo:Ingredient;
+  rdfs:label "soup mix" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sour%20cream> a fo:Ingredient;
+  rdfs:label "sour cream" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sour%20milk> a fo:Ingredient;
+  rdfs:label "sour milk" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/soured%20milk> a fo:Ingredient;
+  rdfs:label "soured milk" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/southern%20comfort> a fo:Ingredient;
+  rdfs:label "southern comfort" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/soy%20cream> a fo:Ingredient;
+  rdfs:label "soy cream" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/soy%20crumbles> a fo:Ingredient;
+  rdfs:label "soy crumbles" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/soy%20flour> a fo:Ingredient;
+  rdfs:label "soy flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/soy%20margarine> a fo:Ingredient;
+  rdfs:label "soy margarine" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/soy%20protein%20powder> a fo:Ingredient;
+  rdfs:label "soy protein powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/soy%20sauce> a fo:Ingredient;
+  rdfs:label "soy sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/soy%20sausage> a fo:Ingredient;
+  rdfs:label "soy sausage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/soy%20yogurt> a fo:Ingredient;
+  rdfs:label "soy yogurt" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/soybean%20oil> a fo:Ingredient;
+  rdfs:label "soybean oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/soybeans> a fo:Ingredient;
+  rdfs:label "soybeans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/spaghetti> a fo:Ingredient;
+  rdfs:label "spaghetti" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/spaghetti%20noodles> a fo:Ingredient;
+  rdfs:label "spaghetti noodles" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/spaghetti%20sauce> a fo:Ingredient;
+  rdfs:label "spaghetti sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/spaghettini> a fo:Ingredient;
+  rdfs:label "spaghettini" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/spanish%20rice%20mix> a fo:Ingredient;
+  rdfs:label "spanish rice mix" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sparkling%20water> a fo:Ingredient;
+  rdfs:label "sparkling water" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/spelt> a fo:Ingredient;
+  rdfs:label "spelt" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/spelt%20flour> a fo:Ingredient;
+  rdfs:label "spelt flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/spice%20cake%20mix> a fo:Ingredient;
+  rdfs:label "spice cake mix" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/spiced%20rum> a fo:Ingredient;
+  rdfs:label "spiced rum" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/spices> a fo:Ingredient;
+  rdfs:label "spices" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/spicy%20bbq%20sauce> a fo:Ingredient;
+  rdfs:label "spicy bbq sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/spicy%20brown%20mustard> a fo:Ingredient;
+  rdfs:label "spicy brown mustard" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/spicy%20mustard> a fo:Ingredient;
+  rdfs:label "spicy mustard" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/spinach> a fo:Ingredient;
+  rdfs:label "spinach" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/spinach%20leaves> a fo:Ingredient;
+  rdfs:label "spinach leaves" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/splenda%20brown%20sugar%20blend> a fo:Ingredient;
+  rdfs:label "splenda brown sugar blend" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/splenda%20granular> a fo:Ingredient;
+  rdfs:label "splenda granular" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/splenda%20sugar%20substitute> a fo:Ingredient;
+  rdfs:label "splenda sugar substitute" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/split%20peas> a fo:Ingredient;
+  rdfs:label "split peas" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/spring%20onion> a fo:Ingredient;
+  rdfs:label "spring onion" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/spring%20onions> a fo:Ingredient;
+  rdfs:label "spring onions" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/squash> a fo:Ingredient;
+  rdfs:label "squash" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/squid> a fo:Ingredient;
+  rdfs:label "squid" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sriracha%20sauce> a fo:Ingredient;
+  rdfs:label "sriracha sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/star%20anise> a fo:Ingredient;
+  rdfs:label "star anise" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/starch> a fo:Ingredient;
+  rdfs:label "starch" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/steak> a fo:Ingredient;
+  rdfs:label "steak" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/steak%20sauce> a fo:Ingredient;
+  rdfs:label "steak sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/steak%20seasoning> a fo:Ingredient;
+  rdfs:label "steak seasoning" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/steel%20cut%20oats> a fo:Ingredient;
+  rdfs:label "steel cut oats" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/stew%20meat> a fo:Ingredient;
+  rdfs:label "stew meat" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/stewed%20tomatoes> a fo:Ingredient;
+  rdfs:label "stewed tomatoes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/stewing%20beef> a fo:Ingredient;
+  rdfs:label "stewing beef" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/stick> a fo:Ingredient;
+  rdfs:label "stick" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/stock> a fo:Ingredient;
+  rdfs:label "stock" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/straw%20mushrooms> a fo:Ingredient;
+  rdfs:label "straw mushrooms" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/strawberries> a fo:Ingredient;
+  rdfs:label "strawberries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/strawberry> a fo:Ingredient;
+  rdfs:label "strawberry" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/strawberry%20applesauce> a fo:Ingredient;
+  rdfs:label "strawberry applesauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/strawberry%20jam> a fo:Ingredient;
+  rdfs:label "strawberry jam" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/strawberry%20jelly> a fo:Ingredient;
+  rdfs:label "strawberry jelly" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/strawberry%20preserves> a fo:Ingredient;
+  rdfs:label "strawberry preserves" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/strawberry%20puree> a fo:Ingredient;
+  rdfs:label "strawberry puree" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/strawberry%20yogurt> a fo:Ingredient;
+  rdfs:label "strawberry yogurt" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/strong%20coffee> a fo:Ingredient;
+  rdfs:label "strong coffee" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/suet> a fo:Ingredient;
+  rdfs:label "suet" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sugar> a fo:Ingredient;
+  rdfs:label "sugar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sugar%20snap%20peas> a fo:Ingredient;
+  rdfs:label "sugar snap peas" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sugar%20substitute> a fo:Ingredient;
+  rdfs:label "sugar substitute" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sugar%20twin> a fo:Ingredient;
+  rdfs:label "sugar twin" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sugar%20water> a fo:Ingredient;
+  rdfs:label "sugar water" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sultana> a fo:Ingredient;
+  rdfs:label "sultana" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sultanas> a fo:Ingredient;
+  rdfs:label "sultanas" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/summer%20savory> a fo:Ingredient;
+  rdfs:label "summer savory" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/summer%20squash> a fo:Ingredient;
+  rdfs:label "summer squash" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sunflower%20oil> a fo:Ingredient;
+  rdfs:label "sunflower oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sunflower%20seeds> a fo:Ingredient;
+  rdfs:label "sunflower seeds" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sweet%20basil> a fo:Ingredient;
+  rdfs:label "sweet basil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sweet%20bell%20pepper> a fo:Ingredient;
+  rdfs:label "sweet bell pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sweet%20cherries> a fo:Ingredient;
+  rdfs:label "sweet cherries" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sweet%20corn> a fo:Ingredient;
+  rdfs:label "sweet corn" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sweet%20milk> a fo:Ingredient;
+  rdfs:label "sweet milk" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sweet%20onion> a fo:Ingredient;
+  rdfs:label "sweet onion" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sweet%20onions> a fo:Ingredient;
+  rdfs:label "sweet onions" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sweet%20paprika> a fo:Ingredient;
+  rdfs:label "sweet paprika" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sweet%20peppers> a fo:Ingredient;
+  rdfs:label "sweet peppers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sweet%20potato> a fo:Ingredient;
+  rdfs:label "sweet potato" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sweet%20potato%20puree> a fo:Ingredient;
+  rdfs:label "sweet potato puree" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sweet%20potatoes> a fo:Ingredient;
+  rdfs:label "sweet potatoes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sweet%20red%20pepper> a fo:Ingredient;
+  rdfs:label "sweet red pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sweet%20rice%20flour> a fo:Ingredient;
+  rdfs:label "sweet rice flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sweet%20sherry> a fo:Ingredient;
+  rdfs:label "sweet sherry" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sweet%20vermouth> a fo:Ingredient;
+  rdfs:label "sweet vermouth" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sweet%20white%20wine> a fo:Ingredient;
+  rdfs:label "sweet white wine" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sweet%20wine> a fo:Ingredient;
+  rdfs:label "sweet wine" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sweetened%20cocoa%20powder> a fo:Ingredient;
+  rdfs:label "sweetened cocoa powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sweetened%20condensed%20milk> a fo:Ingredient;
+  rdfs:label "sweetened condensed milk" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/sweetened%20whipped%20cream> a fo:Ingredient;
+  rdfs:label "sweetened whipped cream" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/swiss%20chard> a fo:Ingredient;
+  rdfs:label "swiss chard" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/swiss%20chard%20leaves> a fo:Ingredient;
+  rdfs:label "swiss chard leaves" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/swiss%20cheese> a fo:Ingredient;
+  rdfs:label "swiss cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/syrup> a fo:Ingredient;
+  rdfs:label "syrup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tabasco%20sauce> a fo:Ingredient;
+  rdfs:label "tabasco sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/table%20salt> a fo:Ingredient;
+  rdfs:label "table salt" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/taco%20cheese> a fo:Ingredient;
+  rdfs:label "taco cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/taco%20sauce> a fo:Ingredient;
+  rdfs:label "taco sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/taco%20seasoning> a fo:Ingredient;
+  rdfs:label "taco seasoning" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tamari> a fo:Ingredient;
+  rdfs:label "tamari" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tangerines> a fo:Ingredient;
+  rdfs:label "tangerines" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tapioca> a fo:Ingredient;
+  rdfs:label "tapioca" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tapioca%20flour> a fo:Ingredient;
+  rdfs:label "tapioca flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tapioca%20starch> a fo:Ingredient;
+  rdfs:label "tapioca starch" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tarragon> a fo:Ingredient;
+  rdfs:label "tarragon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tarragon%20vinegar> a fo:Ingredient;
+  rdfs:label "tarragon vinegar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tasty%20cheese> a fo:Ingredient;
+  rdfs:label "tasty cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tea> a fo:Ingredient;
+  rdfs:label "tea" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tea%20bags> a fo:Ingredient;
+  rdfs:label "tea bags" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tea%20leaves> a fo:Ingredient;
+  rdfs:label "tea leaves" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tempeh> a fo:Ingredient;
+  rdfs:label "tempeh" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tenderloin> a fo:Ingredient;
+  rdfs:label "tenderloin" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tequila> a fo:Ingredient;
+  rdfs:label "tequila" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/teriyaki%20sauce> a fo:Ingredient;
+  rdfs:label "teriyaki sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/thai%20chile> a fo:Ingredient;
+  rdfs:label "thai chile" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/thai%20chiles> a fo:Ingredient;
+  rdfs:label "thai chiles" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/thai%20chili%20paste> a fo:Ingredient;
+  rdfs:label "thai chili paste" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/thai%20fish%20sauce> a fo:Ingredient;
+  rdfs:label "thai fish sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/thai%20seasoning> a fo:Ingredient;
+  rdfs:label "thai seasoning" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/thin%20egg%20noodles> a fo:Ingredient;
+  rdfs:label "thin egg noodles" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/thin%20spaghetti> a fo:Ingredient;
+  rdfs:label "thin spaghetti" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/thyme> a fo:Ingredient;
+  rdfs:label "thyme" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tilapia%20fillets> a fo:Ingredient;
+  rdfs:label "tilapia fillets" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/toasted%20almonds> a fo:Ingredient;
+  rdfs:label "toasted almonds" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/toasted%20sesame%20oil> a fo:Ingredient;
+  rdfs:label "toasted sesame oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tofu> a fo:Ingredient;
+  rdfs:label "tofu" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tomatillos> a fo:Ingredient;
+  rdfs:label "tomatillos" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tomato%20chutney> a fo:Ingredient;
+  rdfs:label "tomato chutney" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tomato%20juice> a fo:Ingredient;
+  rdfs:label "tomato juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tomato%20paste> a fo:Ingredient;
+  rdfs:label "tomato paste" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tomato%20puree> a fo:Ingredient;
+  rdfs:label "tomato puree" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tomato%20sauce> a fo:Ingredient;
+  rdfs:label "tomato sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tomato%20soup> a fo:Ingredient;
+  rdfs:label "tomato soup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tomatoes> a fo:Ingredient;
+  rdfs:label "tomatoes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tortellini> a fo:Ingredient;
+  rdfs:label "tortellini" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tortilla> a fo:Ingredient;
+  rdfs:label "tortilla" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tortilla%20chips> a fo:Ingredient;
+  rdfs:label "tortilla chips" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tortillas> a fo:Ingredient;
+  rdfs:label "tortillas" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/treacle> a fo:Ingredient;
+  rdfs:label "treacle" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/triple%20sec> a fo:Ingredient;
+  rdfs:label "triple sec" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/trix%20cereal> a fo:Ingredient;
+  rdfs:label "trix cereal" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/tuna> a fo:Ingredient;
+  rdfs:label "tuna" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/turbinado%20sugar> a fo:Ingredient;
+  rdfs:label "turbinado sugar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/turkey> a fo:Ingredient;
+  rdfs:label "turkey" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/turkey%20bacon> a fo:Ingredient;
+  rdfs:label "turkey bacon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/turkey%20breakfast%20sausage> a fo:Ingredient;
+  rdfs:label "turkey breakfast sausage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/turkey%20breast> a fo:Ingredient;
+  rdfs:label "turkey breast" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/turkey%20broth> a fo:Ingredient;
+  rdfs:label "turkey broth" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/turkey%20ham> a fo:Ingredient;
+  rdfs:label "turkey ham" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/turkey%20kielbasa> a fo:Ingredient;
+  rdfs:label "turkey kielbasa" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/turkey%20meat> a fo:Ingredient;
+  rdfs:label "turkey meat" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/turkey%20sausage> a fo:Ingredient;
+  rdfs:label "turkey sausage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/turkey%20stock> a fo:Ingredient;
+  rdfs:label "turkey stock" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/turmeric> a fo:Ingredient;
+  rdfs:label "turmeric" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/turmeric%20powder> a fo:Ingredient;
+  rdfs:label "turmeric powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/turnip> a fo:Ingredient;
+  rdfs:label "turnip" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/turnip%20greens> a fo:Ingredient;
+  rdfs:label "turnip greens" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/turnips> a fo:Ingredient;
+  rdfs:label "turnips" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/unbleached%20flour> a fo:Ingredient;
+  rdfs:label "unbleached flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/unsalted%20butter> a fo:Ingredient;
+  rdfs:label "unsalted butter" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/unsweetened%20almond%20milk> a fo:Ingredient;
+  rdfs:label "unsweetened almond milk" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/unsweetened%20apple%20juice> a fo:Ingredient;
+  rdfs:label "unsweetened apple juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/unsweetened%20applesauce> a fo:Ingredient;
+  rdfs:label "unsweetened applesauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/unsweetened%20chocolate> a fo:Ingredient;
+  rdfs:label "unsweetened chocolate" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/unsweetened%20cocoa> a fo:Ingredient;
+  rdfs:label "unsweetened cocoa" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/unsweetened%20flaked%20coconut> a fo:Ingredient;
+  rdfs:label "unsweetened flaked coconut" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/unsweetened%20strawberry%20preserves>
+  a fo:Ingredient;
+  rdfs:label "unsweetened strawberry preserves" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/unsweetened%20vanilla%20almond%20milk>
+  a fo:Ingredient;
+  rdfs:label "unsweetened vanilla almond milk" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vanilla> a fo:Ingredient;
+  rdfs:label "vanilla" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vanilla%20bean> a fo:Ingredient;
+  rdfs:label "vanilla bean" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vanilla%20bean%20paste> a fo:Ingredient;
+  rdfs:label "vanilla bean paste" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vanilla%20beans> a fo:Ingredient;
+  rdfs:label "vanilla beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vanilla%20chips> a fo:Ingredient;
+  rdfs:label "vanilla chips" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vanilla%20essence> a fo:Ingredient;
+  rdfs:label "vanilla essence" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vanilla%20extract> a fo:Ingredient;
+  rdfs:label "vanilla extract" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vanilla%20ice%20cream> a fo:Ingredient;
+  rdfs:label "vanilla ice cream" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vanilla%20instant%20pudding%20mix> a
+    fo:Ingredient;
+  rdfs:label "vanilla instant pudding mix" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vanilla%20liqueur> a fo:Ingredient;
+  rdfs:label "vanilla liqueur" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vanilla%20powder> a fo:Ingredient;
+  rdfs:label "vanilla powder" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vanilla%20sugar> a fo:Ingredient;
+  rdfs:label "vanilla sugar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vanilla%20vodka> a fo:Ingredient;
+  rdfs:label "vanilla vodka" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vanilla%20wafers> a fo:Ingredient;
+  rdfs:label "vanilla wafers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vanilla%20yogurt> a fo:Ingredient;
+  rdfs:label "vanilla yogurt" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/veal> a fo:Ingredient;
+  rdfs:label "veal" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/veal%20knuckle> a fo:Ingredient;
+  rdfs:label "veal knuckle" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vegan%20bacon> a fo:Ingredient;
+  rdfs:label "vegan bacon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vegan%20butter> a fo:Ingredient;
+  rdfs:label "vegan butter" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vegan%20cheese> a fo:Ingredient;
+  rdfs:label "vegan cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vegan%20egg%20substitute> a fo:Ingredient;
+  rdfs:label "vegan egg substitute" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vegan%20margarine> a fo:Ingredient;
+  rdfs:label "vegan margarine" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vegetable%20bouillon> a fo:Ingredient;
+  rdfs:label "vegetable bouillon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vegetable%20broth> a fo:Ingredient;
+  rdfs:label "vegetable broth" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vegetable%20juice> a fo:Ingredient;
+  rdfs:label "vegetable juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vegetable%20oil> a fo:Ingredient;
+  rdfs:label "vegetable oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vegetable%20seasoning> a fo:Ingredient;
+  rdfs:label "vegetable seasoning" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vegetable%20shortening> a fo:Ingredient;
+  rdfs:label "vegetable shortening" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vegetable%20stock> a fo:Ingredient;
+  rdfs:label "vegetable stock" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vegetables> a fo:Ingredient;
+  rdfs:label "vegetables" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vegetarian%20beef%20strips> a fo:Ingredient;
+  rdfs:label "vegetarian beef strips" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vegetarian%20broth> a fo:Ingredient;
+  rdfs:label "vegetarian broth" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vegetarian%20canadian%20bacon> a fo:Ingredient;
+  rdfs:label "vegetarian canadian bacon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/veggie%20crumbles> a fo:Ingredient;
+  rdfs:label "veggie crumbles" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/velveeta%20cheese> a fo:Ingredient;
+  rdfs:label "velveeta cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/venison> a fo:Ingredient;
+  rdfs:label "venison" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/venison%20steak> a fo:Ingredient;
+  rdfs:label "venison steak" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vermicelli> a fo:Ingredient;
+  rdfs:label "vermicelli" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vermouth> a fo:Ingredient;
+  rdfs:label "vermouth" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vidalia%20onion> a fo:Ingredient;
+  rdfs:label "vidalia onion" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vidalia%20onions> a fo:Ingredient;
+  rdfs:label "vidalia onions" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vinaigrette> a fo:Ingredient;
+  rdfs:label "vinaigrette" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vinegar> a fo:Ingredient;
+  rdfs:label "vinegar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/virgin%20olive%20oil> a fo:Ingredient;
+  rdfs:label "virgin olive oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/vodka> a fo:Ingredient;
+  rdfs:label "vodka" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/wafers> a fo:Ingredient;
+  rdfs:label "wafers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/walnuts> a fo:Ingredient;
+  rdfs:label "walnuts" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/wasabi> a fo:Ingredient;
+  rdfs:label "wasabi" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/wasabi%20paste> a fo:Ingredient;
+  rdfs:label "wasabi paste" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/water> a fo:Ingredient;
+  rdfs:label "water" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/water%20chestnuts> a fo:Ingredient;
+  rdfs:label "water chestnuts" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/water%20crackers> a fo:Ingredient;
+  rdfs:label "water crackers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/watercress> a fo:Ingredient;
+  rdfs:label "watercress" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/watermelon> a fo:Ingredient;
+  rdfs:label "watermelon" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/wax%20beans> a fo:Ingredient;
+  rdfs:label "wax beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/wax%20paper> a fo:Ingredient;
+  rdfs:label "wax paper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/wax%20peppers> a fo:Ingredient;
+  rdfs:label "wax peppers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/wesson%20oil> a fo:Ingredient;
+  rdfs:label "wesson oil" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/wheat> a fo:Ingredient;
+  rdfs:label "wheat" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/wheat%20bran> a fo:Ingredient;
+  rdfs:label "wheat bran" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/wheat%20chex> a fo:Ingredient;
+  rdfs:label "wheat chex" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/wheat%20flour> a fo:Ingredient;
+  rdfs:label "wheat flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/wheat%20germ> a fo:Ingredient;
+  rdfs:label "wheat germ" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/whey> a fo:Ingredient;
+  rdfs:label "whey" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/whipped%20cream> a fo:Ingredient;
+  rdfs:label "whipped cream" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/whipped%20cream%20cheese> a fo:Ingredient;
+  rdfs:label "whipped cream cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/whipped%20topping> a fo:Ingredient;
+  rdfs:label "whipped topping" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/whipping%20cream> a fo:Ingredient;
+  rdfs:label "whipping cream" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/whiskey> a fo:Ingredient;
+  rdfs:label "whiskey" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/white%20almond%20bark> a fo:Ingredient;
+  rdfs:label "white almond bark" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/white%20balsamic%20vinegar> a fo:Ingredient;
+  rdfs:label "white balsamic vinegar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/white%20beans> a fo:Ingredient;
+  rdfs:label "white beans" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/white%20bread> a fo:Ingredient;
+  rdfs:label "white bread" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/white%20bread%20flour> a fo:Ingredient;
+  rdfs:label "white bread flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/white%20cabbage> a fo:Ingredient;
+  rdfs:label "white cabbage" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/white%20candy%20coating> a fo:Ingredient;
+  rdfs:label "white candy coating" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/white%20cheese> a fo:Ingredient;
+  rdfs:label "white cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/white%20chocolate> a fo:Ingredient;
+  rdfs:label "white chocolate" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/white%20chocolate%20chips> a fo:Ingredient;
+  rdfs:label "white chocolate chips" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/white%20cranberry%20juice> a fo:Ingredient;
+  rdfs:label "white cranberry juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/white%20flour> a fo:Ingredient;
+  rdfs:label "white flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/white%20frosting> a fo:Ingredient;
+  rdfs:label "white frosting" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/white%20grape%20juice> a fo:Ingredient;
+  rdfs:label "white grape juice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/white%20hominy> a fo:Ingredient;
+  rdfs:label "white hominy" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/white%20meat%20chicken> a fo:Ingredient;
+  rdfs:label "white meat chicken" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/white%20onion> a fo:Ingredient;
+  rdfs:label "white onion" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/white%20onions> a fo:Ingredient;
+  rdfs:label "white onions" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/white%20pepper> a fo:Ingredient;
+  rdfs:label "white pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/white%20rice> a fo:Ingredient;
+  rdfs:label "white rice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/white%20rum> a fo:Ingredient;
+  rdfs:label "white rum" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/white%20sugar> a fo:Ingredient;
+  rdfs:label "white sugar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/white%20vinegar> a fo:Ingredient;
+  rdfs:label "white vinegar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/white%20whole%20wheat%20flour> a fo:Ingredient;
+  rdfs:label "white whole wheat flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/white%20wine> a fo:Ingredient;
+  rdfs:label "white wine" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/white%20wine%20vinegar> a fo:Ingredient;
+  rdfs:label "white wine vinegar" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/whole%20chicken> a fo:Ingredient;
+  rdfs:label "whole chicken" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/whole%20cumin%20seeds> a fo:Ingredient;
+  rdfs:label "whole cumin seeds" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/whole%20milk> a fo:Ingredient;
+  rdfs:label "whole milk" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/whole%20tomatoes> a fo:Ingredient;
+  rdfs:label "whole tomatoes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/whole%20wheat%20flour> a fo:Ingredient;
+  rdfs:label "whole wheat flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/whole%20wheat%20pastry%20flour> a fo:Ingredient;
+  rdfs:label "whole wheat pastry flour" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/wild%20mushroom> a fo:Ingredient;
+  rdfs:label "wild mushroom" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/wild%20rice> a fo:Ingredient;
+  rdfs:label "wild rice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/wildflower%20honey> a fo:Ingredient;
+  rdfs:label "wildflower honey" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/wine> a fo:Ingredient;
+  rdfs:label "wine" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/worcestershire%20sauce> a fo:Ingredient;
+  rdfs:label "worcestershire sauce" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/xanthan%20gum> a fo:Ingredient;
+  rdfs:label "xanthan gum" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/yacon%20syrup> a fo:Ingredient;
+  rdfs:label "yacon syrup" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/yam> a fo:Ingredient;
+  rdfs:label "yam" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/yams> a fo:Ingredient;
+  rdfs:label "yams" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/yellow%20bell%20peppers> a fo:Ingredient;
+  rdfs:label "yellow bell peppers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/yellow%20cake%20mix> a fo:Ingredient;
+  rdfs:label "yellow cake mix" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/yellow%20curry%20paste> a fo:Ingredient;
+  rdfs:label "yellow curry paste" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/yellow%20mustard> a fo:Ingredient;
+  rdfs:label "yellow mustard" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/yellow%20onion> a fo:Ingredient;
+  rdfs:label "yellow onion" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/yellow%20onions> a fo:Ingredient;
+  rdfs:label "yellow onions" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/yellow%20pepper> a fo:Ingredient;
+  rdfs:label "yellow pepper" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/yellow%20peppers> a fo:Ingredient;
+  rdfs:label "yellow peppers" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/yellow%20potatoes> a fo:Ingredient;
+  rdfs:label "yellow potatoes" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/yellow%20rice> a fo:Ingredient;
+  rdfs:label "yellow rice" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/yellow%20split%20peas> a fo:Ingredient;
+  rdfs:label "yellow split peas" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/yellow%20squash> a fo:Ingredient;
+  rdfs:label "yellow squash" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/yellow%20zucchini> a fo:Ingredient;
+  rdfs:label "yellow zucchini" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/yoghurt> a fo:Ingredient;
+  rdfs:label "yoghurt" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/yogurt> a fo:Ingredient;
+  rdfs:label "yogurt" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/yogurt%20cheese> a fo:Ingredient;
+  rdfs:label "yogurt cheese" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/your%20favorite%20dressing> a fo:Ingredient;
+  rdfs:label "your favorite dressing" .
+
+<http://idea.rpi.edu/heals/kb/ingredientname/zucchini> a fo:Ingredient;
+  rdfs:label "zucchini" .
