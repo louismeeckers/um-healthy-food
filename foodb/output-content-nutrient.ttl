@@ -54897,7 +54897,7 @@
   rdfs:label "Olive";
   foodbp:hasNutriScore "D";
   foodbp:hasNutriScoreValue "16.0";
-  foodbp:hasQuality "high_vitaminB5", "high_vitaminEAlpha", "high_vitaminK1";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminK1";
   schema:identifier 121;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -55134,7 +55134,7 @@
   rdfs:label "Peach";
   foodbp:hasNutriScore "B";
   foodbp:hasNutriScoreValue "2.0";
-  foodbp:hasQuality "high_vitaminB5", "high_vitaminB8", "high_vitaminEAlpha";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminB8";
   schema:identifier 149;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fruits> .
 
@@ -55322,7 +55322,7 @@
   rdfs:label "Garden tomato";
   foodbp:hasNutriScore "A";
   foodbp:hasNutriScoreValue "-2.0";
-  foodbp:hasQuality "high_potassium", "high_vitaminB5", "high_vitaminB8", "high_vitaminEAlpha";
+  foodbp:hasQuality "high_potassium", "high_vitaminB5", "high_vitaminB8";
   schema:identifier 171;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Vegetables> .
 
@@ -55666,7 +55666,7 @@
   foodbp:hasNutriScore "C";
   foodbp:hasNutriScoreValue "8.0";
   foodbp:hasQuality "high_phosphorus", "high_vitaminB1", "high_vitaminB5", "high_vitaminB8",
-    "high_vitaminEAlpha", "high_vitaminEGamma";
+    "high_vitaminEGamma";
   schema:identifier 24;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Nuts> .
 
@@ -58053,7 +58053,7 @@
   rdfs:label "Shrimp";
   foodbp:hasNutriScore "B";
   foodbp:hasNutriScoreValue "2.0";
-  foodbp:hasQuality "high_vitaminB5", "high_vitaminB8", "high_vitaminEAlpha";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminB8";
   schema:identifier 546;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Aquatic%20foods> .
 
@@ -59230,8 +59230,7 @@
   foodbp:hasNutriScore "E";
   foodbp:hasNutriScoreValue "23.0";
   foodbp:hasQuality "high_calcium", "high_iron", "high_phosphorus", "high_vitaminB2",
-    "high_vitaminB3", "high_vitaminB5", "high_vitaminB6", "high_vitaminB8", "high_vitaminEAlpha",
-    "high_vitaminK1";
+    "high_vitaminB3", "high_vitaminB5", "high_vitaminB6", "high_vitaminB8", "high_vitaminK1";
   schema:identifier 690;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Baby%20foods> .
 
@@ -60747,7 +60746,7 @@
   rdfs:label "Margarine-like spread";
   foodbp:hasNutriScore "C";
   foodbp:hasNutriScoreValue "3.0";
-  foodbp:hasQuality "high_vitaminB5", "high_vitaminEAlpha", "high_vitaminEGamma", "high_vitaminK1";
+  foodbp:hasQuality "high_vitaminB5", "high_vitaminEGamma", "high_vitaminK1";
   schema:identifier 873;
   wiki:P361 <https://foodb.ca/foods/foodGroup/Fats%20and%20oils> .
 
