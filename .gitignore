@@ -14,3 +14,7 @@ openfoodfact/statements.nt
 openfoodfact/statements.tsv
 
 foodb/original_data/content.csv
+
+usda/ingredients-usda.ttl
+usda/usda_nutriscores.csv
+usda/usda.rdf
