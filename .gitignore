@@ -17,4 +17,5 @@ foodb/original_data/content.csv
 
 usda/ingredients-usda.ttl
 usda/usda_nutriscores.csv
+usda/usda_tags_minerals.csv
 usda/usda.rdf
